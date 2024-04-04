@@ -1,0 +1,8 @@
+# Ignore local envoronment file
+.env
+
+# Ignore the local environment folder
+kgvenv/
+
+## Ignore Large sqlite files
+./notebooks/docs/**
