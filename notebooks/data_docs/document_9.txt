@@ -1,0 +1,95 @@
+[['The intense international exchange produced several cosmopolitan
+humanist scholars, including Francisco de Holanda, Andr  de Resende,
+and Dami o de G is, a friend of Erasmus who wrote with rare
+independence on the reign of King Manuel I. Diogo and Andr  de Gouveia
+made relevant teaching reforms via France. Foreign news and products
+in the Portuguese factory in Antwerp attracted the interest of Thomas
+More[138] and Albrecht D rer to the wider world.[139] There, profits
+and know-how helped nurture the Dutch Renaissance and Golden Age,
+especially after the arrival of the wealthy cultured Jewish community
+expelled from Portugal.\n'], ['The Renaissance (UK: /r ne s ns/ r
+n-AY-s nss, US: / r n s ns/   REN- -sahnss)[1][2][a] is a period in
+history and a cultural movement marking the transition from the Middle
+Ages to modernity, covering the 15th and 16th centuries and
+characterized by an effort to revive and surpass the ideas and
+achievements of classical antiquity; it was associated with great
+social change in most fields and disciplines, including art,
+architecture, politics, literature, exploration and science. It began
+in the Republic of Florence, then spread to the rest of Italy and
+later throughout Europe. The term rinascita ("rebirth") first appeared
+in Lives of the Artists (c.\u20091550) by Giorgio Vasari, while the
+corresponding French word renaissance was adopted into English as the
+term for this period during the 1830s.[4][b]\n'], ['The rediscovery of
+ancient texts and the invention of the printing press in about 1440
+democratized learning and allowed a faster propagation of more widely
+distributed ideas. In the first period of the Italian Renaissance,
+humanists favored the study of humanities over natural philosophy or
+applied mathematics, and their reverence for classical sources further
+enshrined the Aristotelian and Ptolemaic views of the universe.
+Writing around 1450, Nicholas Cusanus anticipated the heliocentric
+worldview of Copernicus, but in a philosophical fashion.\n'],
+['Another important development was in the process for discovery, the
+scientific method,[77] focusing on empirical evidence and the
+importance of mathematics, while discarding much of Aristotelian
+science. Early and influential proponents of these ideas included
+Copernicus, Galileo, and Francis Bacon.[78][79] The new scientific
+method led to great contributions in the fields of astronomy, physics,
+biology, and anatomy.[h][80]\n'], ['In the late-20th century, avant-
+garde academics labelled American singer Madonna, as the
+"personification of the postmodern",[52] with Christian writer Graham
+Cray saying that "Madonna is perhaps the most visible example of what
+is called post-modernism",[53] and Martin Amis described her as
+"perhaps the most postmodern personage on the planet".[53] She was
+also suggested by assistant professor Olivier S cardin of Utrecht
+University to epitomise postmodernism.[54]\n'], ['Criticisms of
+postmodernism are intellectually diverse. Since postmodernism
+criticizes both conservative and modernist values as well as
+universalist concepts such as objective reality, morality, truth,
+reason, and social progress, critics of postmodernism often defend
+such concepts from various angles.\n'], ["At an early stage of the
+pandemic, the World Health Organization reported estimates of IFR
+between 0.3% and 1%.[355][356] On 2\xa0July, The WHO's chief scientist
+reported that the average IFR estimate presented at a two-day WHO
+expert forum was about 0.6%.[357][358] In August, the WHO found that
+studies incorporating data from broad serology testing in Europe
+showed IFR estimates converging at approximately 0.5 1%.[359] Firm
+lower limits of IFRs have been established in a number of locations
+such as New York City and Bergamo in Italy since the IFR cannot be
+less than the population fatality rate. (After sufficient time
+however, people can get reinfected).[360] As of 10 July, in New York
+City, with a population of 8.4\xa0million, 23,377 individuals (18,758
+confirmed and 4,619 probable) have died with COVID 19 (0.3% of the
+population).[361] Antibody testing in New York City suggested an IFR
+of  0.9%,[362] and  1.4%.[363] In Bergamo province, 0.6% of the
+population has died.[364] In September 2020, the U.S. Centers for
+Disease Control and Prevention (CDC) reported preliminary estimates of
+age-specific IFRs for public health planning purposes.[365]\n"],
+['Most critical respiratory comorbidities according to the US Centers
+for Disease Control and Prevention (CDC), are: moderate or severe
+asthma, pre-existing COPD, pulmonary fibrosis, cystic fibrosis.[390]
+Evidence stemming from meta-analysis of several smaller research
+papers also suggests that smoking can be associated with worse
+outcomes.[391][392] When someone with existing respiratory problems is
+infected with COVID 19, they might be at greater risk for severe
+symptoms.[393] COVID 19 also poses a greater risk to people who misuse
+opioids and amphetamines, insofar as their drug use may have caused
+lung damage.[394]\n'], ['After the initial outbreak of COVID 19,
+misinformation and disinformation regarding the origin, scale,
+prevention, treatment, and other aspects of the disease rapidly spread
+online.[463][464][465]\n'], ['One common symptom, loss of smell,
+results from infection of the support cells of the olfactory
+epithelium, with subsequent damage to the olfactory neurons.[124] The
+involvement of both the central and peripheral nervous system in COVID
+19 has been reported in many medical publications.[125] It is clear
+that many people with COVID-19 exhibit neurological or mental health
+issues. The virus is not detected in the central nervous system (CNS)
+of the majority of COVID-19 patients with neurological issues.
+However, SARS-CoV-2 has been detected at low levels in the brains of
+those who have died from COVID 19, but these results need to be
+confirmed.[126] While virus has been detected in cerebrospinal fluid
+of autopsies, the exact mechanism by which it invades the CNS remains
+unclear and may first involve invasion of peripheral nerves given the
+low levels of ACE2 in the brain.[127][128][129] The virus may also
+enter the bloodstream from the lungs and cross the blood brain barrier
+to gain access to the CNS, possibly within an infected white blood
+cell.[126]\n']]

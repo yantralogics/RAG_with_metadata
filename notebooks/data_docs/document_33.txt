@@ -1,0 +1,99 @@
+[['As a cultural movement, the Renaissance encompassed innovative
+flowering of Latin and vernacular literatures, beginning with the
+14th-century resurgence of learning based on classical sources, which
+contemporaries credited to Petrarch; the development of linear
+perspective and other techniques of rendering a more natural reality
+in painting; and gradual but widespread educational reform. In
+politics, the Renaissance contributed to the development of the
+customs and conventions of diplomacy, and in science to an increased
+reliance on observation and inductive reasoning. Although the
+Renaissance saw revolutions in many intellectual and social scientific
+pursuits, as well as the introduction of modern banking and the field
+of accounting,[5] it is perhaps best known for its artistic
+developments and the contributions of such polymaths as Leonardo da
+Vinci and Michelangelo, who inspired the term "Renaissance
+man".[6][7]\n'], ['The many thousands of SARS-CoV-2 variants are
+grouped into either clades or lineages.[105][106] The WHO, in
+collaboration with partners, expert networks, national authorities,
+institutions and researchers, have established nomenclature systems
+for naming and tracking SARS-CoV-2 genetic lineages by GISAID,
+Nextstrain and Pango. The expert group convened by the WHO recommended
+the labelling of variants using letters of the Greek alphabet, for
+example, Alpha, Beta, Delta, and Gamma, giving the justification that
+they "will be easier and more practical to discussed by non-scientific
+audiences".[107] Nextstrain divides the variants into five clades
+(19A, 19B, 20A, 20B, and 20C), while GISAID divides them into seven
+(L, O, V, S, G, GH, and GR).[108] The Pango tool groups variants into
+lineages, with many circulating lineages being classed under the B.1
+lineage.[106][109]\n'], ['Renaissance art marks a cultural rebirth at
+the close of the Middle Ages and rise of the Modern world. One of the
+distinguishing features of Renaissance art was its development of
+highly realistic linear perspective. Giotto di Bondone (1267 1337) is
+credited with first treating a painting as a window into space, but it
+was not until the demonstrations of architect Filippo Brunelleschi
+(1377 1446) and the subsequent writings of Leon Battista Alberti (1404
+1472) that perspective was formalized as an artistic
+technique.[63]\n'], ['The Renaissance was certainly underway before
+Lorenzo de\' Medici came to power   indeed, before the Medici family
+itself achieved hegemony in Florentine society. Some historians have
+postulated that Florence was the birthplace of the Renaissance as a
+result of luck, i.e., because "Great Men" were born there by
+chance:[55] Leonardo, Botticelli and Michelangelo were all born in
+Tuscany. Arguing that such chance seems improbable, other historians
+have contended that these "Great Men" were only able to rise to
+prominence because of the prevailing cultural conditions at the
+time.[56]\n'], ['The CDC states that avoiding crowded indoor spaces
+reduces the risk of COVID-19 infection.[226] When indoors, increasing
+the rate of air change, decreasing recirculation of air and increasing
+the use of outdoor air can reduce transmission.[226][227] The WHO
+recommends ventilation and air filtration in public spaces to help
+clear out infectious aerosols.[228][229][230]\n'], ['The art historian
+Erwin Panofsky observed of this resistance to the concept of
+"Renaissance":\n'], ['Rapid accumulation of knowledge, which has
+characterized the development of science since the 17th century, had
+never occurred before that time. The new kind of scientific activity
+emerged only in a few countries of Western Europe, and it was
+restricted to that small area for about two hundred years. (Since the
+19th century, scientific knowledge has been assimilated by the rest of
+the world).'], ['The CDC says that in most situations, cleaning
+surfaces with soap or detergent, not disinfecting, is enough to reduce
+risk of transmission.[250][251] The CDC recommends that if a COVID 19
+case is suspected or confirmed at a facility such as an office or day
+care, all areas such as offices, bathrooms, common areas, shared
+electronic equipment like tablets, touch screens, keyboards, remote
+controls, and ATMs used by the ill persons should be disinfected.[252]
+Surfaces may be decontaminated with 62 71 per cent ethanol, 50 100 per
+cent isopropanol, 0.1 per cent sodium hypochlorite, 0.5 per cent
+hydrogen peroxide, 0.2 7.5 per cent povidone-iodine, or 50 200 ppm
+hypochlorous acid. Other solutions, such as benzalkonium chloride and
+chlorhexidine gluconate, are less effective. Ultraviolet germicidal
+irradiation may also be used,[228] although popular devices require 5
+10\xa0min exposure and may deteriorate some materials over time.[253]
+A datasheet comprising the authorised substances to disinfection in
+the food industry (including suspension or surface tested, kind of
+surface, use dilution, disinfectant and inoculum volumes) can be seen
+in the supplementary material of.[243]\n'], ['The first COVID 19
+vaccine was granted regulatory approval on 2\xa0December 2020 by the
+UK medicines regulator MHRA.[195] It was evaluated for emergency use
+authorisation (EUA) status by the US FDA, and in several other
+countries.[196] Initially, the US National Institutes of Health
+guidelines do not recommend any medication for prevention of COVID 19,
+before or after exposure to the SARS-CoV-2 virus, outside the setting
+of a clinical trial.[197][70] Without a vaccine, other prophylactic
+measures, or effective treatments, a key part of managing COVID 19 is
+trying to decrease and delay the epidemic peak, known as "flattening
+the curve".[198] This is done by slowing the infection rate to
+decrease the risk of health services being overwhelmed, allowing for
+better treatment of active cases, and delaying additional cases until
+effective treatments or a vaccine become available.[198][199]\n'],
+['RT-PCR testing of untreated wastewater samples from Brazil and Italy
+have suggested detection of SARS-CoV-2 as early as November and
+December 2019, respectively, but the methods of such sewage studies
+have not been optimised, many have not been peer-reviewed, details are
+often missing, and there is a risk of false positives due to
+contamination or if only one gene target is detected.[458] A September
+2020 review journal article said, "The possibility that the COVID 19
+infection had already spread to Europe at the end of last year is now
+indicated by abundant, even if partially circumstantial, evidence",
+including pneumonia case numbers and radiology in France and Italy in
+November and December.[459]\n']]

@@ -1,0 +1,90 @@
+[['Critics argue that postmodernism promotes obscurantism, abandons
+Enlightenment rationalism and scientific rigor, and contributes little
+to analytical or empirical knowledge.[12]\n'], ["Those diagnosed with
+COVID 19 or who believe they may be infected are advised by the CDC to
+stay home except to get medical care, call ahead before visiting a
+healthcare provider, wear a face mask before entering the healthcare
+provider's office and when in any room or vehicle with another person,
+cover coughs and sneezes with a tissue, regularly wash hands with soap
+and water and avoid sharing personal household items.[193][194]\n"],
+['The SARS-CoV-2 virus can infect a wide range of cells and systems of
+the body. COVID 19 is most known for affecting the upper respiratory
+tract (sinuses, nose, and throat) and the lower respiratory tract
+(windpipe and lungs).[119] The lungs are the organs most affected by
+COVID 19 because the virus accesses host cells via the receptor for
+the enzyme angiotensin-converting enzyme 2 (ACE2), which is most
+abundant on the surface of type II alveolar cells of the lungs.[120]
+The virus uses a special surface glycoprotein called a "spike" to
+connect to the ACE2 receptor and enter the host cell.[121]\n'],
+['Their fifth album, Living Things, is also an electronic-heavy album,
+but includes other influences, resulting in a harder sound by
+comparison.[299][300] The band returned to a heavier sound compared to
+their last three albums on The Hunting Party, which was described as
+an alternative metal,[301][302][303] nu metal,[304] hard
+rock,[301][305] rap rock,[306] and rap metal album.[307] Their seventh
+album, One More Light, was described as pop,[308][309] pop
+rock[271][310] and electropop.[311]\n'], ['The first confirmed human
+infections were in Wuhan. A study of the first 41 cases of confirmed
+COVID 19, published in January 2020 in The Lancet, reported the
+earliest date of onset of symptoms as 1\xa0December
+2019.[425][426][427] Official publications from the WHO reported the
+earliest onset of symptoms as 8\xa0December 2019.[428] Human-to-human
+transmission was confirmed by the WHO and Chinese authorities by 20
+January 2020.[429][430] According to official Chinese sources, these
+were mostly linked to the Huanan Seafood Wholesale Market, which also
+sold live animals.[431] In May 2020, George Gao, the director of the
+CDC, said animal samples collected from the seafood market had tested
+negative for the virus, indicating that the market was the site of an
+early superspreading event, but that it was not the site of the
+initial outbreak.[432] Traces of the virus have been found in
+wastewater samples that were collected in Milan and Turin, Italy, on
+18 December 2019.[433]\n'], ['During the Renaissance, extending from
+1450 to 1650,[81] every continent was visited and mostly mapped by
+Europeans, except the south polar continent now known as Antarctica.
+This development is depicted in the large world map Nova Totius
+Terrarum Orbis Tabula made by the Dutch cartographer Joan Blaeu in
+1648 to commemorate the Peace of Westphalia.\n'], ['As of
+December\xa02021[update], there are five dominant variants of SARS-
+CoV-2 spreading among global populations: the Alpha variant (B.1.1.7,
+formerly called the UK variant), first found in London and Kent, the
+Beta variant (B.1.351, formerly called the South Africa variant), the
+Gamma variant (P.1, formerly called the Brazil variant), the Delta
+variant (B.1.617.2, formerly called the India variant),[114] and the
+Omicron variant (B.1.1.529), which had spread to 57 countries as of 7
+December.[115][116]\n'], ['A December 2020 systematic review and meta-
+analysis estimated that population IFR during the first wave of the
+pandemic was about 0.5% to 1% in many locations (including France,
+Netherlands, New Zealand, and Portugal), 1% to 2% in other locations
+(Australia, England, Lithuania, and Spain), and exceeded 2% in
+Italy.[353] That study also found that most of these differences in
+IFR reflected corresponding differences in the age composition of the
+population and age-specific infection rates; in particular, the
+metaregression estimate of IFR is very low for children and younger
+adults (e.g., 0.002% at age 10 and 0.01% at age 25) but increases
+progressively to 0.4% at age 55, 1.4% at age 65, 4.6% at age 75, and
+15% at age 85.[353] These results were also highlighted in a December
+2020 report issued by the WHO.[354]\n'], ['The Renaissance (UK: /r ne
+s ns/ r n-AY-s nss, US: / r n s ns/   REN- -sahnss)[1][2][a] is a
+period in history and a cultural movement marking the transition from
+the Middle Ages to modernity, covering the 15th and 16th centuries and
+characterized by an effort to revive and surpass the ideas and
+achievements of classical antiquity; it was associated with great
+social change in most fields and disciplines, including art,
+architecture, politics, literature, exploration and science. It began
+in the Republic of Florence, then spread to the rest of Italy and
+later throughout Europe. The term rinascita ("rebirth") first appeared
+in Lives of the Artists (c.\u20091550) by Giorgio Vasari, while the
+corresponding French word renaissance was adopted into English as the
+term for this period during the 1830s.[4][b]\n'], ['The use of passive
+antibodies to treat people with active COVID 19 is also being studied.
+This involves the production of convalescent serum, which consists of
+the liquid portion of the blood from people who recovered from the
+infection and contains antibodies specific to this virus, which is
+then administered to active patients.[523] This strategy was tried for
+SARS with inconclusive results.[523] An updated Cochrane review in May
+2023 found high certainty evidence that, for the treatment of people
+with moderate to severe COVID 19, convalescent plasma did not reduce
+mortality or bring about symptom improvement.[524] There continues to
+be uncertainty about the safety of convalescent plasma administration
+to people with COVID 19 and differing outcomes measured in different
+studies limits their use in determining efficacy.[524]\n']]

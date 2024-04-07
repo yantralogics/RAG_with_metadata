@@ -1,0 +1,91 @@
+[['The transmission of the virus is carried out through virus-laden
+fluid particles, or droplets, which are created in the respiratory
+tract, and they are expelled by the mouth and the nose. There are
+three types of transmission:  droplet  and  contact , which are
+associated with large droplets, and  airborne , which is associated
+with small droplets.[85] If the droplets are above a certain critical
+size, they settle faster than they evaporate, and therefore they
+contaminate surfaces surrounding them.[85] Droplets that are below a
+certain critical size, evaporate faster than they settle; due to that
+fact, they form nuclei that remain airborne for a long period of time
+over extensive distances.[85]\n'], ['In community and healthcare
+settings, the use of face masks is intended as source control to limit
+transmission of the virus and for personal protection to prevent
+infection.[217] Properly worn masks both limit the respiratory
+droplets and aerosols spread by infected individuals and help protect
+healthy individuals from infection.[218][219]\n'], ["The Renaissance
+arrived in the Iberian peninsula through the Mediterranean possessions
+of the Aragonese Crown and the city of Valencia. Many early Spanish
+Renaissance writers come from the Crown of Aragon, including Ausi s
+March and Joanot Martorell. In the Crown of Castile, the early
+Renaissance was heavily influenced by the Italian humanism, starting
+with writers and poets such as the Marquis of Santillana, who
+introduced the new Italian poetry to Spain in the early 15th century.
+Other writers, such as Jorge Manrique, Fernando de Rojas, Juan del
+Encina, Juan Bosc n Almog ver, and Garcilaso de la Vega, kept a close
+resemblance to the Italian canon. Miguel de Cervantes's masterpiece
+Don Quixote is credited as the first Western novel. Renaissance
+humanism flourished in the early 16th century, with influential
+writers such as philosopher Juan Luis Vives, grammarian Antonio de
+Nebrija and natural historian Pedro de Mex a.\n"], ['Postmodern
+thinkers frequently describe knowledge claims and value systems as
+contingent or socially-conditioned, describing them as products of
+political, historical, or cultural discourses[29] and hierarchies.[4]
+Accordingly, postmodern thought is broadly characterized by tendencies
+to self-referentiality, epistemological and moral relativism,
+pluralism, and irreverence.[4] Postmodernism is often associated with
+schools of thought such as deconstruction and post-structuralism.[4]
+Postmodernism relies on critical theory, which considers the effects
+of ideology, society, and history on culture.[30] Postmodernism and
+critical theory commonly criticize universalist ideas of objective
+reality, morality, truth, human nature, reason, language, and social
+progress.[4]\n'], ['Modelling research has been conducted with several
+objectives, including predictions of the dynamics of
+transmission,[482] diagnosis and prognosis of infection,[483]
+estimation of the impact of interventions,[484][485] or allocation of
+resources.[486] Modelling studies are mostly based on compartmental
+models in epidemiology,[487] estimating the number of infected people
+over time under given conditions. Several other types of models have
+been developed and used during the COVID 19 pandemic including
+computational fluid dynamics models to study the flow physics of COVID
+19,[488] retrofits of crowd movement models to study occupant
+exposure,[489] mobility-data based models to investigate
+transmission,[490] or the use of macroeconomic models to assess the
+economic impact of the pandemic.[491]\n'], ['The risks of cognitive
+deficit, dementia, psychotic disorders, and epilepsy or seizures
+persists at an increased level two years after infection.[331]\n'],
+['A cytokine storm can be a complication in the later stages of severe
+COVID 19. A cytokine storm is a potentially deadly immune reaction
+where a large amount of pro-inflammatory cytokines and chemokines are
+released too quickly. A cytokine storm can lead to ARDS and multiple
+organ failure.[513] Data collected from Jin Yin-tan Hospital in Wuhan,
+China indicates that patients who had more severe responses to COVID
+19 had greater amounts of pro-inflammatory cytokines and chemokines in
+their system than patients who had milder responses. These high levels
+of pro-inflammatory cytokines and chemokines indicate presence of a
+cytokine storm.[514]\n'], ['Renaissance art marks a cultural rebirth
+at the close of the Middle Ages and rise of the Modern world. One of
+the distinguishing features of Renaissance art was its development of
+highly realistic linear perspective. Giotto di Bondone (1267 1337) is
+credited with first treating a painting as a window into space, but it
+was not until the demonstrations of architect Filippo Brunelleschi
+(1377 1446) and the subsequent writings of Leon Battista Alberti (1404
+1472) that perspective was formalized as an artistic
+technique.[63]\n'], ['Preventive measures to reduce the chances of
+infection include getting vaccinated, staying at home, wearing a mask
+in public, avoiding crowded places, keeping distance from others,
+ventilating indoor spaces, managing potential exposure durations,[190]
+washing hands with soap and water often and for at least twenty
+seconds, practising good respiratory hygiene, and avoiding touching
+the eyes, nose, or mouth with unwashed hands.[191][192]\n'], ['Linkin
+Park is among both the best-selling bands of the 21st century and the
+world\'s best-selling music artists, having sold over 100 million
+records worldwide.[5] They have won two Grammy Awards, six American
+Music Awards, two Billboard Music Awards, four MTV Video Music Awards,
+10 MTV Europe Music Awards, and three World Music Awards. In 2003,
+MTV2 named Linkin Park the sixth-greatest band of the music video era
+and the third-best of the new millennium. Billboard ranked Linkin Park
+No. 19 on the Best Artists of the Decade list. In 2012, the band was
+voted as the greatest artist of the 2000s in a Bracket Madness poll on
+VH1. In 2014, the band was declared as "The Biggest Rock Band in the
+World Right Now" by Kerrang!.\n']]
