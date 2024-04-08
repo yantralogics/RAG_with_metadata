@@ -1,77 +1,84 @@
-[['Shinoda designed two T-shirts, in which the proceeds would go to
-Music for Relief to help the victims of the 2011 T hoku earthquake and
-tsunami disasters.[244][245] Music for Relief released Download to
-Donate: Tsunami Relief Japan, another compilation of songs, in which
-the proceeds would go to Save the Children.[246] The band released the
-song titled as "Issho Ni", meaning "we\'re in this together", on March
-22, 2011, via Download to Donate: Tsunami Relief Japan.[247]\n'],
-['Although SARS-CoV-2 has a tropism for ACE2-expressing epithelial
-cells of the respiratory tract, people with severe COVID 19 have
-symptoms of systemic hyperinflammation. Clinical laboratory findings
-of elevated IL 2, IL 7, IL 6, granulocyte-macrophage colony-
-stimulating factor (GM CSF), interferon gamma-induced protein\xa010
-(IP 10), monocyte chemoattractant protein\xa01 (MCP1), macrophage
-inflammatory protein 1 alpha (MIP 1 alpha), and tumour necrosis factor
-(TNF ) indicative of cytokine release syndrome (CRS) suggest an
-underlying immunopathology.[139]\n'], ['The first confirmed human
-infections were in Wuhan. A study of the first 41 cases of confirmed
-COVID 19, published in January 2020 in The Lancet, reported the
-earliest date of onset of symptoms as 1\xa0December
-2019.[425][426][427] Official publications from the WHO reported the
-earliest onset of symptoms as 8\xa0December 2019.[428] Human-to-human
-transmission was confirmed by the WHO and Chinese authorities by 20
-January 2020.[429][430] According to official Chinese sources, these
-were mostly linked to the Huanan Seafood Wholesale Market, which also
-sold live animals.[431] In May 2020, George Gao, the director of the
-CDC, said animal samples collected from the seafood market had tested
-negative for the virus, indicating that the market was the site of an
-early superspreading event, but that it was not the site of the
-initial outbreak.[432] Traces of the virus have been found in
-wastewater samples that were collected in Milan and Turin, Italy, on
-18 December 2019.[433]\n'], ['After spending a considerable time
-searching for Wakefield\'s replacement, Xero recruited Arizona
-vocalist Chester Bennington, who was recommended by Jeff Blue in March
-1999.[12][13] Bennington, formerly of a post-grunge band Grey Daze,
-became a standout among applicants because of the dynamic in his
-singing style.[6] The band then agreed on changing their name from
-Xero to Hybrid Theory; the newborn vocal chemistry between Shinoda and
-Bennington helped revive the band, inciting them to work on new
-material.[6][14] Additionally, the band recruited bassist Kyle
-Christner to temporarily fill in for Farrell.[15] In May 1999, the
-band released a self-titled extended play, which they circulated
-across internet chat-rooms and forums with the help of an online
-"street team".[16] In October 1999, Christner was replaced by Scott
-Koziol and Ian Hornbeck, whom along with Delson, provided bass tracks
-for the band\'s recordings.[15][17]\n'], ["The new ideals of humanism,
-although more secular in some aspects, developed against a Christian
-backdrop, especially in the Northern Renaissance. Much, if not most,
-of the new art was commissioned by or in dedication to the Church.[25]
-However, the Renaissance had a profound effect on contemporary
-theology, particularly in the way people perceived the relationship
-between man and God.[25] Many of the period's foremost theologians
-were followers of the humanist method, including Erasmus, Huldrych
-Zwingli, Thomas More, Martin Luther, and John Calvin.\n"], ["Many of
-the group's song lyrics deal with alienation, introversion and
-personal struggle and suffering.[316]\n"], ['In late 2019, the WHO
-assigned emergency ICD-10 disease codes U07.1 for deaths from lab-
-confirmed SARS-CoV-2 infection and U07.2 for deaths from clinically or
-epidemiologically diagnosed COVID 19 without lab-confirmed SARS-CoV-2
-infection.[184]\n'], ['The English Renaissance is different from the
-Italian Renaissance in several ways. The dominant art forms of the
-English Renaissance were literature and music, which had a rich
-flowering.[92] Visual arts in the English Renaissance were much less
-significant than in the Italian Renaissance. The English Renaissance
-period in art began far later than the Italian, which had moved into
-Mannerism by the 1530s.[93]\n'], ['A Thousand Suns was released on
-September 14.[90][97] The album\'s first single, "The Catalyst", was
-released on August 2.[98][99] The band promoted their new album by
-launching a concert tour, which started on October 2010.[100] Other
-singles from the album include, "Waiting for the End",[101][102]
-"Burning in the Skies",[103] and "Iridescent".[104] Furthermore, a
-documentary about the album\'s production, titled Meeting of A
-Thousand Suns, was available.[105] On August 31, 2010, it was
-announced that the band would perform "The Catalyst" live for the
-first time at the 2010 MTV Video Music Awards on September 12,
-2010.[106] The venue of the debut live performance of the single was
-Griffith Observatory, an location used in Hollywood
-movies.[107][108][109]\n']]
+'A key metric in gauging the severity of COVID 19 is the infection
+fatality rate (IFR), also referred to as the infection fatality ratio
+or infection fatality risk. This metric is calculated by dividing the
+total number of deaths from the disease by the total number of
+infected individuals; hence, in contrast to the CFR, the IFR
+incorporates asymptomatic and undiagnosed infections as well as
+reported cases.\n', 'A suitable environment had developed to question
+classical scientific doctrine. The discovery in 1492 of the New World
+by Christopher Columbus challenged the classical worldview. The works
+of Ptolemy (in geography) and Galen (in medicine) were found to not
+always match everyday observations. As the Reformation and Counter-
+Reformation clashed, the Northern Renaissance showed a decisive shift
+in focus from Aristotelean natural philosophy to chemistry and the
+biological sciences (botany, anatomy, and medicine). The willingness
+to question previously held truths and search for new answers resulted
+in a period of major scientific advancements.\n', 'COVID-19 is mainly
+transmitted when people breathe in air contaminated by
+droplets/aerosols and small airborne particles containing the virus.
+Infected people exhale those particles as they breathe, talk, cough,
+sneeze, or sing. Transmission is more likely the closer people are.
+However, infection can occur over longer distances, particularly
+indoors.\n', 'Lyotard defined philosophical postmodernism in The
+Postmodern Condition, writing: "Simplifying to the extreme, I define
+postmodern as incredulity towards metanarratives...."\u2009 where what
+he means by metanarrative (in French, grands r cits) is something like
+a unified, complete, universal, and epistemically certain story about
+everything that is. Against totalizing metanarratives, Lyotard and
+other postmodern philosophers argue that truth is always dependent
+upon historical and social context rather than being absolute and
+universal and that truth is always partial and "at issue" rather than
+being complete and certain.\n', 'Sociologist Rodney Stark, plays down
+the Renaissance in favor of the earlier innovations of the Italian
+city-states in the High Middle Ages, which married responsive
+government, Christianity and the birth of capitalism. This analysis
+argues that, whereas the great European states (France and Spain) were
+absolute monarchies, and others were under direct Church control, the
+independent city-republics of Italy took over the principles of
+capitalism invented on monastic estates and set off a vast
+unprecedented Commercial Revolution that preceded and financed the
+Renaissance.citation needed\n', 'Thorough hand hygiene after any cough
+or sneeze is required. The WHO also recommends that individuals wash
+hands often with soap and water for at least twenty seconds,
+especially after going to the toilet or when hands are visibly dirty,
+before eating and after blowing one\'s nose. When soap and water are
+not available, the CDC recommends using an alcohol-based hand
+sanitiser with at least 60% alcohol. For areas where commercial hand
+sanitisers are not readily available, the WHO provides two
+formulations for local production. In these formulations, the
+antimicrobial activity arises from ethanol or isopropanol. Hydrogen
+peroxide is used to help eliminate bacterial spores in the alcohol; it
+is "not an active substance for hand antisepsis". Glycerol is added as
+a humectant.\n', "In the revival of neoplatonism, Renaissance
+humanists did not reject Christianity; on the contrary, many of the
+Renaissance's greatest works were devoted to it, and the Church
+patronized many works of Renaissance art.citation needed But a subtle
+shift took place in the way that intellectuals approached religion
+that was reflected in many other areas of cultural
+life.better\xa0source\xa0needed In addition, many Greek Christian
+works, including the Greek New Testament, were brought back from
+Byzantium to Western Europe and engaged Western scholars for the first
+time since late antiquity. This new engagement with Greek Christian
+works, and particularly the return to the original Greek of the New
+Testament promoted by humanists Lorenzo Valla and Erasmus, helped pave
+the way for the Reformation.citation needed\n", "Linkin Park's
+influences include Limp Bizkit, Soundgarden, Alice in Chains, Pearl
+Jam, Stone Temple Pilots, Jane's Addiction, Nirvana, Red Hot Chili
+Peppers, Nine Inch Nails, Ministry, Skinny Puppy, Machines of Loving
+Grace, Metallica, Refused, Minor Threat, Fugazi, Descendents, Misfits,
+Beastie Boys, Run-DMC, A Tribe Called Quest, Rob Base and DJ E-Z Rock,
+N.W.A, Public Enemy, KRS-One, Boogie Down Productions, Led Zeppelin,
+Rage Against the Machine, and the Beatles.\n", 'The first COVID 19
+vaccine was granted regulatory approval on 2\xa0December 2020 by the
+UK medicines regulator MHRA. It was evaluated for emergency use
+authorisation (EUA) status by the US FDA, and in several other
+countries. Initially, the US National Institutes of Health guidelines
+do not recommend any medication for prevention of COVID 19, before or
+after exposure to the SARS-CoV-2 virus, outside the setting of a
+clinical trial. Without a vaccine, other prophylactic measures, or
+effective treatments, a key part of managing COVID 19 is trying to
+decrease and delay the epidemic peak, known as "flattening the curve".
+This is done by slowing the infection rate to decrease the risk of
+health services being overwhelmed, allowing for better treatment of
+active cases, and delaying additional cases until effective treatments
+or a vaccine become available.\n'

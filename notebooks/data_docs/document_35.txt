@@ -1,91 +1,79 @@
-[['In 1971, the American scholar Ihab Hassan published The
-Dismemberment of Orpheus: Toward a Postmodern Literature, an early
-work of literary criticism from a postmodern perspective that traces
-the development of what he calls "literature of silence" through
-Marquis de Sade, Franz Kafka, Ernest Hemingway, Samuel Beckett, and
-many others, including developments such as the Theatre of the Absurd
-and the nouveau roman.\n'], ['In September 2020, the WHO released
-updated guidance on using corticosteroids for COVID 19.[504][505] The
-WHO recommends systemic corticosteroids rather than no systemic
-corticosteroids for the treatment of people with severe and critical
-COVID 19 (strong recommendation, based on moderate certainty
-evidence).[504] The WHO suggests not to use corticosteroids in the
-treatment of people with non-severe COVID 19 (conditional
-recommendation, based on low certainty evidence).[504] The updated
-guidance was based on a meta-analysis of clinical trials of critically
-ill COVID 19 patients.[506][507]\n'], ['On January 28, 2018, Shinoda
-replied to a tweet from a fan inquiring about his future with Linkin
-Park, writing "I have every intention on continuing with LP, and the
-guys feel the same. We have a lot of rebuilding to do, and questions
-to answer, so it\'ll take time."[222] On March 29, however, Shinoda
-stated that he was uncertain of Linkin Park\'s future when being
-interviewed by Vulture.[223] On April 17, Linkin Park was nominated
-for three awards at the 2018 Billboard Music Awards, but did not win
-any of them.[224] The band was presented with The George and Ira
-Gershwin Award for Lifetime Musical Achievement at UCLA on May
-18.[225] On February 18, 2019, Shinoda said in an interview that the
-band is open to the idea of continuing though what form that takes has
-yet to be decided. Shinoda stated "I know the other guys, they love to
-be onstage, they love to be in a studio, and so to not do that would
-be like, I don\'t know, almost like unhealthy." When asked about the
-band\'s future minus Bennington, Shinoda stated, "It\'s not my goal to
-look for a new singer. If it does happen, it has to happen naturally.
-If we find someone that is a great person and good stylistic fit, I
-could see trying to do some stuff with somebody. I would never want to
-feel like we are replacing Chester."[226]\n'], ['Systemic inflammation
-results in vasodilation, allowing inflammatory lymphocytic and
-monocytic infiltration of the lung and the heart. In particular,
-pathogenic GM-CSF-secreting T\xa0cells were shown to correlate with
-the recruitment of inflammatory IL-6-secreting monocytes and severe
-lung pathology in people with COVID 19.[153] Lymphocytic infiltrates
-have also been reported at autopsy.[123]\n'], ['During the
-Renaissance, architects aimed to use columns, pilasters, and
-entablatures as an integrated system. The Roman orders types of
-columns are used: Tuscan and Composite. These can either be
-structural, supporting an arcade or architrave, or purely decorative,
-set against a wall in the form of pilasters. One of the first
-buildings to use pilasters as an integrated system was in the Old
-Sacristy (1421 1440) by Brunelleschi.[68] Arches, semi-circular or (in
-the Mannerist style) segmental, are often used in arcades, supported
-on piers or columns with capitals. There may be a section of
-entablature between the capital and the springing of the arch. Alberti
-was one of the first to use the arch on a monumental. Renaissance
-vaults do not have ribs; they are semi-circular or segmental and on a
-square plan, unlike the Gothic vault, which is frequently
-rectangular.\n'], ['Humans appear to be capable of spreading the virus
-to some other animals,[468][469] a type of disease transmission
-referred to as zooanthroponosis.[470][471]\n'], ['Available evidence
-suggests that the SARS-CoV-2 virus was originally harboured by bats,
-and spread to humans multiple times from infected wild animals at the
-Huanan Seafood Market in Wuhan in December 2019.[408][409] A minority
-of scientists and some members of the U.S intelligence community
-believe the virus may have been unintentionally leaked from a
-laboratory such as the Wuhan Institute of Virology.[414][415] The US
-intelligence community has mixed views on the issue,[416][417] but
-overall agrees with the scientific consensus that the virus was not
-developed as a biological weapon and is unlikely to have been
-genetically engineered.[418][419][420][421] There is no evidence SARS-
-CoV-2 existed in any laboratory prior to the
-pandemic.[422][423][424]\n'], ['Initially, postmodernism was a mode of
-discourse on literature and literary criticism, commenting on the
-nature of literary text, meaning, author and reader, writing, and
-reading.[31] Postmodernism developed in the mid- to late-twentieth
-century across many scholarly disciplines as a departure or rejection
-of modernism.[32][9][10] As a critical practice, postmodernism employs
-concepts such as hyperreality, simulacrum, trace, and difference, and
-rejects abstract principles in favor of direct experience. [citation
-needed]\n'], ['During the early stages of the outbreak, the number of
-cases doubled approximately every seven and a half days.[446] In early
-and mid-January 2020, the virus spread to other Chinese provinces,
-helped by the Chinese New Year migration and Wuhan being a transport
-hub and major rail interchange.[101] On 20 January, China reported
-nearly 140 new cases in one day, including two people in Beijing and
-one in Shenzhen.[447] Later official data shows 6,174 people had
-already developed symptoms by then,[370] and more may have been
-infected.[448] A report in The Lancet on 24 January indicated human
-transmission, strongly recommended personal protective equipment for
-health workers, and said testing for the virus was essential due to
-its "pandemic potential".[139][449] On 30 January, the WHO declared
-COVID-19 a Public Health Emergency of International Concern.[448] By
-this time, the outbreak spread by a factor of 100 to 200
-times.[450]\n']]
+'Well after the first artistic return to classicism had been
+exemplified in the sculpture of Nicola Pisano, Florentine painters led
+by Masaccio strove to portray the human form realistically, developing
+techniques to render perspective and light more naturally. Political
+philosophers, most famously Niccol  Machiavelli, sought to describe
+political life as it really was, that is to understand it rationally.
+A critical contribution to Italian Renaissance humanism, Giovanni Pico
+della Mirandola wrote De hominis dignitate (Oration on the Dignity of
+Man, 1486), a series of theses on philosophy, natural thought, faith,
+and magic defended against any opponent on the grounds of reason. In
+addition to studying classical Latin and Greek, Renaissance authors
+also began increasingly to use vernacular languages; combined with the
+introduction of the printing press, this allowed many more people
+access to books, especially the Bible.\n', "In 1533, a fourteen-year-
+old Caterina de' Medici (1519 1589), born in Florence to Lorenzo de'
+Medici, Duke of Urbino and Madeleine de la Tour d'Auvergne, married
+Henry II of France, second son of King Francis I and Queen Claude.
+Though she became famous and infamous for her role in France's
+religious wars, she made a direct contribution in bringing arts,
+sciences, and music (including the origins of ballet) to the French
+court from her native Florence.\n", "One theory that has been advanced
+is that the devastation in Florence caused by the Black Death, which
+hit Europe between 1348 and 1350, resulted in a shift in the world
+view of people in 14th century Italy. Italy was particularly badly hit
+by the plague, and it has been speculated that the resulting
+familiarity with death caused thinkers to dwell more on their lives on
+Earth, rather than on spirituality and the afterlife. It has also been
+argued that the Black Death prompted a new wave of piety, manifested
+in the sponsorship of religious works of art. However, this does not
+fully explain why the Renaissance occurred specifically in Italy in
+the 14th century. The Black Death was a pandemic that affected all of
+Europe in the ways described, not only Italy. The Renaissance's
+emergence in Italy was most likely the result of the complex
+interaction of the above factors.\n", 'Both Hybrid Theory and Meteora
+combine the alternative metal, nu metal, rap rock, rap metal, and
+alternative rock sound with influences and elements from hip hop, and
+electronica, utilizing programming and synthesizers. William Ruhlmann
+from AllMusic regarded it as "a Johnny-come-lately to an already
+overdone musical style," whereas Rolling Stone described their song
+"Breaking the Habit" as "risky, beautiful art".\n', ' Research
+conducted when Alpha was the dominant variant has suggested COVID-19
+may cause brain damage. Later research showed that all variants
+studied (including Omicron) killed brain cells, but the exact cells
+killed varied by variant. It is unknown if such damage is temporary or
+permanent. Observed individuals infected with COVID-19 (most with mild
+cases) experienced an additional 0.2% to 2% of brain tissue lost in
+regions of the brain connected to the sense of smell compared with
+uninfected individuals, and the overall effect on the brain was
+equivalent on average to at least one extra year of normal ageing;
+infected individuals also scored lower on several cognitive tests. All
+effects were more pronounced among older ages.\n', 'In Postmodernist
+Fiction (1987), Brian McHale details the shift from modernism to
+postmodernism, arguing that the former is characterized by an
+epistemological dominant and that postmodern works have developed out
+of modernism and are primarily concerned with questions of ontology.
+McHale\'s second book, Constructing Postmodernism (1992), provides
+readings of postmodern fiction and some contemporary writers who go
+under the label of cyberpunk. McHale\'s "What Was Postmodernism?"
+(2007) follows Raymond Federman\'s lead in now using the past tense
+when discussing postmodernism.\n', 'The COVID 19 vaccines are widely
+credited for their role in reducing the spread of COVID 19 and
+reducing the severity and death caused by COVID 19. According to a
+June 2022 study, COVID 19 vaccines prevented an additional 14.4 to
+19.8 million deaths in 185 countries and territories from 8 December
+2020 to 8 December 2021. Many countries implemented phased
+distribution plans that prioritized those at highest risk of
+complications, such as the elderly, and those at high risk of exposure
+and transmission, such as healthcare workers.\n', 'After being
+expelled from the body, coronaviruses can survive on surfaces for
+hours to days. If a person touches the dirty surface, they may deposit
+the virus at the eyes, nose, or mouth where it can enter the body and
+cause infection. Evidence indicates that contact with infected
+surfaces is not the main driver of COVID 19, leading to
+recommendations for optimised disinfection procedures to avoid issues
+such as the increase of antimicrobial resistance through the use of
+inappropriate cleaning products and processes. Deep cleaning and other
+surface sanitation has been criticised as hygiene theatre, giving a
+false sense of security against something primarily spread through the
+air.\n'

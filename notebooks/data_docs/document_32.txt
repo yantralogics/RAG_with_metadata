@@ -1,79 +1,59 @@
-[['The case fatality rate (CFR) reflects the number of deaths divided
-by the number of diagnosed cases within a given time interval. Based
-on Johns Hopkins University statistics, the global death-to-case ratio
-is 1.02% (6,881,955/676,609,955) as of 10 March 2023.[344] The number
-varies by region.[345][346]\n'], ['In 1949, the term was used to
-describe a dissatisfaction with the modernist architectural movement
-known as the International Style.[23] Postmodernism in architecture
-was initially marked by a re-emergence of surface ornament, reference
-to surrounding buildings in urban settings, historical reference in
-decorative forms (eclecticism), and non-orthogonal angles.[24]\n'],
-['Historian and political philosopher Quentin Skinner points out that
-Otto of Freising (c. 1114 1158), a German bishop visiting north Italy
-during the 12th century, noticed a widespread new form of political
-and social organization, observing that Italy appeared to have exited
-from feudalism so that its society was based on merchants and
-commerce. Linked to this was anti-monarchical thinking, represented in
-the famous early Renaissance fresco cycle The Allegory of Good and Bad
-Government by Ambrogio Lorenzetti (painted 1338 1340), whose strong
-message is about the virtues of fairness, justice, republicanism and
-good administration. Holding both Church and Empire at bay, these city
-republics were devoted to notions of liberty. Skinner reports that
-there were many defences of liberty such as the Matteo Palmieri (1406
-1475) celebration of Florentine genius not only in art, sculpture and
-architecture, but "the remarkable efflorescence of moral, social and
-political philosophy that occurred in Florence at the same
-time".[44]\n'], ['Most scientists believe the virus spilled into human
-populations through natural zoonosis, similar to the SARS-CoV-1 and
-MERS-CoV outbreaks, and consistent with other pandemics in human
-history.[408][409] According to the Intergovernmental Panel on Climate
-Change several social and environmental factors including climate
-change, natural ecosystem destruction and wildlife trade increased the
-likelihood of such zoonotic spillover.[410][411] One study made with
-the support of the European Union found climate change increased the
-likelihood of the pandemic by influencing distribution of bat
-species.[412][413]\n'], ['The Renaissance\'s intellectual basis was
-its version of humanism, derived from the concept of Roman humanitas
-and the rediscovery of classical Greek philosophy, such as that of
-Protagoras, who said that "man is the measure of all things". Early
-examples were the development of perspective in oil painting and the
-revived knowledge of how to make concrete. Although the invention of
-metal movable type sped the dissemination of ideas from the later 15th
-century, the changes of the Renaissance were not uniform across
-Europe: the first traces appear in Italy as early as the late 13th
-century, in particular with the writings of Dante and the paintings of
-Giotto.\n'], ['Some pets, especially cats and ferrets, can catch this
-virus from infected humans.[472][473] Symptoms in cats include
-respiratory (such as a cough) and digestive symptoms.[472] Cats can
-spread the virus to other cats, and may be able to spread the virus to
-humans, but cat-to-human transmission of SARS-CoV-2 has not been
-proven.[472][474] Compared to cats, dogs are less susceptible to this
-infection.[474] Behaviours which increase the risk of transmission
-include kissing, licking, and petting the animal.[474]\n'], ["By the
-15th century, writers, artists, and architects in Italy were well
-aware of the transformations that were taking place and were using
-phrases such as modi antichi (in the antique manner) or alle romana et
-alla antica (in the manner of the Romans and the ancients) to describe
-their work. In the 1330s Petrarch referred to pre-Christian times as
-antiqua (ancient) and to the Christian period as nova (new).[85] From
-Petrarch's Italian perspective, this new period (which included his
-own time) was an age of national eclipse.[85]\nLeonardo Bruni was the
-first to use tripartite periodization in his History of the Florentine
-People (1442).[86] Bruni's first two periods were based on those of
-Petrarch, but he added a third period because he believed that Italy
-was no longer in a state of decline. Flavio Biondo used a similar
-framework in Decades of History from the Deterioration of the Roman
-Empire (1439 1453).\n"], ['As is common with infections, there is a
-delay between the moment a person first becomes infected and the
-appearance of the first symptoms. The median delay for COVID-19 is
-four to five days[52] possibly being infectious on 1-4 of those
-days.[53] Most symptomatic people experience symptoms within two to
-seven days after exposure, and almost all will experience at least one
-symptom within 12 days.[52][54]\n'], ['A key metric in gauging the
-severity of COVID 19 is the infection fatality rate (IFR), also
-referred to as the infection fatality ratio or infection fatality
-risk.[349][350][351] This metric is calculated by dividing the total
-number of deaths from the disease by the total number of infected
-individuals; hence, in contrast to the CFR, the IFR incorporates
-asymptomatic and undiagnosed infections as well as reported
-cases.[352]\n']]
+'Following Meteora\'s success, the band worked on many side projects.
+Bennington appeared on DJ Lethal\'s "State of the Art" and other work
+with Dead by Sunrise, while Shinoda did work with Depeche Mode,
+creating the remix song "Enjoy the Silence 04". In 2004, the band
+began to work with Jay-Z to produce another remix album, titled
+Collision Course. The album, which featured intermixed lyrics and
+background tracks from both artists\' previous albums, debuted in
+November 2004. Shinoda also formed Fort Minor as a side project. With
+the aid of Jay-Z, Fort Minor released their debut album, The Rising
+Tied, to critical acclaim.\n', 'The development of perspective was
+part of a wider trend toward realism in the arts. Painters developed
+other techniques, studying light, shadow, and, famously in the case of
+Leonardo da Vinci, human anatomy. Underlying these changes in artistic
+method was a renewed desire to depict the beauty of nature and to
+unravel the axioms of aesthetics, with the works of Leonardo,
+Michelangelo and Raphael representing artistic pinnacles that were
+much imitated by other artists. Other notable artists include Sandro
+Botticelli, working for the Medici in Florence, Donatello, another
+Florentine, and Titian in Venice, among others.\n', 'Later Spanish
+Renaissance tended toward religious themes and mysticism, with poets
+such as Luis de Le n, Teresa of  vila, and John of the Cross, and
+treated issues related to the exploration of the New World, with
+chroniclers and writers such as Inca Garcilaso de la Vega and Bartolom
+de las Casas, giving rise to a body of work, now known as Spanish
+Renaissance literature. The late Renaissance in Spain produced artists
+such as El Greco and composers such as Tom s Luis de Victoria and
+Antonio de Cabez n.\n', 'Another common cause of death is
+complications related to the kidneys. Early reports show that up to
+30% of hospitalised patients both in China and in New York have
+experienced some injury to their kidneys, including some persons with
+no previous kidney problems.\n', "Many of the group's song lyrics deal
+with alienation, introversion and personal struggle and suffering.\n",
+'Science and art were intermingled in the early Renaissance, with
+polymath artists such as Leonardo da Vinci making observational
+drawings of anatomy and nature. Leonardo set up controlled experiments
+in water flow, medical dissection, and systematic study of movement
+and aerodynamics, and he devised principles of research method that
+led Fritjof Capra to classify him as the "father of modern science".g
+Other examples of Da Vinci\'s contribution during this period include
+machines designed to saw marbles and lift monoliths, and new
+discoveries in acoustics, botany, geology, anatomy, and mechanics.\n',
+'Complications may include pneumonia, acute respiratory distress
+syndrome (ARDS), multi-organ failure, septic shock, and death.
+Cardiovascular complications may include heart failure, arrhythmias
+(including atrial fibrillation), heart inflammation, and thrombosis,
+particularly venous thromboembolism. Approximately 20 30% of people
+who present with COVID 19 have elevated liver enzymes, reflecting
+liver injury.\n', "The unique political structures of Italy during the
+Late Middle Ages have led some to theorize that its unusual social
+climate allowed the emergence of a rare cultural efflorescence. Italy
+did not exist as a political entity in the early modern period.
+Instead, it was divided into smaller city-states and territories: the
+Neapolitans controlled the south, the Florentines and the Romans at
+the center, the Milanese and the Genoese to the north and west
+respectively, and the Venetians to the east. 15th-century Italy was
+one of the most urbanized areas in Europe. Many of its cities stood
+among the ruins of ancient Roman buildings; it seems likely that the
+classical nature of the Renaissance was linked to its origin in the
+Roman Empire's heartland.\n"

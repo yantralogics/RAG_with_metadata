@@ -1,73 +1,72 @@
-[['Another common cause of death is complications related to the
-kidneys.[143] Early reports show that up to 30% of hospitalised
-patients both in China and in New York have experienced some injury to
-their kidneys, including some persons with no previous kidney
-problems.[148]\n'], ['Some historians have begun to consider the word
-Renaissance to be unnecessarily loaded, implying an unambiguously
-positive rebirth from the supposedly more primitive "Dark Ages", the
-Middle Ages. Most political and economic historians now prefer to use
-the term "early modern" for this period (and a considerable period
-afterwards), a designation intended to highlight the period as a
-transitional one between the Middle Ages and the modern era.[149]
-Others such as Roger Osborne have come to consider the Italian
-Renaissance as a repository of the myths and ideals of western history
-in general, and instead of rebirth of ancient ideas as a period of
-great innovation.[150]\n'], ['Most critical respiratory comorbidities
-according to the US Centers for Disease Control and Prevention (CDC),
-are: moderate or severe asthma, pre-existing COPD, pulmonary fibrosis,
-cystic fibrosis.[390] Evidence stemming from meta-analysis of several
-smaller research papers also suggests that smoking can be associated
-with worse outcomes.[391][392] When someone with existing respiratory
-problems is infected with COVID 19, they might be at greater risk for
-severe symptoms.[393] COVID 19 also poses a greater risk to people who
-misuse opioids and amphetamines, insofar as their drug use may have
-caused lung damage.[394]\n'], ['Linkin Park combines elements of
-metal, industrial, punk, pop, electronic, hip hop.[250] More
-specifically, the band has been categorized as alternative rock, nu
-metal, rap rock, rap metal, alternative metal, electronic rock, pop
-rock, hard rock, and industrial rock.[note 1] Despite being considered
-nu metal, the band never considered themselves as such.[274]\n'],
-['\nPrior to the COVID 19 pandemic, an established body of knowledge
-existed about the structure and function of coronaviruses causing
-diseases like severe acute respiratory syndrome (SARS) and Middle East
-respiratory syndrome (MERS). This knowledge accelerated the
-development of various vaccine platforms in early 2020.[201] The
-initial focus of SARS-CoV-2 vaccines was on preventing symptomatic,
-often severe, illness.[202] In 2020, the first COVID 19 vaccines were
-developed and made available to the public through emergency
-authorizations[203] and conditional approvals.[204][205] Initially,
-most COVID 19 vaccines were two-dose vaccines, with the sole exception
-being the single-dose Janssen COVID 19 vaccine.[203] However, immunity
-from the vaccines has been found to wane over time, requiring people
-to get booster doses of the vaccine to maintain protection against
-COVID 19.[203]\n'], ['Tigers and lions in zoos have become infected as
-a result of contact with infected humans.[474] As expected, monkeys
-and great ape species such as orangutans can also be infected with the
-COVID 19 virus.[474]\n'], ['In the second half of the 15th century,
-the Renaissance spirit spread to Germany and the Low Countries, where
-the development of the printing press (ca. 1450) and Renaissance
-artists such as Albrecht D rer (1471 1528) predated the influence from
-Italy. In the early Protestant areas of the country humanism became
-closely linked to the turmoil of the Reformation, and the art and
-writing of the German Renaissance frequently reflected this
-dispute.[99] However, the Gothic style and medieval scholastic
-philosophy remained exclusively until the turn of the 16th century.
-Emperor Maximilian I of Habsburg (ruling 1493 1519) was the first
-truly Renaissance monarch of the Holy Roman Empire.\n'], ['After being
-expelled from the body, coronaviruses can survive on surfaces for
-hours to days. If a person touches the dirty surface, they may deposit
-the virus at the eyes, nose, or mouth where it can enter the body and
-cause infection.[239] Evidence indicates that contact with infected
-surfaces is not the main driver of COVID 19,[240][241][242] leading to
-recommendations for optimised disinfection procedures to avoid issues
-such as the increase of antimicrobial resistance through the use of
-inappropriate cleaning products and processes.[243][244] Deep cleaning
-and other surface sanitation has been criticised as hygiene theatre,
-giving a false sense of security against something primarily spread
-through the air.[245][246]\n'], ["In some sense, we may regard
-postmodernism, posthumanism, poststructuralism, etc., as being of the
-'cyborg age' of mind over body. Deconference was an exploration in
-post-cyborgism (i.e. what comes after the postcorporeal era), and thus
-explored issues of postpostmodernism, postpoststructuralism, and the
-like. To understand this transition from 'pomo' (cyborgism) to 'popo'
-(postcyborgism) we must first understand the cyborg era itself.[79]"]]
+'The virus can cause acute myocardial injury and chronic damage to the
+cardiovascular system. An acute cardiac injury was found in 12% of
+infected people admitted to the hospital in Wuhan, China, and is more
+frequent in severe disease. Rates of cardiovascular symptoms are high,
+owing to the systemic inflammatory response and immune system
+disorders during disease progression, but acute myocardial injuries
+may also be related to ACE2 receptors in the heart. ACE2 receptors are
+highly expressed in the heart and are involved in heart function.\n',
+'Transferring purified and concentrated antibodies produced by the
+immune systems of those who have recovered from COVID 19 to people who
+need them is being investigated as a non-vaccine method of passive
+immunisation. Viral neutralisation is the anticipated mechanism of
+action by which passive antibody therapy can mediate defence against
+SARS-CoV-2. The spike protein of SARS-CoV-2 is the primary target for
+neutralising antibodies. As of 8\xa0August 2020, eight neutralising
+antibodies targeting the spike protein of SARS-CoV-2 have entered
+clinical studies. It has been proposed that selection of broad-
+neutralising antibodies against SARS-CoV-2 and SARS-CoV might be
+useful for treating not only COVID 19 but also future SARS-related CoV
+infections. Other mechanisms, however, such as antibody-dependant
+cellular cytotoxicity or phagocytosis, may be possible. Other forms of
+passive antibody therapy, for example, using manufactured monoclonal
+antibodies, are in development.\n', 'The art historian Erwin Panofsky
+observed of this resistance to the concept of "Renaissance":\n', 'At
+least a third of the people who are infected with the virus do not
+develop noticeable symptoms at any point in time. These asymptomatic
+carriers tend not to get tested and can still spread the disease.
+Other infected people will develop symptoms later (called "pre-
+symptomatic") or have very mild symptoms and can also spread the
+virus.\n', 'Applied innovation extended to commerce. At the end of the
+15th century, Luca Pacioli published the first work on bookkeeping,
+making him the founder of accounting.\n', 'As of August 2021,
+reinfection with COVID 19 was possible but uncommon. The first case of
+reinfection was documented in August 2020. A systematic review found
+17 cases of confirmed reinfection in medical literature as of May
+2021. With the Omicron variant, as of 2022, reinfections have become
+common, albeit it is unclear how common. COVID-19 reinfections are
+thought to likely be less severe than primary infections, especially
+if one was previously infected by the same variant.additional
+citation(s) needed\n', 'The word has also been extended to other
+historical and cultural movements, such as the Carolingian Renaissance
+(8th and 9th centuries), Ottonian Renaissance (10th and 11th century),
+and the Renaissance of the 12th century.\n', 'The album\'s first
+single, "What I\'ve Done", was released on April 2, and premiered on
+MTV and Fuse within the same week. The single peaked at no. 7 on the
+Billboard Hot 100. The song is also used in soundtrack for the 2007
+action film, Transformers. Mike Shinoda was also featured on the
+Styles of Beyond song "Second to None", which was also included in the
+film. Later in the year, the band won the "Favorite Alternative
+Artist" in the American Music Awards. The band also saw success with
+the rest of the album\'s singles, "Bleed It Out", "Shadow of the Day",
+"Given Up", and "Leave Out All the Rest", which were released
+throughout 2007 and early 2008. The band also collaborated with Busta
+Rhymes on his single "We Made It", which was released on April 29.\n',
+'Well after the first artistic return to classicism had been
+exemplified in the sculpture of Nicola Pisano, Florentine painters led
+by Masaccio strove to portray the human form realistically, developing
+techniques to render perspective and light more naturally. Political
+philosophers, most famously Niccol  Machiavelli, sought to describe
+political life as it really was, that is to understand it rationally.
+A critical contribution to Italian Renaissance humanism, Giovanni Pico
+della Mirandola wrote De hominis dignitate (Oration on the Dignity of
+Man, 1486), a series of theses on philosophy, natural thought, faith,
+and magic defended against any opponent on the grounds of reason. In
+addition to studying classical Latin and Greek, Renaissance authors
+also began increasingly to use vernacular languages; combined with the
+introduction of the printing press, this allowed many more people
+access to books, especially the Bible.\n', 'Men with untreated
+hypogonadism were 2.4 times more likely than men with eugonadism to be
+hospitalised if they contracted COVID-19; Hypogonad men treated with
+testosterone were less likely to be hospitalised for COVID-19 than men
+who were not treated for hypogonadism.\n'

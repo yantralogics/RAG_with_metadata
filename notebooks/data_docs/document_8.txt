@@ -1,76 +1,82 @@
-[["Like structuralists, post-structuralists start from the assumption
-that people's identities, values, and economic conditions determine
-each other rather than having intrinsic properties that can be
-understood in isolation.[58] Structuralists explore how the subjects
-of their study might be described as a set of essential relationships,
-schematics, or mathematical symbols. Post-structuralism, by contrast,
-is characterized by new ways of thinking through structuralism,
-contrary to the original form.[59]\n"], ['In the late-20th century,
-avant-garde academics labelled American singer Madonna, as the
-"personification of the postmodern",[52] with Christian writer Graham
-Cray saying that "Madonna is perhaps the most visible example of what
-is called post-modernism",[53] and Martin Amis described her as
-"perhaps the most postmodern personage on the planet".[53] She was
-also suggested by assistant professor Olivier S cardin of Utrecht
-University to epitomise postmodernism.[54]\n'], ['It is also assumed
-that those that are immunocompromised are at higher risk of getting
-severely sick from SARS-CoV-2.[310] One research study that looked
-into the COVID 19 infections in hospitalised kidney transplant
-recipients found a mortality rate of 11%.[311]\n'], ['The transmission
-of the virus is carried out through virus-laden fluid particles, or
-droplets, which are created in the respiratory tract, and they are
-expelled by the mouth and the nose. There are three types of
-transmission:  droplet  and  contact , which are associated with large
-droplets, and  airborne , which is associated with small droplets.[85]
-If the droplets are above a certain critical size, they settle faster
-than they evaporate, and therefore they contaminate surfaces
-surrounding them.[85] Droplets that are below a certain critical size,
-evaporate faster than they settle; due to that fact, they form nuclei
-that remain airborne for a long period of time over extensive
-distances.[85]\n'], ['The SARS-CoV-2 virus can infect a wide range of
-cells and systems of the body. COVID 19 is most known for affecting
-the upper respiratory tract (sinuses, nose, and throat) and the lower
-respiratory tract (windpipe and lungs).[119] The lungs are the organs
-most affected by COVID 19 because the virus accesses host cells via
-the receptor for the enzyme angiotensin-converting enzyme 2 (ACE2),
-which is most abundant on the surface of type II alveolar cells of the
-lungs.[120] The virus uses a special surface glycoprotein called a
-"spike" to connect to the ACE2 receptor and enter the host
-cell.[121]\n'], ["After Italy, Hungary was the first European country
-where the Renaissance appeared.[100] The Renaissance style came
-directly from Italy during the Quattrocento (1400s) to Hungary first
-in the Central European region, thanks to the development of early
-Hungarian-Italian relationships   not only in dynastic connections,
-but also in cultural, humanistic and commercial relations\xa0  growing
-in strength from the 14th century. The relationship between Hungarian
-and Italian Gothic styles was a second reason\xa0  exaggerated
-breakthrough of walls is avoided, preferring clean and light
-structures. Large-scale building schemes provided ample and long term
-work for the artists, for example, the building of the Friss (New)
-Castle in Buda, the castles of Visegr d, Tata, and V rpalota. In
-Sigismund's court there were patrons such as Pipo Spano, a descendant
-of the Scolari family of Florence, who invited Manetto Ammanatini and
-Masolino da Pannicale to Hungary.[101]\n"], ['On April 26, the band
-released an app for the iPhone, iPod Touch, and iPad, a game called
-8-Bit Rebellion! It featured the band as playable characters, and a
-new song called "Blackbirds" which was unlockable by beating the game.
-The song was also later released as an iTunes bonus track on A
-Thousand Suns.[96]\n'], ['The virus also affects gastrointestinal
-organs as ACE2 is abundantly expressed in the glandular cells of
-gastric, duodenal and rectal epithelium[135] as well as endothelial
-cells and enterocytes of the small intestine.[136]\n'], ['Many groups
-have created COVID 19 datasets that include imagery such as the
-Italian Radiological Society which has compiled an international
-online database of imaging findings for confirmed cases.[183] Due to
-overlap with other infections such as adenovirus, imaging without
-confirmation by rRT-PCR is of limited specificity in identifying COVID
-19.[182] A large study in China compared chest CT results to PCR and
-demonstrated that though imaging is less specific for the infection,
-it is faster and more sensitive.[166]\n'], ['The movement to
-reintegrate the regular study of Greek literary, historical,
-oratorical, and theological texts back into the Western European
-curriculum is usually dated to the 1396 invitation from Coluccio
-Salutati to the Byzantine diplomat and scholar Manuel Chrysoloras (c.
-1355 1415) to teach Greek in Florence.[41] This legacy was continued
-by a number of expatriate Greek scholars, from Basilios Bessarion to
-Leo Allatius.\n']]
+'According to the US Centers for Disease Control and Prevention,
+pregnant women are at increased risk of becoming seriously ill from
+COVID 19. This is because pregnant women with COVID 19 appear to be
+more likely to develop respiratory and obstetric complications that
+can lead to miscarriage, premature delivery and intrauterine growth
+restriction.\n', 'On January 19, 2010, Linkin Park released a new song
+titled "Not Alone" as part of a compilation from Music for Relief
+called Download to Donate for Haiti in support of the Haiti Earthquake
+crisis. On February 10, 2010, Linkin Park released the official music
+video for the song on their homepage. The single itself was released
+on October 21, 2011.\n', 'Linkin Park collaborated with Steve Aoki on
+the song "Darker Than Blood" for Aoki\'s album Neon Future II, which
+was released in May 2015. The first preview of the song came during
+Aoki\'s performance on February 28, 2015, at the Aragon Ballroom in
+Chicago, Illinois. The song was debuted on Twitch on April 13 and
+released on April 14.\n', 'Episcopal priest and conservative cultural
+commentator J. M. Thompson, in an 1914 article, uses the term to
+describe changes in attitudes and beliefs in the critique of religion,
+writing, "the raison d\' tre of Post-Modernism is to escape from the
+double-mindedness of modernism by being thorough in its criticism by
+extending it to religion as well as theology, to Catholic feeling as
+well as to Catholic tradition." In 1926, Bernard Iddings Bell,
+president of St. Stephen\'s College (now Bard College) and also an
+Episcopal priest, published Postmodernism and Other Essays, which
+marks the first use of the term to describe an historical period
+following modernity. The essay criticizes lingering socio-cultural
+norms, attitudes, and practices of the Age of Enlightenment. It is
+also critical of a purported cultural shift away from traditional
+Christian beliefs.\n', 'Sociologist Rodney Stark, plays down the
+Renaissance in favor of the earlier innovations of the Italian city-
+states in the High Middle Ages, which married responsive government,
+Christianity and the birth of capitalism. This analysis argues that,
+whereas the great European states (France and Spain) were absolute
+monarchies, and others were under direct Church control, the
+independent city-republics of Italy took over the principles of
+capitalism invented on monastic estates and set off a vast
+unprecedented Commercial Revolution that preceded and financed the
+Renaissance.citation needed\n', 'Formed in 1996, Linkin Park rose to
+international fame with their debut studio album, Hybrid Theory
+(2000), which became certified Diamond by the Recording Industry
+Association of America (RIAA). Released during the peak of the nu
+metal scene, the album\'s singles\' heavy airplay on MTV led the
+singles "One Step Closer", "Crawling", and "In the End" all to chart
+highly on the US Mainstream Rock chart. The lattermost also crossed
+over to the #2 spot on the nation\'s Billboard Hot 100. Their second
+album, Meteora (2003), continued the band\'s success. The band
+explored experimental sounds on their third album, Minutes to Midnight
+(2007). By the end of the decade, Linkin Park was among the most
+successful and popular rock acts.\n', 'In September 2020, the WHO
+released updated guidance on using corticosteroids for COVID 19. The
+WHO recommends systemic corticosteroids rather than no systemic
+corticosteroids for the treatment of people with severe and critical
+COVID 19 (strong recommendation, based on moderate certainty
+evidence). The WHO suggests not to use corticosteroids in the
+treatment of people with non-severe COVID 19 (conditional
+recommendation, based on low certainty evidence). The updated guidance
+was based on a meta-analysis of clinical trials of critically ill
+COVID 19 patients.\n', 'A cytokine storm can be a complication in the
+later stages of severe COVID 19. A cytokine storm is a potentially
+deadly immune reaction where a large amount of pro-inflammatory
+cytokines and chemokines are released too quickly. A cytokine storm
+can lead to ARDS and multiple organ failure. Data collected from Jin
+Yin-tan Hospital in Wuhan, China indicates that patients who had more
+severe responses to COVID 19 had greater amounts of pro-inflammatory
+cytokines and chemokines in their system than patients who had milder
+responses. These high levels of pro-inflammatory cytokines and
+chemokines indicate presence of a cytokine storm.\n', 'On November 9,
+2014, MTV Europe named Linkin Park the "Best Rock" act of 2014 at
+their annual music awards ceremony. The band won the \'Best Rock
+Band\' and \'Best Live Act\' titles of 2014 on Loudwire\'s Music
+Awards. Revolver ranked The Hunting Party as the fourth best album of
+2014. In an interview with AltWire on May 4, Shinoda reflected on The
+Hunting Party and commented on Linkin Park\'s future, stating; "I\'m
+really happy with the reaction from The Hunting Party, and I think
+we\'re ready to move somewhere new on the next album, which will be
+coming in 2016".\n', 'Minks, which are in the same family as ferrets,
+have been infected. Minks may be asymptomatic, and can also spread the
+virus to humans. Multiple countries have identified infected animals
+in mink farms. Denmark, a major producer of mink pelts, ordered the
+slaughter of all minks over fears of viral mutations, following an
+outbreak referred to as Cluster 5. A vaccine for mink and other
+animals is being researched.\n'

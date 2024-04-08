@@ -1,102 +1,89 @@
-[["It has long been a matter of debate why the Renaissance began in
-Florence, and not elsewhere in Italy. Scholars have noted several
-features unique to Florentine cultural life that may have caused such
-a cultural movement. Many have emphasized the role played by the
-Medici, a banking family and later ducal ruling house, in patronizing
-and stimulating the arts. Lorenzo de' Medici (1449 1492) was the
-catalyst for an enormous amount of arts patronage, encouraging his
-countrymen to commission works from the leading artists of Florence,
-including Leonardo da Vinci, Sandro Botticelli, and Michelangelo
-Buonarroti.[14] Works by Neri di Bicci, Botticelli, Leonardo, and
-Filippino Lippi had been commissioned additionally by the Convent of
-San Donato in Scopeto in Florence.[54]\n"], ['The rediscovery of
-ancient texts and the invention of the printing press in about 1440
-democratized learning and allowed a faster propagation of more widely
-distributed ideas. In the first period of the Italian Renaissance,
-humanists favored the study of humanities over natural philosophy or
-applied mathematics, and their reverence for classical sources further
-enshrined the Aristotelian and Ptolemaic views of the universe.
-Writing around 1450, Nicholas Cusanus anticipated the heliocentric
-worldview of Copernicus, but in a philosophical fashion.\n'], ['On
-November 9, 2014, MTV Europe named Linkin Park the "Best Rock" act of
-2014 at their annual music awards ceremony.[178] The band won the
-\'Best Rock Band\' and \'Best Live Act\' titles of 2014 on Loudwire\'s
-Music Awards.[179] Revolver ranked The Hunting Party as the fourth
-best album of 2014.[180] In an interview with AltWire on May 4,
-Shinoda reflected on The Hunting Party and commented on Linkin Park\'s
-future, stating; "I\'m really happy with the reaction from The Hunting
-Party, and I think we\'re ready to move somewhere new on the next
-album, which will be coming [in 2016]".[181]\n'], ['In April 2012, the
-band announced that Living Things would be the title of their fifth
-album and called it a "return to form".[129][130] Shinoda stated that
-they chose the title Living Things because the album is more about
-people, personal interactions, and it is far more personal than their
-previous albums.[131] The album\'s lead single, "Burn It Down", was
-released on April 16.[126] The band promoted the album on the 2012
-edition of the Honda Civic Tour, with co-headliners
-Incubus.[132][133][134] Other singles from the album include "Lost in
-the Echo",[135] "Powerless",[136] and Castle of Glass".[137] The band
-performed "Burn It Down" at 2012 Billboard Music Awards.[138][139] On
-May 25, the band released the music video for "Burn It Down"[132] and
-debuted "Lies Greed Misery", another song from Living Things.[140]
-"Powerless", the twelfth and closing track of the album, was featured
-in the closing credits of the film Abraham Lincoln: Vampire
-Hunter.[136]\n'], ['Social distancing (also known as physical
-distancing) includes infection control actions intended to slow the
-spread of the disease by minimising close contact between individuals.
-Methods include quarantines; travel restrictions; and the closing of
-schools, workplaces, stadiums, theatres, or shopping centres.
-Individuals may apply social distancing methods by staying at home,
-limiting travel, avoiding crowded areas, using no-contact greetings,
-and physically distancing themselves from others.[236]\n'], ['The
-symptoms of COVID-19 are variable depending on the type of variant
-contracted, ranging from mild symptoms to a potentially fatal
-illness.[37][38] Common symptoms include coughing, fever, loss of
-smell (anosmia) and taste (ageusia), with less common ones including
-headaches, nasal congestion and runny nose, muscle pain, sore throat,
-diarrhea, eye irritation,[39] and toes swelling or turning purple,[40]
-and in moderate to severe cases, breathing difficulties.[41] People
-with the COVID-19 infection may have different symptoms, and their
-symptoms may change over time. Three common clusters of symptoms have
-been identified: one respiratory symptom cluster with cough, sputum,
-shortness of breath, and fever; a musculoskeletal symptom cluster with
-muscle and joint pain, headache, and fatigue; and a cluster of
-digestive symptoms with abdominal pain, vomiting, and diarrhea.[41] In
-people without prior ear, nose, or throat disorders, loss of taste
-combined with loss of smell is associated with COVID-19 and is
-reported in as many as 88% of symptomatic cases.[42][43][44]\n'],
-['Men with untreated hypogonadism were 2.4 times more likely than men
-with eugonadism to be hospitalised if they contracted COVID-19;
-Hypogonad men treated with testosterone were less likely to be
-hospitalised for COVID-19 than men who were not treated for
-hypogonadism.[312]\n'], ['A high incidence of thrombosis and venous
-thromboembolism occurs in people transferred to intensive care units
-with COVID 19 infections, and may be related to poor prognosis.[142]
-Blood vessel dysfunction and clot formation (as suggested by high
-D-dimer levels caused by blood clots) may have a significant role in
-mortality, incidents of clots leading to pulmonary embolisms, and
-ischaemic events (strokes) within the brain found as complications
-leading to death in people infected with COVID 19.[143] Infection may
-initiate a chain of vasoconstrictive responses within the body,
-including pulmonary vasoconstriction   a possible mechanism in which
-oxygenation decreases during pneumonia.[143] Furthermore, damage of
-arterioles and capillaries was found in brain tissue samples of people
-who died from COVID 19.[144][145]\n'], ['Jorge Luis Borges\' (1939)
-short story "Pierre Menard, Author of the Quixote", is often
-considered as predicting postmodernism[44] and is a paragon of the
-ultimate parody.[45] Samuel Beckett is also considered an important
-precursor and influence. Novelists who are commonly connected with
-postmodern literature include Vladimir Nabokov, William Gaddis,
-Umberto Eco, Italo Calvino, Pier Vittorio Tondelli, John Hawkes,
-William S. Burroughs, Kurt Vonnegut, John Barth, Robert Coover, Jean
-Rhys, Donald Barthelme, E. L. Doctorow, Richard Kalich, Jerzy Kosi
-ski, Don DeLillo, Thomas Pynchon[46] (Pynchon\'s work has also been
-described as high modern[47]), Ishmael Reed, Kathy Acker, Ana Lydia
-Vega, J chym Topol and Paul Auster.\n'], ['COVID 19 case fatality
-rates are higher among men than women in most countries. However, in a
-few countries like India, Nepal, Vietnam, and Slovenia the fatality
-cases are higher in women than men.[343] Globally, men are more likely
-to be admitted to the ICU and more likely to die.[367][368] One meta-
-analysis found that globally, men were more likely to get COVID 19
-than women; there were approximately 55 men and 45 women per 100
-infections (CI: 51.43 56.58).[369]\n']]
+"Erasmus was arguably the Netherlands' best known humanist and
+Catholic intellectual during the Renaissance.\n", 'Jonathan Kramer has
+written that avant-garde musical compositions (which some would
+consider modernist rather than postmodernist) "defy more than seduce
+the listener, and they extend by potentially unsettling means the very
+idea of what music is." In the 1960s, composers such as Terry Riley,
+Henryk G recki, Bradley Joseph, John Adams, Steve Reich, Philip Glass,
+Michael Nyman, and Lou Harrison reacted to the perceived elitism and
+dissonant sound of atonal academic modernism by producing music with
+simple textures and relatively consonant harmonies, whilst others,
+most notably John Cage challenged the prevailing narratives of beauty
+and objectivity common to Modernism.\n', "The unique political
+structures of Italy during the Late Middle Ages have led some to
+theorize that its unusual social climate allowed the emergence of a
+rare cultural efflorescence. Italy did not exist as a political entity
+in the early modern period. Instead, it was divided into smaller city-
+states and territories: the Neapolitans controlled the south, the
+Florentines and the Romans at the center, the Milanese and the Genoese
+to the north and west respectively, and the Venetians to the east.
+15th-century Italy was one of the most urbanized areas in Europe. Many
+of its cities stood among the ruins of ancient Roman buildings; it
+seems likely that the classical nature of the Renaissance was linked
+to its origin in the Roman Empire's heartland.\n", 'Johan Huizinga
+(1872 1945) acknowledged the existence of the Renaissance but
+questioned whether it was a positive change. In his book The Autumn of
+the Middle Ages, he argued that the Renaissance was a period of
+decline from the High Middle Ages, destroying much that was important.
+The Medieval Latin language, for instance, had evolved greatly from
+the classical period and was still a living language used in the
+church and elsewhere. The Renaissance obsession with classical purity
+halted its further evolution and saw Latin revert to its classical
+form. This view is however somewhat contested by recent studies.
+Robert S. Lopez has contended that it was a period of deep economic
+recession. Meanwhile, George Sarton and Lynn Thorndike have both
+argued that scientific progress was perhaps less original than has
+traditionally been supposed. Finally, Joan Kelly argued that the
+Renaissance led to greater gender dichotomy, lessening the agency
+women had had during the Middle Ages.\n', 'The New York Times\' Jon
+Caramanica commented Linkin Park "brought the collision of hard rock
+and hip-hop to its commercial and aesthetic peak" at the beginning of
+the 2000s. Several rock and non-rock artists have cited Linkin Park as
+an influence, including Of Mice & Men, One OK Rock, Kutless, My Heart
+to Fear, Ill Ni o, Bishop Nehru, From Ashes to New, Bring Me the
+Horizon, Spyair, Hardy, I Prevail, Crossfaith, AJ Tracey, the
+Chainsmokers, The Devil Wears Prada, Steve Aoki, Blackbear, Halsey,
+Amber Liu, Machine Gun Kelly, Billie Eilish, Starset, and the
+Weeknd.\n', 'Coronavirus disease 2019 (COVID-19) is a contagious
+disease caused by the coronavirus SARS-CoV-2. The first known case was
+identified in Wuhan, China, in December 2019. The disease quickly
+spread worldwide, resulting in the ongoing COVID-19 pandemic.\n',
+'Exhaled respiratory particles can build-up within enclosed spaces
+with inadequate ventilation. The risk of COVID 19 infection increases
+especially in spaces where people engage in physical exertion or raise
+their voice (e.g., exercising, shouting, singing) as this increases
+exhalation of respiratory droplets. Prolonged exposure to these
+conditions, typically more than 15 minutes, leads to higher risk of
+infection.\n', 'Chest CT scans may be helpful to diagnose COVID 19 in
+individuals with a high clinical suspicion of infection but are not
+recommended for routine screening. Bilateral multilobar ground-glass
+opacities with a peripheral, asymmetric, and posterior distribution
+are common in early infection. Subpleural dominance, crazy paving
+(lobular septal thickening with variable alveolar filling), and
+consolidation may appear as the disease progresses. Characteristic
+imaging features on chest radiographs and computed tomography (CT) of
+people who are symptomatic include asymmetric peripheral ground-glass
+opacities without pleural effusions.\n', "The Renaissance arrived in
+the Iberian peninsula through the Mediterranean possessions of the
+Aragonese Crown and the city of Valencia. Many early Spanish
+Renaissance writers come from the Crown of Aragon, including Ausi s
+March and Joanot Martorell. In the Crown of Castile, the early
+Renaissance was heavily influenced by the Italian humanism, starting
+with writers and poets such as the Marquis of Santillana, who
+introduced the new Italian poetry to Spain in the early 15th century.
+Other writers, such as Jorge Manrique, Fernando de Rojas, Juan del
+Encina, Juan Bosc n Almog ver, and Garcilaso de la Vega, kept a close
+resemblance to the Italian canon. Miguel de Cervantes's masterpiece
+Don Quixote is credited as the first Western novel. Renaissance
+humanism flourished in the early 16th century, with influential
+writers such as philosopher Juan Luis Vives, grammarian Antonio de
+Nebrija and natural historian Pedro de Mex a.\n", 'Churchmen such as
+Erasmus and Luther proposed reform to the Church, often based on
+humanist textual criticism of the New Testament. In October 1517,
+Luther published the Ninety-five Theses, challenging papal authority
+and criticizing its perceived corruption, particularly with regard to
+instances of sold indulgences.i The 95 Theses led to the Reformation,
+a break with the Roman Catholic Church that previously claimed
+hegemony in Western Europe. Humanism and the Renaissance therefore
+played a direct role in sparking the Reformation, as well as in many
+other contemporaneous religious debates and conflicts.\n'

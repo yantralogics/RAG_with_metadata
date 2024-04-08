@@ -1,76 +1,98 @@
-[['In addition to the standard periodization, proponents of a "long
-Renaissance" may put its beginning in the 14th century and its end in
-the 17th century.[c]\n'], ['Biological factors (immune response) and
-the general behaviour (habits) can strongly determine the consequences
-of COVID 19.[343] Most of those who die of COVID 19 have pre-existing
-(underlying) conditions, including hypertension, diabetes
-mellitus,[378] and cardiovascular disease.[388] According to March
-data from the United States, 89% of those hospitalised had preexisting
-conditions.[389] The Italian Istituto Superiore di Sanit  reported
-that out of 8.8% of deaths where medical charts were available, 96.1%
-of people had at least one comorbidity with the average person having
-3.4 diseases.[288] According to this report the most common
-comorbidities are hypertension (66% of deaths), type\xa02 diabetes
-(29.8% of deaths), ischaemic heart disease (27.6% of deaths), atrial
-fibrillation (23.1% of deaths) and chronic renal failure (20.2% of
-deaths).\n'], ["Renaissance humanists such as Poggio Bracciolini
-sought out in Europe's monastic libraries the Latin literary,
-historical, and oratorical texts of antiquity, while the fall of
-Constantinople (1453) generated a wave of  migr  Greek scholars
-bringing precious manuscripts in ancient Greek, many of which had
-fallen into obscurity in the West. It was in their new focus on
-literary and historical texts that Renaissance scholars differed so
-markedly from the medieval scholars of the Renaissance of the 12th
-century, who had focused on studying Greek and Arabic works of natural
-sciences, philosophy, and mathematics, rather than on such cultural
-texts.[citation needed]\n"], ['More recently metamodernism, post-
-postmodernism and the "death of postmodernism" have been widely
-debated: in 2007 Andrew Hoberek noted in his introduction to a special
-issue of the journal Twentieth-Century Literature titled "After
-Postmodernism" that "declarations of postmodernism\'s demise have
-become a critical commonplace". A small group of critics has put forth
-a range of theories that aim to describe culture or society in the
-alleged aftermath of postmodernism, most notably Raoul Eshelman
-(performatism), Gilles Lipovetsky (hypermodernity), Nicolas Bourriaud
-(altermodern), and Alan Kirby (digimodernism, formerly called pseudo-
-modernism). None of these new theories or labels have so far gained
-very widespread acceptance. Sociocultural anthropologist Nina M ller-
-Schwarze offers neostructuralism as a possible direction.[80] The
-exhibition Postmodernism   Style and Subversion 1970 1990 at the
-Victoria and Albert Museum (London, 24 September 2011   15 January
-2012) was billed as the first show to document postmodernism as a
-historical movement.\n'], ['The many thousands of SARS-CoV-2 variants
-are grouped into either clades or lineages.[105][106] The WHO, in
-collaboration with partners, expert networks, national authorities,
-institutions and researchers, have established nomenclature systems
-for naming and tracking SARS-CoV-2 genetic lineages by GISAID,
-Nextstrain and Pango. The expert group convened by the WHO recommended
-the labelling of variants using letters of the Greek alphabet, for
-example, Alpha, Beta, Delta, and Gamma, giving the justification that
-they "will be easier and more practical to discussed by non-scientific
-audiences".[107] Nextstrain divides the variants into five clades
-(19A, 19B, 20A, 20B, and 20C), while GISAID divides them into seven
-(L, O, V, S, G, GH, and GR).[108] The Pango tool groups variants into
-lineages, with many circulating lineages being classed under the B.1
-lineage.[106][109]\n'], ['COVID 19 transmission occurs when infectious
-particles are breathed in or come into contact with the eyes, nose, or
-mouth. The risk is highest when people are in close proximity, but
-small airborne particles containing the virus can remain suspended in
-the air and travel over longer distances, particularly indoors.
-Transmission can also occur when people touch their eyes, nose or
-mouth after touching surfaces or objects that have been contaminated
-by the virus. People remain contagious for up to 20 days and can
-spread the virus even if they do not develop symptoms.[17]\n'],
-['Human angiotensin converting enzyme 2 (hACE2) is the host factor
-that SARS-CoV-2 virus targets causing COVID 19. Theoretically, the
-usage of angiotensin receptor blockers (ARB) and ACE inhibitors
-upregulating ACE2 expression might increase morbidity with COVID 19,
-though animal data suggest some potential protective effect of ARB;
-however no clinical studies have proven susceptibility or outcomes.
-Until further data is available, guidelines and recommendations for
-hypertensive patients remain.[156]\n'], ['Other important figures of
-Hungarian Renaissance include B lint Balassi (poet), Sebesty n Tin di
-Lantos (poet), B lint Bakfark (composer and lutenist), and Master MS
-(fresco painter).\n'], ['COVID 19 is caused by infection with a strain
-of coronavirus known as "severe acute respiratory syndrome coronavirus
-2" (SARS-CoV-2).[79]\n']]
+'Several laboratories and companies have developed serological tests,
+which detect antibodies produced by the body in response to infection.
+Several have been evaluated by Public Health England and approved for
+use in the UK.\n', 'On August 10, 2013, the band collaborated with
+American musician Steve Aoki to record the song "A Light That Never
+Comes" for Linkin Park\'s online puzzle-action game LP Recharge (short
+for Linkin Park Recharge), which was launched on Facebook and the
+official LP Recharge website on September 12, 2013. The song would
+later be included on a remix album, entitled Recharged, which was
+released on October 29, 2013. Similar to Reanimation, the album
+features remixes of ten of the songs from Living Things, with
+contributions from other artists, such as Pusha T, Datsik, KillSonik,
+Bun B, Money Mark, and Rick Rubin. The band also worked on the
+soundtrack for the film Mall, which was directed by Joe Hahn.\n',
+'Multiple viral and host factors affect the pathogenesis of the virus.
+The S-protein, otherwise known as the spike protein, is the viral
+component that attaches to the host receptor via the ACE2 receptors.
+It includes two subunits: S1 and S2. S1 determines the virus-host
+range and cellular tropism via the receptor-binding domain. S2
+mediates the membrane fusion of the virus to its potential cell host
+via the H1 and HR2, which are heptad repeat regions. Studies have
+shown that S1 domain induced IgG and IgA antibody levels at a much
+higher capacity. It is the focus spike proteins expression that are
+involved in many effective COVID 19 vaccines.\n', 'After spending a
+considerable time searching for Wakefield\'s replacement, Xero
+recruited Arizona vocalist Chester Bennington, who was recommended by
+Jeff Blue in March 1999. Bennington, formerly of a post-grunge band
+Grey Daze, became a standout among applicants because of the dynamic
+in his singing style. The band then agreed on changing their name from
+Xero to Hybrid Theory; the newborn vocal chemistry between Shinoda and
+Bennington helped revive the band, inciting them to work on new
+material. Additionally, the band recruited bassist Kyle Christner to
+temporarily fill in for Farrell. In May 1999, the band released a
+self-titled extended play, which they circulated across internet chat-
+rooms and forums with the help of an online "street team". In October
+1999, Christner was replaced by Scott Koziol and Ian Hornbeck, whom
+along with Delson, provided bass tracks for the band\'s
+recordings.\n', "Following the success of Hybrid Theory and
+Reanimation, Linkin Park spent a significant amount of time touring
+around the United States. The band members began to work on new
+material amidst their saturated schedule, spending a sliver of their
+free time in their tour bus's studio. The band officially announced
+the production of a new studio album in December 2002, revealing their
+new work was inspired by the rocky region of Meteora in Greece, where
+numerous monasteries have been built on top of the rocks. Meteora
+features a mixture of the band's nu metal and rap metal style with
+newer innovative effects, including the induction of a shakuhachi (a
+Japanese flute made of bamboo) and other instruments. Linkin Park's
+second album debuted on March 25, 2003, and instantly earned worldwide
+recognition, peaking at No. 1 on the Rock & Metal Albums Chart.\n", 'A
+cytokine storm can be a complication in the later stages of severe
+COVID 19. A cytokine storm is a potentially deadly immune reaction
+where a large amount of pro-inflammatory cytokines and chemokines are
+released too quickly. A cytokine storm can lead to ARDS and multiple
+organ failure. Data collected from Jin Yin-tan Hospital in Wuhan,
+China indicates that patients who had more severe responses to COVID
+19 had greater amounts of pro-inflammatory cytokines and chemokines in
+their system than patients who had milder responses. These high levels
+of pro-inflammatory cytokines and chemokines indicate presence of a
+cytokine storm.\n', 'Both Hybrid Theory and Meteora combine the
+alternative metal, nu metal, rap rock, rap metal, and alternative rock
+sound with influences and elements from hip hop, and electronica,
+utilizing programming and synthesizers. William Ruhlmann from AllMusic
+regarded it as "a Johnny-come-lately to an already overdone musical
+style," whereas Rolling Stone described their song "Breaking the
+Habit" as "risky, beautiful art".\n', 'Other periods of cultural
+rebirth have also been termed "renaissances", such as the Bengal
+Renaissance, Tamil Renaissance, Nepal Bhasa renaissance, al-Nahda or
+the Harlem Renaissance. The term can also be used in cinema. In
+animation, the Disney Renaissance is a period that spanned the years
+from 1989 to 1999 which saw the studio return to the level of quality
+not witnessed since their Golden Age of Animation. The San Francisco
+Renaissance was a vibrant period of exploratory poetry and fiction
+writing in that city in the mid-20th century.\n', 'Further lines of
+criticism are that postmodernist discourse is characterized by
+obscurantism, that the term itself is vaguely defined, and that
+postmodernism lacks a clear epistemology. The linguist and philosopher
+Noam Chomsky accused postmodernist intellectuals of failing to
+meaningfully answer questions such as "what are the principles of
+their theories, on what evidence are they based, what do they explain
+that wasn\'t already obvious, etc.?" Media theorist Dick Hebdige
+criticized the vagueness of the term, enumerating a long list of
+otherwise unrelated concepts that people have designated as
+postmodernism, from "the d cor of a room" or "a \'scratch\' video", to
+fear of nuclear armageddon and the "implosion of meaning", and stated
+that anything that could signify all of those things was "a buzzword".
+The analytic philosopher Daniel Dennett criticized its impact on the
+humanities, characterizing it as producing "\'conversations\' in which
+nobody is wrong and nothing can be confirmed, only asserted with
+whatever style you can muster."\n', 'Living Things was released on
+June 26 in the United States. The album sold over 223,000 copies
+during its debut week, ranking No. 1 on the US Albums Charts. Linkin
+Park\'s single "Castle of Glass" was nominated for \'Best Song in a
+Game\' at the 2012 Spike Video Game Awards. The band also performed at
+the award ceremony on December 7, but lost the award to "Cities" by
+Beck. Linkin Park also played at the Soundwave music festival in
+Australia, where they shared the stage with Metallica, Paramore,
+Blink-182, and Sum 41.\n'

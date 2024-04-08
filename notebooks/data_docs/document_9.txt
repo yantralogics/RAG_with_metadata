@@ -1,95 +1,94 @@
-[['The intense international exchange produced several cosmopolitan
-humanist scholars, including Francisco de Holanda, Andr  de Resende,
-and Dami o de G is, a friend of Erasmus who wrote with rare
-independence on the reign of King Manuel I. Diogo and Andr  de Gouveia
-made relevant teaching reforms via France. Foreign news and products
-in the Portuguese factory in Antwerp attracted the interest of Thomas
-More[138] and Albrecht D rer to the wider world.[139] There, profits
-and know-how helped nurture the Dutch Renaissance and Golden Age,
-especially after the arrival of the wealthy cultured Jewish community
-expelled from Portugal.\n'], ['The Renaissance (UK: /r ne s ns/ r
-n-AY-s nss, US: / r n s ns/   REN- -sahnss)[1][2][a] is a period in
-history and a cultural movement marking the transition from the Middle
-Ages to modernity, covering the 15th and 16th centuries and
-characterized by an effort to revive and surpass the ideas and
-achievements of classical antiquity; it was associated with great
-social change in most fields and disciplines, including art,
-architecture, politics, literature, exploration and science. It began
-in the Republic of Florence, then spread to the rest of Italy and
-later throughout Europe. The term rinascita ("rebirth") first appeared
-in Lives of the Artists (c.\u20091550) by Giorgio Vasari, while the
-corresponding French word renaissance was adopted into English as the
-term for this period during the 1830s.[4][b]\n'], ['The rediscovery of
-ancient texts and the invention of the printing press in about 1440
-democratized learning and allowed a faster propagation of more widely
-distributed ideas. In the first period of the Italian Renaissance,
-humanists favored the study of humanities over natural philosophy or
-applied mathematics, and their reverence for classical sources further
-enshrined the Aristotelian and Ptolemaic views of the universe.
-Writing around 1450, Nicholas Cusanus anticipated the heliocentric
-worldview of Copernicus, but in a philosophical fashion.\n'],
-['Another important development was in the process for discovery, the
-scientific method,[77] focusing on empirical evidence and the
-importance of mathematics, while discarding much of Aristotelian
-science. Early and influential proponents of these ideas included
-Copernicus, Galileo, and Francis Bacon.[78][79] The new scientific
-method led to great contributions in the fields of astronomy, physics,
-biology, and anatomy.[h][80]\n'], ['In the late-20th century, avant-
-garde academics labelled American singer Madonna, as the
-"personification of the postmodern",[52] with Christian writer Graham
-Cray saying that "Madonna is perhaps the most visible example of what
-is called post-modernism",[53] and Martin Amis described her as
-"perhaps the most postmodern personage on the planet".[53] She was
-also suggested by assistant professor Olivier S cardin of Utrecht
-University to epitomise postmodernism.[54]\n'], ['Criticisms of
-postmodernism are intellectually diverse. Since postmodernism
-criticizes both conservative and modernist values as well as
-universalist concepts such as objective reality, morality, truth,
-reason, and social progress, critics of postmodernism often defend
-such concepts from various angles.\n'], ["At an early stage of the
-pandemic, the World Health Organization reported estimates of IFR
-between 0.3% and 1%.[355][356] On 2\xa0July, The WHO's chief scientist
-reported that the average IFR estimate presented at a two-day WHO
-expert forum was about 0.6%.[357][358] In August, the WHO found that
-studies incorporating data from broad serology testing in Europe
-showed IFR estimates converging at approximately 0.5 1%.[359] Firm
-lower limits of IFRs have been established in a number of locations
-such as New York City and Bergamo in Italy since the IFR cannot be
-less than the population fatality rate. (After sufficient time
-however, people can get reinfected).[360] As of 10 July, in New York
-City, with a population of 8.4\xa0million, 23,377 individuals (18,758
-confirmed and 4,619 probable) have died with COVID 19 (0.3% of the
-population).[361] Antibody testing in New York City suggested an IFR
-of  0.9%,[362] and  1.4%.[363] In Bergamo province, 0.6% of the
-population has died.[364] In September 2020, the U.S. Centers for
-Disease Control and Prevention (CDC) reported preliminary estimates of
-age-specific IFRs for public health planning purposes.[365]\n"],
-['Most critical respiratory comorbidities according to the US Centers
-for Disease Control and Prevention (CDC), are: moderate or severe
-asthma, pre-existing COPD, pulmonary fibrosis, cystic fibrosis.[390]
-Evidence stemming from meta-analysis of several smaller research
-papers also suggests that smoking can be associated with worse
-outcomes.[391][392] When someone with existing respiratory problems is
-infected with COVID 19, they might be at greater risk for severe
-symptoms.[393] COVID 19 also poses a greater risk to people who misuse
-opioids and amphetamines, insofar as their drug use may have caused
-lung damage.[394]\n'], ['After the initial outbreak of COVID 19,
-misinformation and disinformation regarding the origin, scale,
-prevention, treatment, and other aspects of the disease rapidly spread
-online.[463][464][465]\n'], ['One common symptom, loss of smell,
-results from infection of the support cells of the olfactory
-epithelium, with subsequent damage to the olfactory neurons.[124] The
-involvement of both the central and peripheral nervous system in COVID
-19 has been reported in many medical publications.[125] It is clear
-that many people with COVID-19 exhibit neurological or mental health
-issues. The virus is not detected in the central nervous system (CNS)
-of the majority of COVID-19 patients with neurological issues.
-However, SARS-CoV-2 has been detected at low levels in the brains of
-those who have died from COVID 19, but these results need to be
-confirmed.[126] While virus has been detected in cerebrospinal fluid
-of autopsies, the exact mechanism by which it invades the CNS remains
-unclear and may first involve invasion of peripheral nerves given the
-low levels of ACE2 in the brain.[127][128][129] The virus may also
-enter the bloodstream from the lungs and cross the blood brain barrier
-to gain access to the CNS, possibly within an infected white blood
-cell.[126]\n']]
+'Genetics plays an important role in the ability to fight off Covid.
+For instance, those that do not produce detectable type I interferons
+or produce auto-antibodies against these may get much sicker from
+COVID 19. Genetic screening is able to detect interferon effector
+genes. Some genetic variants are risk factors in specific populations.
+For instance, an allele of the DOCK2 gene (dedicator of cytokinesis 2
+gene) is a common risk factor in Asian populations but much less
+common in Europe. The mutation leads to lower expression of DOCK2
+especially in younger patients with severe Covid. In fact, many other
+genes and genetic variants have been found that determine the outcome
+of SARS-CoV-2 infections.\n', 'In 1971, the American scholar Ihab
+Hassan published The Dismemberment of Orpheus: Toward a Postmodern
+Literature, an early work of literary criticism from a postmodern
+perspective that traces the development of what he calls "literature
+of silence" through Marquis de Sade, Franz Kafka, Ernest Hemingway,
+Samuel Beckett, and many others, including developments such as the
+Theatre of the Absurd and the nouveau roman.\n', 'The effect of the
+virus on ACE2 cell surfaces leads to leukocytic infiltration,
+increased blood vessel permeability, alveolar wall permeability, as
+well as decreased secretion of lung surfactants. These effects cause
+the majority of the respiratory symptoms. However, the aggravation of
+local inflammation causes a cytokine storm eventually leading to a
+systemic inflammatory response syndrome.\n', 'Since the outbreak of
+the COVID 19 pandemic, scholars have explored the bioethics, normative
+economics, and political theories of healthcare policies related to
+the public health crisis. Academics have pointed to the moral distress
+of healthcare workers, ethics of distributing scarce healthcare
+resources such as ventilators, and the global justice of vaccine
+diplomacies.citation needed The socio-economic inequalities between
+genders, races, groups with disabilities, communities, regions,
+countries, and continents have also drawn attention in academia and
+the general public.\n', 'The new Italian trend combined with existing
+national traditions to create a particular local Renaissance art.
+Acceptance of Renaissance art was furthered by the continuous arrival
+of humanist thought in the country. Many young Hungarians studying at
+Italian universities came closer to the Florentine humanist center, so
+a direct connection with Florence evolved. The growing number of
+Italian traders moving to Hungary, specially to Buda, helped this
+process. New thoughts were carried by the humanist prelates, among
+them Vit z J nos, archbishop of Esztergom, one of the founders of
+Hungarian humanism. During the long reign of emperor Sigismund of
+Luxemburg the Royal Castle of Buda became probably the largest Gothic
+palace of the late Middle Ages. King Matthias Corvinus (r. 1458 1490)
+rebuilt the palace in early Renaissance style and further expanded
+it.\n', "Linkin Park is an American rock band from Agoura Hills,
+California. The band's lineup consists of vocalist/rhythm
+guitarist/keyboardist Mike Shinoda, lead guitarist Brad Delson,
+bassist Dave Farrell, DJ/turntablist Joe Hahn, and drummer Rob
+Bourdon, with vocalist Chester Bennington also part of the band until
+his death in 2017. Categorized as alternative rock, Linkin Park's
+earlier music spanned a fusion of heavy metal and hip hop, while their
+later music features more electronica and pop elements.\n", 'Linkin
+Park was founded by three high school friends: Mike Shinoda, Rob
+Bourdon, and Brad Delson. The three attended Agoura High School in
+Agoura Hills, California, a suburb of Los Angeles. After graduating
+from high school, the three began to take their musical interests more
+seriously, recruiting Joe Hahn, Dave "Phoenix" Farrell, and Mark
+Wakefield to perform in their band, then called Xero. Though limited
+in resources, the band began recording and producing songs within
+Shinoda\'s makeshift bedroom studio in 1996, resulting in a four-track
+demo album, entitled Xero, released in November 1997. Xero performed
+their first show on November 14, opening for SX-10 and System of a
+Down at the Whisky a Go Go, a nightclub in West Hollywood. Delson
+introduced the band to Jeff Blue, the vice president of A&R for Zomba
+Music, whom he had interned for in college. Blue offered the band
+constructive criticism to catch the attention of record labels. Blue
+himself was impressed with Xero after watching them play a live show
+in 1998, but believed the band needed a different vocalist. Tensions
+and frustration within the band grew after they failed to land a
+record deal. The lack of success and stalemate in progress prompted
+Wakefield, at that time the band\'s vocalist, to leave the band in
+search of other projects. Farrell also left to tour with Tasty Snax, a
+Christian punk and ska band.\n', 'By a variety of mechanisms, the
+lungs are the organs most affected in COVID 19. In people requiring
+hospital admission, up to 98% of CT scans performed show lung
+abnormalities after 28 days of illness even if they had clinically
+improved. People with advanced age, severe disease, prolonged ICU
+stays, or who smoke are more likely to have long-lasting effects,
+including pulmonary fibrosis. Overall, approximately one-third of
+those investigated after four weeks will have findings of pulmonary
+fibrosis or reduced lung function as measured by DLCO, even in
+asymptomatic people, but with the suggestion of continuing improvement
+with the passing of more time. After severe disease, lung function can
+take anywhere from three months to a year or more to return to
+previous levels.\n', 'Critics argue that postmodernism promotes
+obscurantism, abandons Enlightenment rationalism and scientific rigor,
+and contributes little to analytical or empirical knowledge.\n',
+'Complications may include pneumonia, acute respiratory distress
+syndrome (ARDS), multi-organ failure, septic shock, and death.
+Cardiovascular complications may include heart failure, arrhythmias
+(including atrial fibrillation), heart inflammation, and thrombosis,
+particularly venous thromboembolism. Approximately 20 30% of people
+who present with COVID 19 have elevated liver enzymes, reflecting
+liver injury.\n'

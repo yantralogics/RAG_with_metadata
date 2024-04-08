@@ -1,87 +1,82 @@
-[['Linkin Park is among both the best-selling bands of the 21st
-century and the world\'s best-selling music artists, having sold over
-100 million records worldwide.[5] They have won two Grammy Awards, six
-American Music Awards, two Billboard Music Awards, four MTV Video
-Music Awards, 10 MTV Europe Music Awards, and three World Music
-Awards. In 2003, MTV2 named Linkin Park the sixth-greatest band of the
-music video era and the third-best of the new millennium. Billboard
-ranked Linkin Park No. 19 on the Best Artists of the Decade list. In
-2012, the band was voted as the greatest artist of the 2000s in a
-Bracket Madness poll on VH1. In 2014, the band was declared as "The
-Biggest Rock Band in the World Right Now" by Kerrang!.\n'], ['The
-Renaissance was a cultural movement that profoundly affected European
-intellectual life in the early modern period. Beginning in Italy, and
-spreading to the rest of Europe by the 16th century, its influence was
-felt in art, architecture, philosophy, literature, music, science,
-technology, politics, religion, and other aspects of intellectual
-inquiry. Renaissance scholars employed the humanist method in study,
-and searched for realism and human emotion in art.[24]\n'], ['Humanist
-historians argued that contemporary scholarship restored direct links
-to the classical period, thus bypassing the Medieval period, which
-they then named for the first time the "Middle Ages". The term first
-appears in Latin in 1469 as media tempestas (middle times).[87] The
-term rinascita (rebirth) first appeared, however, in its broad sense
-in Giorgio Vasari\'s Lives of the Artists, 1550, revised 1568.[88][89]
-Vasari divides the age into three phases: the first phase contains
-Cimabue, Giotto, and Arnolfo di Cambio; the second phase contains
-Masaccio, Brunelleschi, and Donatello; the third centers on Leonardo
-da Vinci and culminates with Michelangelo. It was not just the growing
-awareness of classical antiquity that drove this development,
-according to Vasari, but also the growing desire to study and imitate
-nature.[90]\n'], ['The first COVID 19 vaccine was granted regulatory
-approval on 2\xa0December 2020 by the UK medicines regulator
-MHRA.[195] It was evaluated for emergency use authorisation (EUA)
-status by the US FDA, and in several other countries.[196] Initially,
-the US National Institutes of Health guidelines do not recommend any
-medication for prevention of COVID 19, before or after exposure to the
-SARS-CoV-2 virus, outside the setting of a clinical trial.[197][70]
-Without a vaccine, other prophylactic measures, or effective
-treatments, a key part of managing COVID 19 is trying to decrease and
-delay the epidemic peak, known as "flattening the curve".[198] This is
-done by slowing the infection rate to decrease the risk of health
-services being overwhelmed, allowing for better treatment of active
-cases, and delaying additional cases until effective treatments or a
-vaccine become available.[198][199]\n'], ['In 1949, the term was used
-to describe a dissatisfaction with the modernist architectural
-movement known as the International Style.[23] Postmodernism in
-architecture was initially marked by a re-emergence of surface
-ornament, reference to surrounding buildings in urban settings,
-historical reference in decorative forms (eclecticism), and non-
-orthogonal angles.[24]\n'], ["Matthias started at least two major
-building projects.[108] The works in Buda and Visegr d began in about
-1479.[109] Two new wings and a hanging garden were built at the royal
-castle of Buda, and the palace at Visegr d was rebuilt in Renaissance
-style.[109][110] Matthias appointed the Italian Chimenti Camicia and
-the Dalmatian Giovanni Dalmata to direct these projects. [109]
-Matthias commissioned the leading Italian artists of his age to
-embellish his palaces: for instance, the sculptor Benedetto da Majano
-and the painters Filippino Lippi and Andrea Mantegna worked for
-him.[111] A copy of Mantegna's portrait of Matthias survived.[112]
-Matthias also hired the Italian military engineer Aristotele
-Fioravanti to direct the rebuilding of the forts along the southern
-frontier.[113] He had new monasteries built in Late Gothic style for
-the Franciscans in Kolozsv r, Szeged and Hunyad, and for the Paulines
-in Fej regyh za.[114][115]  In the spring of 1485, Leonardo da Vinci
-travelled to Hungary on behalf of Sforza to meet king Matthias
-Corvinus, and was commissioned by him to paint a Madonna.[116]\n"],
-['According to the US Centers for Disease Control and Prevention,
-pregnant women are at increased risk of becoming seriously ill from
-COVID 19.[76] This is because pregnant women with COVID 19 appear to
-be more likely to develop respiratory and obstetric complications that
-can lead to miscarriage, premature delivery and intrauterine growth
-restriction.[76]\n'], ['In May 2009, Linkin Park announced they were
-working on a fourth studio album, which was planned to be released in
-2010. Shinoda told IGN that the new album would be \'genre-busting,\'
-while building off of elements in Minutes to Midnight.[87] He also
-mentioned that the album would be more experimental and "hopefully
-more cutting-edge".[88] Bennington also addressed the media to confirm
-that Rick Rubin would return to produce the new album.[89] The band
-later revealed the album would be called A Thousand Suns.[90] While
-working on the new album, Linkin Park worked with successful film
-composer Hans Zimmer to produce the score for Transformers: Revenge of
-the Fallen.[91] The band released a single for the movie, titled "New
-Divide".[92][93] Joe Hahn created a music video for the song, which
-featured clips from the film.[92] On June 22, Linkin Park played a
-short set in Westwood Village after the premier of the movie.[94]
-After completing work for Transformers: Revenge of the Fallen, the
-band returned to the studio to finalize their album.[95]\n']]
+'COVID 19 is caused by infection with a strain of coronavirus known as
+"severe acute respiratory syndrome coronavirus 2" (SARS-CoV-2).\n',
+"The transition from modernism to postmodernism is often said to have
+happened at 3:32\xa0pm on 15 July in 1972, when Pruitt Igoe, a housing
+development for low-income people in St. Louis designed by architect
+Minoru Yamasaki, which had been a prize-winning version of Le
+Corbusier's 'machine for modern living,' was deemed uninhabitable and
+was torn down. Since then, postmodernism has involved theories that
+embrace and aim to create diversity. It exalts uncertainty,
+flexibility and change and rejects utopianism while embracing a
+utopian way of thinking and acting. Postmodernity of 'resistance'
+seeks to deconstruct modernism and is a critique of the origins
+without necessarily returning to them. As a result of postmodernism,
+planners are much less inclined to lay a firm or steady claim to there
+being one single 'right way' of engaging in urban planning and are
+more open to different styles and ideas of 'how to plan'.\n", 'Italy
+had its first confirmed cases on 31 January 2020, two tourists from
+China. Italy overtook China as the country with the most deaths on 19
+March 2020. By 26 March the United States had overtaken China and
+Italy with the highest number of confirmed cases in the world.
+Research on coronavirus genomes indicates the majority of COVID-19
+cases in New York came from European travellers, rather than directly
+from China or any other Asian country. Retesting of prior samples
+found a person in France who had the virus on 27 December 2019, and a
+person in the United States who died from the disease on 6\xa0February
+2020.\n', 'A suitable environment had developed to question classical
+scientific doctrine. The discovery in 1492 of the New World by
+Christopher Columbus challenged the classical worldview. The works of
+Ptolemy (in geography) and Galen (in medicine) were found to not
+always match everyday observations. As the Reformation and Counter-
+Reformation clashed, the Northern Renaissance showed a decisive shift
+in focus from Aristotelean natural philosophy to chemistry and the
+biological sciences (botany, anatomy, and medicine). The willingness
+to question previously held truths and search for new answers resulted
+in a period of major scientific advancements.\n', 'The Renaissance was
+certainly underway before Lorenzo de\' Medici came to power   indeed,
+before the Medici family itself achieved hegemony in Florentine
+society. Some historians have postulated that Florence was the
+birthplace of the Renaissance as a result of luck, i.e., because
+"Great Men" were born there by chance: Leonardo, Botticelli and
+Michelangelo were all born in Tuscany. Arguing that such chance seems
+improbable, other historians have contended that these "Great Men"
+were only able to rise to prominence because of the prevailing
+cultural conditions at the time.\n', 'The many thousands of SARS-CoV-2
+variants are grouped into either clades or lineages. The WHO, in
+collaboration with partners, expert networks, national authorities,
+institutions and researchers, have established nomenclature systems
+for naming and tracking SARS-CoV-2 genetic lineages by GISAID,
+Nextstrain and Pango. The expert group convened by the WHO recommended
+the labelling of variants using letters of the Greek alphabet, for
+example, Alpha, Beta, Delta, and Gamma, giving the justification that
+they "will be easier and more practical to discussed by non-scientific
+audiences". Nextstrain divides the variants into five clades (19A,
+19B, 20A, 20B, and 20C), while GISAID divides them into seven (L, O,
+V, S, G, GH, and GR). The Pango tool groups variants into lineages,
+with many circulating lineages being classed under the B.1
+lineage.\n', 'Later Spanish Renaissance tended toward religious themes
+and mysticism, with poets such as Luis de Le n, Teresa of  vila, and
+John of the Cross, and treated issues related to the exploration of
+the New World, with chroniclers and writers such as Inca Garcilaso de
+la Vega and Bartolom  de las Casas, giving rise to a body of work, now
+known as Spanish Renaissance literature. The late Renaissance in Spain
+produced artists such as El Greco and composers such as Tom s Luis de
+Victoria and Antonio de Cabez n.\n', 'Coronavirus disease 2019
+(COVID-19) is a contagious disease caused by the coronavirus SARS-
+CoV-2. The first known case was identified in Wuhan, China, in
+December 2019. The disease quickly spread worldwide, resulting in the
+ongoing COVID-19 pandemic.\n', 'During the initial outbreak in Wuhan,
+the virus and disease were commonly referred to as "coronavirus" and
+"Wuhan coronavirus", with the disease sometimes called "Wuhan
+pneumonia". In the past, many diseases have been named after
+geographical locations, such as the Spanish flu, Middle East
+respiratory syndrome, and Zika virus. In January 2020, the World
+Health Organization (WHO) recommended 2019-nCoV and 2019-nCoV acute
+respiratory disease as interim names for the virus and disease per
+2015 guidance and international guidelines against using geographical
+locations or groups of people in disease and virus names to prevent
+social stigma. The official names COVID 19 and SARS-CoV-2 were issued
+by the WHO on 11 February 2020 with COVID-19 being shorthand for
+"coronavirus disease 2019". The WHO additionally uses "the COVID 19
+virus" and "the virus responsible for COVID 19" in public
+communications.\n'

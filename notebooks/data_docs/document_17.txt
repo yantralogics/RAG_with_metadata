@@ -1,82 +1,86 @@
-[['COVID 19 case fatality rates are higher among men than women in
-most countries. However, in a few countries like India, Nepal,
-Vietnam, and Slovenia the fatality cases are higher in women than
-men.[343] Globally, men are more likely to be admitted to the ICU and
-more likely to die.[367][368] One meta-analysis found that globally,
-men were more likely to get COVID 19 than women; there were
-approximately 55 men and 45 women per 100 infections (CI: 51.43
-56.58).[369]\n'], ['Preventive measures to reduce the chances of
-infection include getting vaccinated, staying at home, wearing a mask
-in public, avoiding crowded places, keeping distance from others,
-ventilating indoor spaces, managing potential exposure durations,[190]
-washing hands with soap and water often and for at least twenty
-seconds, practising good respiratory hygiene, and avoiding touching
-the eyes, nose, or mouth with unwashed hands.[191][192]\n'], ["The
-plague was carried by fleas on sailing vessels returning from the
-ports of Asia, spreading quickly due to lack of proper sanitation: the
-population of England, then about 4.2 million, lost 1.4 million people
-to the bubonic plague. Florence's population was nearly halved in the
-year 1347. As a result of the decimation in the populace the value of
-the working class increased, and commoners came to enjoy more freedom.
-To answer the increased need for labor, workers traveled in search of
-the most favorable position economically.[50]\n"], ['Other important
-figures of Hungarian Renaissance include B lint Balassi (poet),
-Sebesty n Tin di Lantos (poet), B lint Bakfark (composer and
-lutenist), and Master MS (fresco painter).\n'], ["Hybrid Theory by the
-group was listed in the 2005 edition of the book 1001 Albums You Must
-Hear Before You Die, It was also ranked at #11 on Billboard's Hot 200
-Albums of the Decade.[330] In addition the album was included in Best
-of 2001 by Record Collector, The top 150 Albums of the Generation by
-Rock Sound and 50 Best Rock Albums of the 2000s by Kerrang!. The album
-Meteora was included in Top 200 Albums of the Decade by Billboard at
-No. 36. The album sold 20 million copies worldwide. The collaborative
-EP Collision Course with Jay-Z became the second ever EP to top the
-Billboard 200, going on to sell over 300,000 copies in its first week
-after Alice in Chains' Jar of Flies in 1994. The album Minutes to
-Midnight, in the United States, had the biggest first week sales of
-2007 at the time, with 625,000 albums sold.[331] In Canada, the album
-sold over 50,000 copies in its first week and debuted at number one on
-the Canadian Albums Chart. Worldwide, the album shipped over 3.3
-million copies in its first four weeks of release.[332]\n"], ['On
-April 26, the band released an app for the iPhone, iPod Touch, and
-iPad, a game called 8-Bit Rebellion! It featured the band as playable
-characters, and a new song called "Blackbirds" which was unlockable by
-beating the game. The song was also later released as an iTunes bonus
-track on A Thousand Suns.[96]\n'], ["It has long been a matter of
-debate why the Renaissance began in Florence, and not elsewhere in
-Italy. Scholars have noted several features unique to Florentine
-cultural life that may have caused such a cultural movement. Many have
-emphasized the role played by the Medici, a banking family and later
-ducal ruling house, in patronizing and stimulating the arts. Lorenzo
-de' Medici (1449 1492) was the catalyst for an enormous amount of arts
-patronage, encouraging his countrymen to commission works from the
-leading artists of Florence, including Leonardo da Vinci, Sandro
-Botticelli, and Michelangelo Buonarroti.[14] Works by Neri di Bicci,
-Botticelli, Leonardo, and Filippino Lippi had been commissioned
-additionally by the Convent of San Donato in Scopeto in
-Florence.[54]\n"], ['The effect of the virus on ACE2 cell surfaces
-leads to leukocytic infiltration, increased blood vessel permeability,
-alveolar wall permeability, as well as decreased secretion of lung
-surfactants. These effects cause the majority of the respiratory
-symptoms. However, the aggravation of local inflammation causes a
-cytokine storm eventually leading to a systemic inflammatory response
-syndrome.[157]\n'], ['The new Italian trend combined with existing
-national traditions to create a particular local Renaissance art.
-Acceptance of Renaissance art was furthered by the continuous arrival
-of humanist thought in the country. Many young Hungarians studying at
-Italian universities came closer to the Florentine humanist center, so
-a direct connection with Florence evolved. The growing number of
-Italian traders moving to Hungary, specially to Buda, helped this
-process. New thoughts were carried by the humanist prelates, among
-them Vit z J nos, archbishop of Esztergom, one of the founders of
-Hungarian humanism.[102] During the long reign of emperor Sigismund of
-Luxemburg the Royal Castle of Buda became probably the largest Gothic
-palace of the late Middle Ages. King Matthias Corvinus (r. 1458 1490)
-rebuilt the palace in early Renaissance style and further expanded
-it.[103][104]\n'], ['In the Netherlands, a particularly vibrant
-artistic culture developed. The work of Hugo van der Goes and Jan van
-Eyck was particularly influential on the development of painting in
-Italy, both technically with the introduction of oil paint and canvas,
-and stylistically in terms of naturalism in representation. Later, the
-work of Pieter Brueghel the Elder would inspire artists to depict
-themes of everyday life.[66]\n']]
+'The use of passive antibodies to treat people with active COVID 19 is
+also being studied. This involves the production of convalescent
+serum, which consists of the liquid portion of the blood from people
+who recovered from the infection and contains antibodies specific to
+this virus, which is then administered to active patients. This
+strategy was tried for SARS with inconclusive results. An updated
+Cochrane review in May 2023 found high certainty evidence that, for
+the treatment of people with moderate to severe COVID 19, convalescent
+plasma did not reduce mortality or bring about symptom improvement.
+There continues to be uncertainty about the safety of convalescent
+plasma administration to people with COVID 19 and differing outcomes
+measured in different studies limits their use in determining
+efficacy.\n', 'Linkin Park also participated in numerous charitable
+events, which included raising money to benefit victims of Hurricane
+Charley in 2004 and later Hurricane Katrina in 2005. The band donated
+$75,000 to the Special Operations Warrior Foundation in March 2004.
+They also helped relief efforts for the 2004 Indian Ocean tsunami
+victims by staging several charity concerts and setting up an
+additional fund called Music for Relief. The band participated at Live
+8, a series of charitable benefit concerts set up to raise global
+awareness. Alongside Jay-Z, the band performed on Live 8\'s stage in
+Philadelphia, Pennsylvania, to a global audience. The band would later
+be reunited with Jay-Z at the Grammy Award Ceremony 2006, during which
+they performed "Numb/Encore", en route to winning a Grammy for Best
+Rap/Sung Collaboration. They were joined on stage by Paul McCartney
+who added verses from the song "Yesterday". They would later go on to
+play at the 2006 Summer Sonic music festival, which was hosted by
+Metallica in Japan.\n', "One theory that has been advanced is that the
+devastation in Florence caused by the Black Death, which hit Europe
+between 1348 and 1350, resulted in a shift in the world view of people
+in 14th century Italy. Italy was particularly badly hit by the plague,
+and it has been speculated that the resulting familiarity with death
+caused thinkers to dwell more on their lives on Earth, rather than on
+spirituality and the afterlife. It has also been argued that the Black
+Death prompted a new wave of piety, manifested in the sponsorship of
+religious works of art. However, this does not fully explain why the
+Renaissance occurred specifically in Italy in the 14th century. The
+Black Death was a pandemic that affected all of Europe in the ways
+described, not only Italy. The Renaissance's emergence in Italy was
+most likely the result of the complex interaction of the above
+factors.\n", 'The demographic decline due to the plague had economic
+consequences: the prices of food dropped and land values declined by
+30 40% in most parts of Europe between 1350 and 1400. Landholders
+faced a great loss, but for ordinary men and women it was a windfall.
+The survivors of the plague found not only that the prices of food
+were cheaper but also that lands were more abundant, and many of them
+inherited property from their dead relatives.\n', 'In the Netherlands,
+a particularly vibrant artistic culture developed. The work of Hugo
+van der Goes and Jan van Eyck was particularly influential on the
+development of painting in Italy, both technically with the
+introduction of oil paint and canvas, and stylistically in terms of
+naturalism in representation. Later, the work of Pieter Brueghel the
+Elder would inspire artists to depict themes of everyday life.\n', 'In
+1942, the literary critic and author H. R. Hays describes
+postmodernism as a new literary form.\n', 'The amount of time that the
+virus can survive depends significantly on the type of surface, the
+temperature, and the humidity. Coronaviruses die very quickly when
+exposed to the UV light in sunlight. Like other enveloped viruses,
+SARS-CoV-2 survives longest when the temperature is at room
+temperature or lower, and when the relative humidity is low
+(<50%).\n', "The plague was carried by fleas on sailing vessels
+returning from the ports of Asia, spreading quickly due to lack of
+proper sanitation: the population of England, then about 4.2 million,
+lost 1.4 million people to the bubonic plague. Florence's population
+was nearly halved in the year 1347. As a result of the decimation in
+the populace the value of the working class increased, and commoners
+came to enjoy more freedom. To answer the increased need for labor,
+workers traveled in search of the most favorable position
+economically.\n", 'In the second half of the 15th century, the
+Renaissance spirit spread to Germany and the Low Countries, where the
+development of the printing press (ca. 1450) and Renaissance artists
+such as Albrecht D rer (1471 1528) predated the influence from Italy.
+In the early Protestant areas of the country humanism became closely
+linked to the turmoil of the Reformation, and the art and writing of
+the German Renaissance frequently reflected this dispute. However, the
+Gothic style and medieval scholastic philosophy remained exclusively
+until the turn of the 16th century. Emperor Maximilian I of Habsburg
+(ruling 1493 1519) was the first truly Renaissance monarch of the Holy
+Roman Empire.\n', "Like structuralists, post-structuralists start from
+the assumption that people's identities, values, and economic
+conditions determine each other rather than having intrinsic
+properties that can be understood in isolation. Structuralists explore
+how the subjects of their study might be described as a set of
+essential relationships, schematics, or mathematical symbols. Post-
+structuralism, by contrast, is characterized by new ways of thinking
+through structuralism, contrary to the original form.\n"

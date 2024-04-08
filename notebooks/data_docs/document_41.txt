@@ -1,72 +1,83 @@
-[['A suitable environment had developed to question classical
-scientific doctrine. The discovery in 1492 of the New World by
-Christopher Columbus challenged the classical worldview. The works of
-Ptolemy (in geography) and Galen (in medicine) were found to not
-always match everyday observations. As the Reformation and Counter-
-Reformation clashed, the Northern Renaissance showed a decisive shift
-in focus from Aristotelean natural philosophy to chemistry and the
-biological sciences (botany, anatomy, and medicine).[73] The
-willingness to question previously held truths and search for new
-answers resulted in a period of major scientific advancements.\n'],
-['Other important figures of Hungarian Renaissance include B lint
-Balassi (poet), Sebesty n Tin di Lantos (poet), B lint Bakfark
-(composer and lutenist), and Master MS (fresco painter).\n'], ['A key
-metric in gauging the severity of COVID 19 is the infection fatality
-rate (IFR), also referred to as the infection fatality ratio or
-infection fatality risk.[349][350][351] This metric is calculated by
-dividing the total number of deaths from the disease by the total
-number of infected individuals; hence, in contrast to the CFR, the IFR
-incorporates asymptomatic and undiagnosed infections as well as
-reported cases.[352]\n'], ["Following the success of Hybrid Theory and
-Reanimation, Linkin Park spent a significant amount of time touring
-around the United States. The band members began to work on new
-material amidst their saturated schedule, spending a sliver of their
-free time in their tour bus's studio.[38] The band officially
-announced the production of a new studio album in December 2002,
-revealing their new work was inspired by the rocky region of Meteora
-in Greece, where numerous monasteries have been built on top of the
-rocks.[39] Meteora features a mixture of the band's nu metal and rap
-metal style with newer innovative effects, including the induction of
-a shakuhachi (a Japanese flute made of bamboo) and other
-instruments.[6] Linkin Park's second album debuted on March 25, 2003,
-and instantly earned worldwide recognition,[6] peaking at No. 1 on the
-Rock & Metal Albums Chart.[40]\n"], ['Lyotard defined philosophical
-postmodernism in The Postmodern Condition, writing: "Simplifying to
-the extreme, I define postmodern as incredulity towards
-metanarratives...."\u2009[63] where what he means by metanarrative (in
-French, grands r cits) is something like a unified, complete,
-universal, and epistemically certain story about everything that is.
-Against totalizing metanarratives, Lyotard and other postmodern
-philosophers argue that truth is always dependent upon historical and
-social context rather than being absolute and universal and that truth
-is always partial and "at issue" rather than being complete and
-certain.[63]\n'], ['Linkin Park combines elements of metal,
-industrial, punk, pop, electronic, hip hop.[250] More specifically,
-the band has been categorized as alternative rock, nu metal, rap rock,
-rap metal, alternative metal, electronic rock, pop rock, hard rock,
-and industrial rock.[note 1] Despite being considered nu metal, the
-band never considered themselves as such.[274]\n'], ['In literature
-the later part of the 16th century saw the flowering of Elizabethan
-literature, with poetry heavily influenced by Italian Renaissance
-literature but Elizabethan theatre a distinctive native style. Writers
-include William Shakespeare (1564 1616), Christopher Marlowe (1564
-1593), Edmund Spenser (1552 599), Sir Thomas More (1478 1535), and Sir
-Philip Sidney (1554 1586). English Renaissance music competed with
-that in Europe with composers such as Thomas Tallis (1505 1585), John
-Taverner (1490 1545), and William Byrd (1540 1623).  Elizabethan
-architecture produced the large prodigy houses of courtiers, and in
-the next century Inigo Jones (1573 1652), who introduced Italianate
-architecture to England.[94]\n'], ['Severe acute respiratory syndrome
-coronavirus\xa02 (SARS-CoV-2) is a novel severe acute respiratory
-syndrome coronavirus. It was first isolated from three people with
-pneumonia connected to the cluster of acute respiratory illness cases
-in Wuhan.[95] All structural features of the novel SARS-CoV-2 virus
-particle occur in related coronaviruses in nature,[96] particularly in
-Rhinolophus sinicus aka Chinese horseshoe bats.[97]\n'], ['Another
-important development was in the process for discovery, the scientific
-method,[77] focusing on empirical evidence and the importance of
-mathematics, while discarding much of Aristotelian science. Early and
-influential proponents of these ideas included Copernicus, Galileo,
-and Francis Bacon.[78][79] The new scientific method led to great
-contributions in the fields of astronomy, physics, biology, and
-anatomy.[h][80]\n']]
+'Rapid accumulation of knowledge, which has characterized the
+development of science since the 17th century, had never occurred
+before that time. The new kind of scientific activity emerged only in
+a few countries of Western Europe, and it was restricted to that small
+area for about two hundred years. (Since the 19th century, scientific
+knowledge has been assimilated by the rest of the world).', 'The
+standard methods of testing for presence of SARS-CoV-2 are nucleic
+acid tests, which detects the presence of viral RNA fragments. As
+these tests detect RNA but not infectious virus, its "ability to
+determine duration of infectivity of patients is limited". The test is
+typically done on respiratory samples obtained by a nasopharyngeal
+swab; however, a nasal swab or sputum sample may also be used. Results
+are generally available within hours. The WHO has published several
+testing protocols for the disease.\n', "One theory that has been
+advanced is that the devastation in Florence caused by the Black
+Death, which hit Europe between 1348 and 1350, resulted in a shift in
+the world view of people in 14th century Italy. Italy was particularly
+badly hit by the plague, and it has been speculated that the resulting
+familiarity with death caused thinkers to dwell more on their lives on
+Earth, rather than on spirituality and the afterlife. It has also been
+argued that the Black Death prompted a new wave of piety, manifested
+in the sponsorship of religious works of art. However, this does not
+fully explain why the Renaissance occurred specifically in Italy in
+the 14th century. The Black Death was a pandemic that affected all of
+Europe in the ways described, not only Italy. The Renaissance's
+emergence in Italy was most likely the result of the complex
+interaction of the above factors.\n", 'Chest CT scans may be helpful
+to diagnose COVID 19 in individuals with a high clinical suspicion of
+infection but are not recommended for routine screening. Bilateral
+multilobar ground-glass opacities with a peripheral, asymmetric, and
+posterior distribution are common in early infection. Subpleural
+dominance, crazy paving (lobular septal thickening with variable
+alveolar filling), and consolidation may appear as the disease
+progresses. Characteristic imaging features on chest radiographs and
+computed tomography (CT) of people who are symptomatic include
+asymmetric peripheral ground-glass opacities without pleural
+effusions.\n', "Tocilizumab has been included in treatment guidelines
+by China's National Health Commission after a small study was
+completed. It is undergoing a Phase\xa0II non-randomised trial at the
+national level in Italy after showing positive results in people with
+severe disease. Combined with a serum ferritin blood test to identify
+a cytokine storm (also called cytokine storm syndrome, not to be
+confused with cytokine release syndrome), it is meant to counter such
+developments, which are thought to be the cause of death in some
+affected people. The interleukin-6 receptor (IL-6R) antagonist was
+approved by the FDA to undergo a Phase\xa0III clinical trial assessing
+its effectiveness on COVID 19 based on retrospective case studies for
+the treatment of steroid-refractory cytokine release syndrome induced
+by a different cause, CAR T cell therapy, in 2017. There is no
+randomised, controlled evidence that tocilizumab is an efficacious
+treatment for CRS. Prophylactic tocilizumab has been shown to increase
+serum IL-6 levels by saturating the IL-6R, driving IL-6 across the
+blood brain barrier, and exacerbating neurotoxicity while having no
+effect on the incidence of CRS.\n", 'International research on
+vaccines and medicines in COVID 19 is underway by government
+organisations, academic groups, and industry researchers. The CDC has
+classified it to require a BSL3 grade laboratory. There has been a
+great deal of COVID 19 research, involving accelerated research
+processes and publishing shortcuts to meet the global demand.\n',
+'Lenzilumab, an anti-GM-CSF monoclonal antibody, is protective in
+murine models for CAR T cell-induced CRS and neurotoxicity and is a
+viable therapeutic option due to the observed increase of pathogenic
+GM-CSF secreting T\xa0cells in hospitalised patients with COVID
+19.\n', 'In April 2012, the band announced that Living Things would be
+the title of their fifth album and called it a "return to form".
+Shinoda stated that they chose the title Living Things because the
+album is more about people, personal interactions, and it is far more
+personal than their previous albums. The album\'s lead single, "Burn
+It Down", was released on April 16. The band promoted the album on the
+2012 edition of the Honda Civic Tour, with co-headliners Incubus.
+Other singles from the album include "Lost in the Echo", "Powerless",
+and Castle of Glass". The band performed "Burn It Down" at 2012
+Billboard Music Awards. On May 25, the band released the music video
+for "Burn It Down" and debuted "Lies Greed Misery", another song from
+Living Things. "Powerless", the twelfth and closing track of the
+album, was featured in the closing credits of the film Abraham
+Lincoln: Vampire Hunter.\n', 'As is common with infections, there is a
+delay between the moment a person first becomes infected and the
+appearance of the first symptoms. The median delay for COVID-19 is
+four to five days possibly being infectious on 1-4 of those days. Most
+symptomatic people experience symptoms within two to seven days after
+exposure, and almost all will experience at least one symptom within
+12 days.\n'

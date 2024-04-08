@@ -1,101 +1,83 @@
-[['Linkin Park began working on new material for a seventh studio
-album in November 2015.[187] Chester Bennington commented on the
-album\'s direction by stating, "We\'ve got a lot of great material
-that I hope challenges our fanbase as well as inspires them as much as
-it has us."[188] In February 2017, Linkin Park released promotional
-videos on their social network accounts, which featured Shinoda and
-Bennington preparing new material for the album.[189] Mike Shinoda
-stated the band was following a new process when producing the album.
-Brad Delson elaborated: "We\'ve made so many records and we clearly
-know how to make a record and we definitely didn\'t take the easy way
-out this time."[190]\n'], ['Unlike with Latin texts, which had been
-preserved and studied in Western Europe since late antiquity, the
-study of ancient Greek texts was very limited in medieval Western
-Europe. Ancient Greek works on science, mathematics, and philosophy
-had been studied since the High Middle Ages in Western Europe and in
-the Islamic Golden Age (normally in translation), but Greek literary,
-oratorical and historical works (such as Homer, the Greek dramatists,
-Demosthenes and Thucydides) were not studied in either the Latin or
-medieval Islamic worlds; in the Middle Ages these sorts of texts were
-only studied by Byzantine scholars. Some argue that the Timurid
-Renaissance in Samarkand and Herat, whose magnificence toned with
-Florence as the center of a cultural rebirth,[35][36] were linked to
-the Ottoman Empire, whose conquests led to the migration of Greek
-scholars to Italian cities.[37][full citation needed][38][full
-citation needed][15][39] One of the greatest achievements of
-Renaissance scholars was to bring this entire class of Greek cultural
-works back into Western Europe for the first time since late
-antiquity.\n'], ['In an interview with Fuse, Shinoda confirmed that
-Linkin Park had begun recording their sixth studio album in May
-2013.[152] The band released the first single from their upcoming
-album, titled, "Guilty All the Same" (featuring Rakim) on March 6,
-2014, through Shazam.[153] The single was later released on the
-following day by Warner Bros. Records and debut at No. 27 on the US
-Billboard Rock Airplay charts before peaking at No. 1 on the
-Mainstream Rock charts in the following weeks.[154][155] Shortly after
-the single\'s release, the band revealed their sixth album would be
-titled The Hunting Party.[156] The album was produced by Shinoda and
-Delson, who wanted to explore musical elements from Hybrid Theory and
-the band\'s earlier material.[157] Shinoda commented the album is a
-"90s style of rock record". He elaborated, "It\'s a rock record. It\'s
-loud and it\'s rock, but not in the sense of what you\'ve heard
-before, which is more like \'90s hardcore-punk-thrash.\'[158] The
-album includes musical contributions from rapper Rakim, Page Hamilton
-of Helmet, Tom Morello of Rage Against the Machine, and Daron Malakian
-of System of a Down.[159][160] The songs "Until It\'s Gone",[161]
-"Wastelands",[160] "Rebellion" (featuring Daron Malakian),[162] and
-"Final Masquerade"[163] were released as singles from the album.The
-Hunting Party was released on June 13, 2014,[164] in most countries,
-and later released in the United States on June 17.[165]\n'], ['In
-November 2017, the band announced that a live album compiled from
-their final tour with Bennington, titled One More Light Live, would be
-released on December 15.[216][217] On November 19, Linkin Park
-received an American Music Award for Favorite Alternative Artist and
-dedicated the award to Bennington.[218][219]\n'], ["Erasmus was
-arguably the Netherlands' best known humanist and Catholic
-intellectual during the Renaissance.[32]\n"], ["Linkin Park is an
-American rock band from Agoura Hills, California. The band's lineup
-consists of vocalist/rhythm guitarist/keyboardist Mike Shinoda, lead
-guitarist Brad Delson, bassist Dave Farrell, DJ/turntablist Joe Hahn,
-and drummer Rob Bourdon, with vocalist Chester Bennington also part of
-the band until his death in 2017. Categorized as alternative rock,
-Linkin Park's earlier music spanned a fusion of heavy metal and hip
-hop, while their later music features more electronica and pop
-elements.\n"], ['Autopsies of people who died of COVID 19 have found
-diffuse alveolar damage, and lymphocyte-containing inflammatory
-infiltrates within the lung.[123]\n'], ['The first COVID 19 vaccine
-was granted regulatory approval on 2\xa0December 2020 by the UK
-medicines regulator MHRA.[195] It was evaluated for emergency use
-authorisation (EUA) status by the US FDA, and in several other
-countries.[196] Initially, the US National Institutes of Health
-guidelines do not recommend any medication for prevention of COVID 19,
-before or after exposure to the SARS-CoV-2 virus, outside the setting
-of a clinical trial.[197][70] Without a vaccine, other prophylactic
-measures, or effective treatments, a key part of managing COVID 19 is
-trying to decrease and delay the epidemic peak, known as "flattening
-the curve".[198] This is done by slowing the infection rate to
-decrease the risk of health services being overwhelmed, allowing for
-better treatment of active cases, and delaying additional cases until
-effective treatments or a vaccine become available.[198][199]\n'],
-['The intellectual scholarship regarding postmodernism and
-architecture is closely linked with the writings of critic-turned-
-architect Charles Jencks, beginning with lectures in the early 1970s
-and his essay "The Rise of Post Modern Architecture" from 1975.[38]
-His magnum opus, however, is the book The Language of Post-Modern
-Architecture, first published in 1977, and since running to seven
-editions.[39] Jencks makes the point that Post-Modernism (like
-Modernism) varies for each field of art, and that for architecture it
-is not just a reaction to Modernism but what he terms double coding:
-"Double Coding: the combination of Modern techniques with something
-else (usually traditional building) in order for architecture to
-communicate with the public and a concerned minority, usually other
-architects."[40] In their book, "Revisiting Postmodernism", Terry
-Farrell and Adam Furman argue that postmodernism brought a more joyous
-and sensual experience to the culture, particularly in
-architecture.[41]\n'], ['Some observers have questioned whether the
-Renaissance was a cultural "advance" from the Middle Ages, instead
-seeing it as a period of pessimism and nostalgia for classical
-antiquity,[19] while social and economic historians, especially of the
-longue dur e, have instead focused on the continuity between the two
-eras,[20] which are linked, as Panofsky observed, "by a thousand
-ties".[21][d]\n']]
+'Humans appear to be capable of spreading the virus to some other
+animals, a type of disease transmission referred to as
+zooanthroponosis.\n', "By the 15th century, writers, artists, and
+architects in Italy were well aware of the transformations that were
+taking place and were using phrases such as modi antichi (in the
+antique manner) or alle romana et alla antica (in the manner of the
+Romans and the ancients) to describe their work. In the 1330s Petrarch
+referred to pre-Christian times as antiqua (ancient) and to the
+Christian period as nova (new). From Petrarch's Italian perspective,
+this new period (which included his own time) was an age of national
+eclipse.\nLeonardo Bruni was the first to use tripartite periodization
+in his History of the Florentine People (1442). Bruni's first two
+periods were based on those of Petrarch, but he added a third period
+because he believed that Italy was no longer in a state of decline.
+Flavio Biondo used a similar framework in Decades of History from the
+Deterioration of the Roman Empire (1439 1453).\n", 'Among healthy
+adults not exposed to SARS-CoV-2, about 35% have CD4+ T cells that
+recognise the SARS-CoV-2 S protein (particularly the S2 subunit) and
+about 50% react to other proteins of the virus, suggesting cross-
+reactivity from previous common colds caused by other
+coronaviruses.\n', "The long-imagined south polar continent was
+eventually sighted in 1820. Throughout the Renaissance it had been
+known as Terra Australis, or 'Australia' for short. However, after
+that name was transferred to New Holland in the nineteenth century,
+the new name of 'Antarctica' was bestowed on the south polar
+continent.\n", 'Genetics plays an important role in the ability to
+fight off Covid. For instance, those that do not produce detectable
+type I interferons or produce auto-antibodies against these may get
+much sicker from COVID 19. Genetic screening is able to detect
+interferon effector genes. Some genetic variants are risk factors in
+specific populations. For instance, an allele of the DOCK2 gene
+(dedicator of cytokinesis 2 gene) is a common risk factor in Asian
+populations but much less common in Europe. The mutation leads to
+lower expression of DOCK2 especially in younger patients with severe
+Covid. In fact, many other genes and genetic variants have been found
+that determine the outcome of SARS-CoV-2 infections.\n', 'The
+treatment and management of COVID-19 combines both supportive care,
+which includes treatment to relieve symptoms, fluid therapy, oxygen
+support as needed, and a growing list of approved medications. Highly
+effective vaccines have reduced mortality related to SARS-CoV-2;
+however, for those awaiting vaccination, as well as for the estimated
+millions of immunocompromised persons who are unlikely to respond
+robustly to vaccination, treatment remains important.  Some people may
+experience persistent symptoms or disability after recovery from the
+infection, known as long COVID, but there is still limited information
+on the best management and rehabilitation for this condition.\n', 'The
+standard methods of testing for presence of SARS-CoV-2 are nucleic
+acid tests, which detects the presence of viral RNA fragments. As
+these tests detect RNA but not infectious virus, its "ability to
+determine duration of infectivity of patients is limited". The test is
+typically done on respiratory samples obtained by a nasopharyngeal
+swab; however, a nasal swab or sputum sample may also be used. Results
+are generally available within hours. The WHO has published several
+testing protocols for the disease.\n', 'Some view this as a
+"scientific revolution", heralding the beginning of the modern age,
+others as an acceleration of a continuous process stretching from the
+ancient world to the present day. Significant scientific advances were
+made during this time by Galileo Galilei, Tycho Brahe, and Johannes
+Kepler. Copernicus, in De revolutionibus orbium coelestium (On the
+Revolutions of the Heavenly Spheres), posited that the Earth moved
+around the Sun. De humani corporis fabrica (On the Workings of the
+Human Body) by Andreas Vesalius, gave a new confidence to the role of
+dissection, observation, and the mechanistic view of anatomy.\n',
+'Linkin Park combines elements of metal, industrial, punk, pop,
+electronic, hip hop. More specifically, the band has been categorized
+as alternative rock, nu metal, rap rock, rap metal, alternative metal,
+electronic rock, pop rock, hard rock, and industrial rock.note 1
+Despite being considered nu metal, the band never considered
+themselves as such.\n', 'Leaders have called for efforts to research
+and address the disparities. In the UK, a greater proportion of deaths
+due to COVID 19 have occurred in those of a Black, Asian, and other
+ethnic minority background. More severe impacts upon patients
+including the relative incidence of the necessity of hospitalisation
+requirements, and vulnerability to the disease has been associated via
+DNA analysis to be expressed in genetic variants at chromosomal region
+3, features that are associated with European Neanderthal heritage.
+That structure imposes greater risks that those affected will develop
+a more severe form of the disease. The findings are from Professor
+Svante P bo and researchers he leads at the Max Planck Institute for
+Evolutionary Anthropology and the Karolinska Institutet. This
+admixture of modern human and Neanderthal genes is estimated to have
+occurred roughly between 50,000 and 60,000 years ago in Southern
+Europe.\n'

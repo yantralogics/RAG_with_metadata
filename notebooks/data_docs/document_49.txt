@@ -1,89 +1,99 @@
-[['The SARS-CoV-2 virus can infect a wide range of cells and systems
-of the body. COVID 19 is most known for affecting the upper
-respiratory tract (sinuses, nose, and throat) and the lower
-respiratory tract (windpipe and lungs).[119] The lungs are the organs
-most affected by COVID 19 because the virus accesses host cells via
-the receptor for the enzyme angiotensin-converting enzyme 2 (ACE2),
-which is most abundant on the surface of type II alveolar cells of the
-lungs.[120] The virus uses a special surface glycoprotein called a
-"spike" to connect to the ACE2 receptor and enter the host
-cell.[121]\n'], ['Italy had its first confirmed cases on 31 January
-2020, two tourists from China.[451] Italy overtook China as the
-country with the most deaths on 19 March 2020.[452] By 26 March the
-United States had overtaken China and Italy with the highest number of
-confirmed cases in the world.[453] Research on coronavirus genomes
-indicates the majority of COVID-19 cases in New York came from
-European travellers, rather than directly from China or any other
-Asian country.[454] Retesting of prior samples found a person in
-France who had the virus on 27 December 2019,[455][456] and a person
-in the United States who died from the disease on 6\xa0February
-2020.[457]\n'], ['It is unknown whether different persons use similar
-antibody genes in response to COVID 19.[159]\n'], ['Some criticism
-responds to postmodernist skepticism towards objective reality and
-claims that truth and morality are relative, including the argument
-that this relativism is self-contradictory. In part in reference to
-postmodernism, conservative English philosopher Roger Scruton wrote,
-"A writer who says that there are no truths, or that all truth is
-\'merely relative,\' is asking you not to believe him. So don\'t."[81]
-In 2014, the philosophers Theodore Schick and Lewis Vaughn wrote: "the
-statement that \'No unrestricted universal generalizations are true\'
-is itself an unrestricted universal generalization. So if relativism
-in any of its forms is true, it\'s false."[82] Some responses to
-postmodernist relativism argue that, contrary to its proponents\'
-usual intentions, it does not necessarily benefit the political
-left.[82][83] For example, the historian Richard J. Evans argued that
-if relativism rejects truth, it can legitimize far-right pseudohistory
-such as Holocaust denial.[83]\n'], ['COVID 19 transmission occurs when
-infectious particles are breathed in or come into contact with the
-eyes, nose, or mouth. The risk is highest when people are in close
-proximity, but small airborne particles containing the virus can
-remain suspended in the air and travel over longer distances,
-particularly indoors. Transmission can also occur when people touch
-their eyes, nose or mouth after touching surfaces or objects that have
-been contaminated by the virus. People remain contagious for up to 20
-days and can spread the virus even if they do not develop
-symptoms.[17]\n'], ['COVID 19 case fatality rates are higher among men
-than women in most countries. However, in a few countries like India,
-Nepal, Vietnam, and Slovenia the fatality cases are higher in women
-than men.[343] Globally, men are more likely to be admitted to the ICU
-and more likely to die.[367][368] One meta-analysis found that
-globally, men were more likely to get COVID 19 than women; there were
-approximately 55 men and 45 women per 100 infections (CI: 51.43
-56.58).[369]\n'], ['Displacement ventilation with large natural inlets
-can move stale air directly to the exhaust in laminar flow while
-significantly reducing the concentration of droplets and particles.
-Passive ventilation reduces energy consumption and maintenance costs
-but may lack controllability and heat recovery. Displacement
-ventilation can also be achieved mechanically with higher energy and
-maintenance costs. The use of large ducts and openings helps to
-prevent mixing in closed environments. Recirculation and mixing should
-be avoided because recirculation prevents dilution of harmful
-particles and redistributes possibly contaminated air, and mixing
-increases the concentration and range of infectious particles and
-keeps larger particles in the air.[231]\n'], ['During the Renaissance,
-extending from 1450 to 1650,[81] every continent was visited and
-mostly mapped by Europeans, except the south polar continent now known
-as Antarctica. This development is depicted in the large world map
-Nova Totius Terrarum Orbis Tabula made by the Dutch cartographer Joan
-Blaeu in 1648 to commemorate the Peace of Westphalia.\n'], ['COVID 19
-can provisionally be diagnosed on the basis of symptoms and confirmed
-using reverse transcription polymerase chain reaction (RT-PCR) or
-other nucleic acid testing of infected secretions.[21][166] Along with
-laboratory testing, chest CT scans may be helpful to diagnose COVID 19
-in individuals with a high clinical suspicion of infection.[167]
-Detection of a past infection is possible with serological tests,
-which detect antibodies produced by the body in response to the
-infection.[21]\n'], ['Biological factors (immune response) and the
-general behaviour (habits) can strongly determine the consequences of
-COVID 19.[343] Most of those who die of COVID 19 have pre-existing
-(underlying) conditions, including hypertension, diabetes
-mellitus,[378] and cardiovascular disease.[388] According to March
-data from the United States, 89% of those hospitalised had preexisting
-conditions.[389] The Italian Istituto Superiore di Sanit  reported
-that out of 8.8% of deaths where medical charts were available, 96.1%
-of people had at least one comorbidity with the average person having
-3.4 diseases.[288] According to this report the most common
-comorbidities are hypertension (66% of deaths), type\xa02 diabetes
-(29.8% of deaths), ischaemic heart disease (27.6% of deaths), atrial
-fibrillation (23.1% of deaths) and chronic renal failure (20.2% of
-deaths).\n']]
+'Well after the first artistic return to classicism had been
+exemplified in the sculpture of Nicola Pisano, Florentine painters led
+by Masaccio strove to portray the human form realistically, developing
+techniques to render perspective and light more naturally. Political
+philosophers, most famously Niccol  Machiavelli, sought to describe
+political life as it really was, that is to understand it rationally.
+A critical contribution to Italian Renaissance humanism, Giovanni Pico
+della Mirandola wrote De hominis dignitate (Oration on the Dignity of
+Man, 1486), a series of theses on philosophy, natural thought, faith,
+and magic defended against any opponent on the grounds of reason. In
+addition to studying classical Latin and Greek, Renaissance authors
+also began increasingly to use vernacular languages; combined with the
+introduction of the printing press, this allowed many more people
+access to books, especially the Bible.\n', "In the revival of
+neoplatonism, Renaissance humanists did not reject Christianity; on
+the contrary, many of the Renaissance's greatest works were devoted to
+it, and the Church patronized many works of Renaissance art.citation
+needed But a subtle shift took place in the way that intellectuals
+approached religion that was reflected in many other areas of cultural
+life.better\xa0source\xa0needed In addition, many Greek Christian
+works, including the Greek New Testament, were brought back from
+Byzantium to Western Europe and engaged Western scholars for the first
+time since late antiquity. This new engagement with Greek Christian
+works, and particularly the return to the original Greek of the New
+Testament promoted by humanists Lorenzo Valla and Erasmus, helped pave
+the way for the Reformation.citation needed\n", "In architecture, the
+huge profits of the spice trade financed a sumptuous composite style
+in the first decades of the 16th century, the Manueline, incorporating
+maritime elements. The primary painters were Nuno Gon alves, Greg rio
+Lopes, and Vasco Fernandes. In music, Pedro de Escobar and Duarte Lobo
+produced four songbooks, including the Cancioneiro de Elvas. In
+literature, S  de Miranda introduced Italian forms of verse. Bernardim
+Ribeiro developed pastoral romance, plays by Gil Vicente fused it with
+popular culture, reporting the changing times, and Lu s de Cam es
+inscribed the Portuguese feats overseas in the epic poem Os Lus adas.
+Travel literature especially flourished: Jo o de Barros, Castanheda,
+Ant nio Galv o, Gaspar Correia, Duarte Barbosa, and Fern o Mendes
+Pinto, among others, described new lands and were translated and
+spread with the new printing press. After joining the Portuguese
+exploration of Brazil in 1500, Amerigo Vespucci coined the term New
+World, in his letters to Lorenzo di Pierfrancesco de' Medici.\n",
+'Modern Architecture, as established and developed by Walter Gropius
+and Le Corbusier, was focused on:\n', 'The symptoms of COVID 19 are
+variable but often include fever, fatigue, cough, breathing
+difficulties, loss of smell, and loss of taste. Symptoms may begin one
+to fourteen days after exposure to the virus. At least a third of
+people who are infected do not develop noticeable symptoms. Of those
+who develop symptoms noticeable enough to be classified as patients,
+most (81%) develop mild to moderate symptoms (up to mild pneumonia),
+while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50%
+lung involvement on imaging), and 5% develop critical symptoms
+(respiratory failure, shock, or multiorgan dysfunction). Older people
+are at a higher risk of developing severe symptoms. Some complications
+result in death. Some people continue to experience a range of effects
+(long COVID) for months or years after infection, and damage to organs
+has been observed. Multi-year studies are underway to further
+investigate the long-term effects of the disease.\n', "The mortality
+rate reflects the number of deaths within a specific demographic group
+divided by the population of that demographic group. Consequently, the
+mortality rate reflects the prevalence as well as the severity of the
+disease within a given population. Mortality rates are highly
+correlated to age, with relatively low rates for young people and
+relatively high rates among the elderly. In fact, one relevant factor
+of mortality rates is the age structure of the countries' populations.
+For example, the case fatality rate for COVID 19 is lower in India
+than in the US since India's younger population represents a larger
+percentage than in the US.\n", "Those diagnosed with COVID 19 or who
+believe they may be infected are advised by the CDC to stay home
+except to get medical care, call ahead before visiting a healthcare
+provider, wear a face mask before entering the healthcare provider's
+office and when in any room or vehicle with another person, cover
+coughs and sneezes with a tissue, regularly wash hands with soap and
+water and avoid sharing personal household items.\n", 'Chest CT scans
+may be helpful to diagnose COVID 19 in individuals with a high
+clinical suspicion of infection but are not recommended for routine
+screening. Bilateral multilobar ground-glass opacities with a
+peripheral, asymmetric, and posterior distribution are common in early
+infection. Subpleural dominance, crazy paving (lobular septal
+thickening with variable alveolar filling), and consolidation may
+appear as the disease progresses. Characteristic imaging features on
+chest radiographs and computed tomography (CT) of people who are
+symptomatic include asymmetric peripheral ground-glass opacities
+without pleural effusions.\n', 'A unique characteristic of some
+Renaissance libraries is that they were open to the public. These
+libraries were places where ideas were exchanged and where scholarship
+and reading were considered both pleasurable and beneficial to the
+mind and soul. As freethinking was a hallmark of the age, many
+libraries contained a wide range of writers. Classical texts could be
+found alongside humanist writings. These informal associations of
+intellectuals profoundly influenced Renaissance culture. Some of the
+richest "bibliophiles" built libraries as temples to books and
+knowledge. A number of libraries appeared as manifestations of immense
+wealth joined with a love of books. In some cases, cultivated library
+builders were also committed to offering others the opportunity to use
+their collections. Prominent aristocrats and princes of the Church
+created great libraries for the use of their courts, called "court
+libraries", and were housed in lavishly designed monumental buildings
+decorated with ornate woodwork, and the walls adorned with frescoes
+(Murray, Stuart A.P.).\n'

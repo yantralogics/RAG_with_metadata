@@ -1,86 +1,98 @@
-[['The band still struggled to sign a record deal. They turned to Jeff
-Blue for additional help after facing numerous rejections from several
-major record labels.[12] After failing to catch Warner Bros. Records
-on three previous reviews, Blue, who was now the vice president of
-Warner Bros. Records, helped the band sign a deal with the company as
-a developing artist in 1999.[18][19] However, the label advised the
-band to change their name to avoid confusion with Hybrid.[20][21] The
-band considered the names "Plear" and "Platinum Lotus Foundation"
-before deciding on "Linkin Park",[22] a play on and homage to Santa
-Monica\'s Lincoln Park,[6] now called Christine Emerson Reed Park.[23]
-They initially wanted to use the name "Lincoln Park", however they
-changed it to "Linkin" to acquire the internet domain
-"linkinpark.com".[21][24]\n'], ['Among healthy adults not exposed to
-SARS-CoV-2, about 35% have CD4+ T cells that recognise the SARS-CoV-2
-S protein (particularly the S2 subunit) and about 50% react to other
-proteins of the virus, suggesting cross-reactivity from previous
-common colds caused by other coronaviruses.[158]\n'], ['A key metric
-in gauging the severity of COVID 19 is the infection fatality rate
-(IFR), also referred to as the infection fatality ratio or infection
-fatality risk.[349][350][351] This metric is calculated by dividing
-the total number of deaths from the disease by the total number of
-infected individuals; hence, in contrast to the CFR, the IFR
-incorporates asymptomatic and undiagnosed infections as well as
-reported cases.[352]\n'], ['The CDC states that avoiding crowded
-indoor spaces reduces the risk of COVID-19 infection.[226] When
-indoors, increasing the rate of air change, decreasing recirculation
-of air and increasing the use of outdoor air can reduce
-transmission.[226][227] The WHO recommends ventilation and air
-filtration in public spaces to help clear out infectious
-aerosols.[228][229][230]\n'], ["In architecture, Filippo Brunelleschi
-was foremost in studying the remains of ancient classical buildings.
-With rediscovered knowledge from the 1st-century writer Vitruvius and
-the flourishing discipline of mathematics, Brunelleschi formulated the
-Renaissance style that emulated and improved on classical forms. His
-major feat of engineering was building the dome of the Florence
-Cathedral.[67] Another building demonstrating this style is the church
-of St. Andrew in Mantua, built by Alberti. The outstanding
-architectural work of the High Renaissance was the rebuilding of St.
-Peter's Basilica, combining the skills of Bramante, Michelangelo,
-Raphael, Sangallo and Maderno.\n"], ['Humanist scholars shaped the
-intellectual landscape throughout the early modern period. Political
-philosophers such as Niccol  Machiavelli and Thomas More revived the
-ideas of Greek and Roman thinkers and applied them in critiques of
-contemporary government, following the Islamic steps of Ibn
-Khaldun.[60][61] Pico della Mirandola wrote the "manifesto" of the
-Renaissance, the Oration on the Dignity of Man, a vibrant defence of
-thinking.[citation needed] Matteo Palmieri (1406 1475), another
-humanist, is most known for his work Della vita civile ("On Civic
-Life"; printed 1528), which advocated civic humanism, and for his
-influence in refining the Tuscan vernacular to the same level as
-Latin. Palmieri drew on Roman philosophers and theorists, especially
-Cicero, who, like Palmieri, lived an active public life as a citizen
-and official, as well as a theorist and philosopher and also
-Quintilian. Perhaps the most succinct expression of his perspective on
-humanism is in a 1465 poetic work La citt  di vita, but an earlier
-work, Della vita civile, is more wide-ranging. Composed as a series of
-dialogues set in a country house in the Mugello countryside outside
-Florence during the plague of 1430, Palmieri expounds on the qualities
-of the ideal citizen. The dialogues include ideas about how children
-develop mentally and physically, how citizens can conduct themselves
-morally, how citizens and states can ensure probity in public life,
-and an important debate on the difference between that which is
-pragmatically useful and that which is honest.[citation needed]\n'],
-['In November 2017, the band announced that a live album compiled from
-their final tour with Bennington, titled One More Light Live, would be
-released on December 15.[216][217] On November 19, Linkin Park
-received an American Music Award for Favorite Alternative Artist and
-dedicated the award to Bennington.[218][219]\n'], ['In November 2020,
-the US Food and Drug Administration (FDA) issued an emergency use
-authorisation for the investigational monoclonal antibody therapy
-bamlanivimab for the treatment of mild-to-moderate COVID 19.[510]
-Bamlanivimab is authorised for people with positive results of direct
-SARS-CoV-2 viral testing who are twelve years of age and older
-weighing at least 40 kilograms (88\xa0lb), and who are at high risk
-for progressing to severe COVID 19 or hospitalisation.[510] This
-includes those who are 65 years of age or older, or who have chronic
-medical conditions.[510]\n'], ['Science and art were intermingled in
-the early Renaissance, with polymath artists such as Leonardo da Vinci
-making observational drawings of anatomy and nature. Leonardo set up
-controlled experiments in water flow, medical dissection, and
-systematic study of movement and aerodynamics, and he devised
-principles of research method that led Fritjof Capra to classify him
-as the "father of modern science".[g] Other examples of Da Vinci\'s
-contribution during this period include machines designed to saw
-marbles and lift monoliths, and new discoveries in acoustics, botany,
-geology, anatomy, and mechanics.[72]\n']]
+'Chest CT scans may be helpful to diagnose COVID 19 in individuals
+with a high clinical suspicion of infection but are not recommended
+for routine screening. Bilateral multilobar ground-glass opacities
+with a peripheral, asymmetric, and posterior distribution are common
+in early infection. Subpleural dominance, crazy paving (lobular septal
+thickening with variable alveolar filling), and consolidation may
+appear as the disease progresses. Characteristic imaging features on
+chest radiographs and computed tomography (CT) of people who are
+symptomatic include asymmetric peripheral ground-glass opacities
+without pleural effusions.\n', 'Linkin Park is among both the best-
+selling bands of the 21st century and the world\'s best-selling music
+artists, having sold over 100 million records worldwide. They have won
+two Grammy Awards, six American Music Awards, two Billboard Music
+Awards, four MTV Video Music Awards, 10 MTV Europe Music Awards, and
+three World Music Awards. In 2003, MTV2 named Linkin Park the sixth-
+greatest band of the music video era and the third-best of the new
+millennium. Billboard ranked Linkin Park No. 19 on the Best Artists of
+the Decade list. In 2012, the band was voted as the greatest artist of
+the 2000s in a Bracket Madness poll on VH1. In 2014, the band was
+declared as "The Biggest Rock Band in the World Right Now" by
+Kerrang!.\n', 'The French psychotherapist and philosopher, F lix
+Guattari, rejected its theoretical assumptions by arguing that the
+structuralist and postmodernist visions of the world were not flexible
+enough to seek explanations in psychological, social, and
+environmental domains at the same time.\nIn an interview with Truls
+Lie, Jean Baudrillard noted: "Transmodernism, etc. are better terms
+than "postmodernism". It is not about modernity; it is about every
+system that has developed its mode of expression to the extent that it
+surpasses itself and its own logic. This is what I am trying to
+analyze." "There is no longer any ontologically secret substance. I
+perceive this to be nihilism rather than postmodernism."\n', 'The word
+"Renaissance" is borrowed from the French language, where it means
+"re-birth". It was first used in the eighteenth century and was later
+popularized by French historian Jules Michelet (1798 1874) in his 1855
+work, Histoire de France (History of France).\n', 'The SARS-CoV-2
+virus can infect a wide range of cells and systems of the body. COVID
+19 is most known for affecting the upper respiratory tract (sinuses,
+nose, and throat) and the lower respiratory tract (windpipe and
+lungs). The lungs are the organs most affected by COVID 19 because the
+virus accesses host cells via the receptor for the enzyme angiotensin-
+converting enzyme 2 (ACE2), which is most abundant on the surface of
+type II alveolar cells of the lungs. The virus uses a special surface
+glycoprotein called a "spike" to connect to the ACE2 receptor and
+enter the host cell.\n', 'The band was nominated for six Billboard
+Awards in 2011 for Top Duo or Group, Best Rock Album for A Thousand
+Suns, Top Rock Artist, Top Alternative Artist, Top Alternative Song
+for "Waiting for the End" and Top Alternative Album for A Thousand
+Suns, but did not win any award. The band charted in numerous
+Billboard Year-End charts in 2011. The band was No.39 in the Top
+Artists Chart, No.87 in the Billboard 200 Artists chart, No.11 in the
+Social 50 Chart, No.6 in the Top Rock Artists Chart, No.9 in the Rock
+Songs Artists Chart, No.16 in the Rock Albums Chart, No.4 in the Hard
+Rock Albums Chart, and No.7 in the Alternative Songs Chart.\n', 'In
+the Netherlands, a particularly vibrant artistic culture developed.
+The work of Hugo van der Goes and Jan van Eyck was particularly
+influential on the development of painting in Italy, both technically
+with the introduction of oil paint and canvas, and stylistically in
+terms of naturalism in representation. Later, the work of Pieter
+Brueghel the Elder would inspire artists to depict themes of everyday
+life.\n', 'The Renaissance in Northern Europe has been termed the
+"Northern Renaissance". While Renaissance ideas were moving north from
+Italy, there was a simultaneous southward spread of some areas of
+innovation, particularly in music. The music of the 15th-century
+Burgundian School defined the beginning of the Renaissance in music,
+and the polyphony of the Netherlanders, as it moved with the musicians
+themselves into Italy, formed the core of the first true international
+style in music since the standardization of Gregorian Chant in the 9th
+century. The culmination of the Netherlandish school was in the music
+of the Italian composer Palestrina. At the end of the 16th century
+Italy again became a center of musical innovation, with the
+development of the polychoral style of the Venetian School, which
+spread northward into Germany around 1600. In Denmark, the Renaissance
+sparked the translation of the works of Saxo Grammaticus into Danish
+as well as Frederick II and Christian IV ordering the redecoration or
+construction of several important works of architecture, i.e.
+Kronborg, Rosenborg and B rsen. Danish astronomer Tycho Brahe greatly
+contributed to turn astronomy into the first modern science and also
+helped launch the Scientific Revolution.\n', 'Linkin Park reached No.9
+in the Billboard Social 50, a chart of the most active artists on the
+world\'s leading social networking sites. In other Billboard Year-End
+charts, the band reached No.92 in the "Top Artists" chart, as well as
+A Thousand Suns reaching No.53 in the Year-End chart of the Billboard
+Top 200 albums and "The Catalyst" reaching No.40 in the Year-End Rock
+Songs chart.\n', 'Johan Huizinga (1872 1945) acknowledged the
+existence of the Renaissance but questioned whether it was a positive
+change. In his book The Autumn of the Middle Ages, he argued that the
+Renaissance was a period of decline from the High Middle Ages,
+destroying much that was important. The Medieval Latin language, for
+instance, had evolved greatly from the classical period and was still
+a living language used in the church and elsewhere. The Renaissance
+obsession with classical purity halted its further evolution and saw
+Latin revert to its classical form. This view is however somewhat
+contested by recent studies. Robert S. Lopez has contended that it was
+a period of deep economic recession. Meanwhile, George Sarton and Lynn
+Thorndike have both argued that scientific progress was perhaps less
+original than has traditionally been supposed. Finally, Joan Kelly
+argued that the Renaissance led to greater gender dichotomy, lessening
+the agency women had had during the Middle Ages.\n'

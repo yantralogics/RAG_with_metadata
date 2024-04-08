@@ -1,93 +1,99 @@
-[['A suitable environment had developed to question classical
-scientific doctrine. The discovery in 1492 of the New World by
-Christopher Columbus challenged the classical worldview. The works of
-Ptolemy (in geography) and Galen (in medicine) were found to not
-always match everyday observations. As the Reformation and Counter-
-Reformation clashed, the Northern Renaissance showed a decisive shift
-in focus from Aristotelean natural philosophy to chemistry and the
-biological sciences (botany, anatomy, and medicine).[73] The
-willingness to question previously held truths and search for new
-answers resulted in a period of major scientific advancements.\n'],
-['The New York Times\' Jon Caramanica commented Linkin Park "brought
-the collision of hard rock and hip-hop to its commercial and aesthetic
-peak" at the beginning of the 2000s.[333] Several rock and non-rock
-artists have cited Linkin Park as an influence, including Of Mice &
-Men,[334] One OK Rock,[335] Kutless,[336] My Heart to Fear,[337] Ill
-Ni o,[338] Bishop Nehru,[339] From Ashes to New,[340] Bring Me the
-Horizon,[341] Spyair,[342] Hardy,[343] I Prevail,[344]
-Crossfaith,[345] AJ Tracey,[346] the Chainsmokers,[347] The Devil
-Wears Prada,[348] Steve Aoki,[349] Blackbear,[350] Halsey,[351] Amber
-Liu,[352] Machine Gun Kelly,[353] Billie Eilish,[354] Starset,[355]
-and the Weeknd.[356]\n'], ['In 1495 the Italian Renaissance arrived in
-France, imported by King Charles VIII after his invasion of Italy. A
-factor that promoted the spread of secularism was the inability of the
-Church to offer assistance against the Black Death. Francis I imported
-Italian art and artists, including Leonardo da Vinci, and built ornate
-palaces at great expense. Writers such as Fran ois Rabelais, Pierre de
-Ronsard, Joachim du Bellay, and Michel de Montaigne, painters such as
-Jean Clouet, and musicians such as Jean Mouton also borrowed from the
-spirit of the Renaissance.\n'], ['Emerging in the mid-twentieth
-century as a reaction against modernism,[8][9][10] postmodernism has
-permeated various disciplines[11] and is linked to critical theory,
-deconstruction, and post-structuralism.[4]\n'], ['There are many
-unknowns for pregnant women during the COVID-19 pandemic. Given that
-they are prone to have complications and severe disease infection with
-other types of coronaviruses, they have been identified as a
-vulnerable group and advised to take supplementary preventive
-measures.[163]\n'], ["After the marriage in 1476 of King Matthias to
-Beatrice of Naples, Buda became one of the most important artistic
-centers of the Renaissance north of the Alps.[105] The most important
-humanists living in Matthias' court were Antonio Bonfini and the
-famous Hungarian poet Janus Pannonius.[105] Andr s Hess set up a
-printing press in Buda in 1472. Matthias Corvinus's library, the
-Bibliotheca Corviniana, was Europe's greatest collections of secular
-books: historical chronicles, philosophic and scientific works in the
-15th century. His library was second only in size to the Vatican
-Library. (However, the Vatican Library mainly contained Bibles and
-religious materials.)[106] In 1489, Bartolomeo della Fonte of Florence
-wrote that Lorenzo de' Medici founded his own Greek-Latin library
-encouraged by the example of the Hungarian king. Corvinus's library is
-part of UNESCO World Heritage.[107]\n"], ['Some historians have begun
-to consider the word Renaissance to be unnecessarily loaded, implying
-an unambiguously positive rebirth from the supposedly more primitive
-"Dark Ages", the Middle Ages. Most political and economic historians
-now prefer to use the term "early modern" for this period (and a
-considerable period afterwards), a designation intended to highlight
-the period as a transitional one between the Middle Ages and the
-modern era.[149] Others such as Roger Osborne have come to consider
-the Italian Renaissance as a repository of the myths and ideals of
-western history in general, and instead of rebirth of ancient ideas as
-a period of great innovation.[150]\n'], ["The new ideals of humanism,
-although more secular in some aspects, developed against a Christian
-backdrop, especially in the Northern Renaissance. Much, if not most,
-of the new art was commissioned by or in dedication to the Church.[25]
-However, the Renaissance had a profound effect on contemporary
-theology, particularly in the way people perceived the relationship
-between man and God.[25] Many of the period's foremost theologians
-were followers of the humanist method, including Erasmus, Huldrych
-Zwingli, Thomas More, Martin Luther, and John Calvin.\n"], ['As a
-cultural movement, the Renaissance encompassed innovative flowering of
-Latin and vernacular literatures, beginning with the 14th-century
-resurgence of learning based on classical sources, which
-contemporaries credited to Petrarch; the development of linear
-perspective and other techniques of rendering a more natural reality
-in painting; and gradual but widespread educational reform. In
-politics, the Renaissance contributed to the development of the
-customs and conventions of diplomacy, and in science to an increased
-reliance on observation and inductive reasoning. Although the
-Renaissance saw revolutions in many intellectual and social scientific
-pursuits, as well as the introduction of modern banking and the field
-of accounting,[5] it is perhaps best known for its artistic
-developments and the contributions of such polymaths as Leonardo da
-Vinci and Michelangelo, who inspired the term "Renaissance
-man".[6][7]\n'], ['In addition to the above, other clinical studies
-have proved that SARS-CoV-2 can affect the period of pregnancy in
-different ways. On the one hand, there is little evidence of its
-impact up to 12 weeks gestation. On the other hand, COVID-19 infection
-may cause increased rates of unfavourable outcomes in the course of
-the pregnancy. Some examples of these could be foetal growth
-restriction, preterm birth, and perinatal mortality, which refers to
-the foetal death past 22 or 28 completed weeks of pregnancy as well as
-the death among live-born children up to seven completed days of
-life.[163] For preterm birth, a 2023 review indicates that there
-appears to be a correlation with COVID-19.[164]\n']]
+'Linkin Park has remained on hiatus since Bennington\'s death. During
+an Instagram live chat on December 17, 2017, Shinoda was asked whether
+Linkin Park would perform with a hologram version of Bennington in the
+future. He replied, "Can we not do a holographic Chester? I can\'t
+even wrap my head around the idea of a holographic Chester. I\'ve
+actually heard other people outside the band suggest that, and
+there\'s absolutely no way. I cannot fuck with that."\n', 'Thorough
+hand hygiene after any cough or sneeze is required. The WHO also
+recommends that individuals wash hands often with soap and water for
+at least twenty seconds, especially after going to the toilet or when
+hands are visibly dirty, before eating and after blowing one\'s nose.
+When soap and water are not available, the CDC recommends using an
+alcohol-based hand sanitiser with at least 60% alcohol. For areas
+where commercial hand sanitisers are not readily available, the WHO
+provides two formulations for local production. In these formulations,
+the antimicrobial activity arises from ethanol or isopropanol.
+Hydrogen peroxide is used to help eliminate bacterial spores in the
+alcohol; it is "not an active substance for hand antisepsis". Glycerol
+is added as a humectant.\n', 'Multiple viral and host factors affect
+the pathogenesis of the virus. The S-protein, otherwise known as the
+spike protein, is the viral component that attaches to the host
+receptor via the ACE2 receptors. It includes two subunits: S1 and S2.
+S1 determines the virus-host range and cellular tropism via the
+receptor-binding domain. S2 mediates the membrane fusion of the virus
+to its potential cell host via the H1 and HR2, which are heptad repeat
+regions. Studies have shown that S1 domain induced IgG and IgA
+antibody levels at a much higher capacity. It is the focus spike
+proteins expression that are involved in many effective COVID 19
+vaccines.\n', 'In September 2020, the European Medicines Agency (EMA)
+endorsed the use of dexamethasone in adults and adolescents from
+twelve years of age and weighing at least 40 kilograms (88\xa0lb) who
+require supplemental oxygen therapy. Dexamethasone can be taken by
+mouth or given as an injection or infusion (drip) into a vein.\n',
+'During the Renaissance, architects aimed to use columns, pilasters,
+and entablatures as an integrated system. The Roman orders types of
+columns are used: Tuscan and Composite. These can either be
+structural, supporting an arcade or architrave, or purely decorative,
+set against a wall in the form of pilasters. One of the first
+buildings to use pilasters as an integrated system was in the Old
+Sacristy (1421 1440) by Brunelleschi. Arches, semi-circular or (in the
+Mannerist style) segmental, are often used in arcades, supported on
+piers or columns with capitals. There may be a section of entablature
+between the capital and the springing of the arch. Alberti was one of
+the first to use the arch on a monumental. Renaissance vaults do not
+have ribs; they are semi-circular or segmental and on a square plan,
+unlike the Gothic vault, which is frequently rectangular.\n',
+'Although SARS-CoV-2 has a tropism for ACE2-expressing epithelial
+cells of the respiratory tract, people with severe COVID 19 have
+symptoms of systemic hyperinflammation. Clinical laboratory findings
+of elevated IL 2, IL 7, IL 6, granulocyte-macrophage colony-
+stimulating factor (GM CSF), interferon gamma-induced protein\xa010
+(IP 10), monocyte chemoattractant protein\xa01 (MCP1), macrophage
+inflammatory protein 1 alpha (MIP 1 alpha), and tumour necrosis factor
+(TNF ) indicative of cytokine release syndrome (CRS) suggest an
+underlying immunopathology.\n', 'The many thousands of SARS-CoV-2
+variants are grouped into either clades or lineages. The WHO, in
+collaboration with partners, expert networks, national authorities,
+institutions and researchers, have established nomenclature systems
+for naming and tracking SARS-CoV-2 genetic lineages by GISAID,
+Nextstrain and Pango. The expert group convened by the WHO recommended
+the labelling of variants using letters of the Greek alphabet, for
+example, Alpha, Beta, Delta, and Gamma, giving the justification that
+they "will be easier and more practical to discussed by non-scientific
+audiences". Nextstrain divides the variants into five clades (19A,
+19B, 20A, 20B, and 20C), while GISAID divides them into seven (L, O,
+V, S, G, GH, and GR). The Pango tool groups variants into lineages,
+with many circulating lineages being classed under the B.1
+lineage.\n', 'On April 28, 2020, bassist Dave Farrell revealed the
+band is working on new music. On August 13, the band released "She
+Couldn\'t", a track that was originally recorded in 1999, and it was
+included on a 20th anniversary edition of their debut album Hybrid
+Theory, released on October 9. On January 8, 2021, Linkin Park
+released a remix of "One Step Closer" by American electronic duo 100
+gecs. The band revealed it was the first of many new remixes inspired
+by Reanimation to come. On October 29, when asked about the band
+playing live shows again, Shinoda stated that "Now is not the time for
+the band\'s return. We don\'t have the focus on it. We don\'t have the
+math worked out. And I don\'t mean that by financially math, I mean
+that like emotional and creative math." In April 2022, Shinoda
+reiterated that the band was not working on a new album, new music, or
+touring.\n', 'Linkin Park reached No.9 in the Billboard Social 50, a
+chart of the most active artists on the world\'s leading social
+networking sites. In other Billboard Year-End charts, the band reached
+No.92 in the "Top Artists" chart, as well as A Thousand Suns reaching
+No.53 in the Year-End chart of the Billboard Top 200 albums and "The
+Catalyst" reaching No.40 in the Year-End Rock Songs chart.\n', "One
+theory that has been advanced is that the devastation in Florence
+caused by the Black Death, which hit Europe between 1348 and 1350,
+resulted in a shift in the world view of people in 14th century Italy.
+Italy was particularly badly hit by the plague, and it has been
+speculated that the resulting familiarity with death caused thinkers
+to dwell more on their lives on Earth, rather than on spirituality and
+the afterlife. It has also been argued that the Black Death prompted a
+new wave of piety, manifested in the sponsorship of religious works of
+art. However, this does not fully explain why the Renaissance occurred
+specifically in Italy in the 14th century. The Black Death was a
+pandemic that affected all of Europe in the ways described, not only
+Italy. The Renaissance's emergence in Italy was most likely the result
+of the complex interaction of the above factors.\n"

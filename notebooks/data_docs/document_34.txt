@@ -1,80 +1,94 @@
-[["The Black Death caused greater upheaval to Florence's social and
-political structure than later epidemics. Despite a significant number
-of deaths among members of the ruling classes, the government of
-Florence continued to function during this period. Formal meetings of
-elected representatives were suspended during the height of the
-epidemic due to the chaotic conditions in the city, but a small group
-of officials was appointed to conduct the affairs of the city, which
-ensured continuity of government.[53]\n"], ['On November 9, 2014, MTV
-Europe named Linkin Park the "Best Rock" act of 2014 at their annual
-music awards ceremony.[178] The band won the \'Best Rock Band\' and
-\'Best Live Act\' titles of 2014 on Loudwire\'s Music Awards.[179]
-Revolver ranked The Hunting Party as the fourth best album of
-2014.[180] In an interview with AltWire on May 4, Shinoda reflected on
-The Hunting Party and commented on Linkin Park\'s future, stating;
-"I\'m really happy with the reaction from The Hunting Party, and I
-think we\'re ready to move somewhere new on the next album, which will
-be coming [in 2016]".[181]\n'], ['Although several medications have
-been approved in different countries as of April 2022, not all
-countries have these medications. Patients with mild to moderate
-symptoms who are in the risk groups can take nirmatrelvir/ritonavir
-(marketed as Paxlovid) or remdesivir, either of which reduces the risk
-of serious illness or hospitalization.[275] In the US, the Biden
-Administration COVID-19 action plan includes the Test to Treat
-initiative, where people can go to a pharmacy, take a COVID test, and
-immediately receive free Paxlovid if they test positive.[276]\n'],
-['The virus also affects gastrointestinal organs as ACE2 is abundantly
-expressed in the glandular cells of gastric, duodenal and rectal
-epithelium[135] as well as endothelial cells and enterocytes of the
-small intestine.[136]\n'], ['As a cultural movement, the Renaissance
-encompassed innovative flowering of Latin and vernacular literatures,
-beginning with the 14th-century resurgence of learning based on
-classical sources, which contemporaries credited to Petrarch; the
-development of linear perspective and other techniques of rendering a
-more natural reality in painting; and gradual but widespread
-educational reform. In politics, the Renaissance contributed to the
-development of the customs and conventions of diplomacy, and in
-science to an increased reliance on observation and inductive
-reasoning. Although the Renaissance saw revolutions in many
-intellectual and social scientific pursuits, as well as the
-introduction of modern banking and the field of accounting,[5] it is
-perhaps best known for its artistic developments and the contributions
-of such polymaths as Leonardo da Vinci and Michelangelo, who inspired
-the term "Renaissance man".[6][7]\n'], ['In 2003, MTV2 named Linkin
-Park the sixth-greatest band of the music video era and the third-best
-of the new millennium.[322] Billboard ranked Linkin Park No.\xa019 on
-the Best Artists of the Decade chart.[323] The band was recently voted
-as the greatest artist of the 2000s in a Bracket Madness poll on
-VH1.[324] In 2014, the band was declared as the Biggest Rock Band in
-the World Right Now by Kerrang!.[325][326] In 2015, Kerrang! gave "In
-the End" and "Final Masquerade" the top two positions on Kerrang!\'s
-Rock 100 list.[327]\n'], ['The connection between postmodernism,
-posthumanism, and cyborgism has led to a challenge to postmodernism,
-for which the terms Post-postmodernism and postpoststructuralism were
-first coined in 2003:[77][78]\n'], ['It is also assumed that those
-that are immunocompromised are at higher risk of getting severely sick
-from SARS-CoV-2.[310] One research study that looked into the COVID 19
-infections in hospitalised kidney transplant recipients found a
-mortality rate of 11%.[311]\n'], ['RT-PCR testing of untreated
-wastewater samples from Brazil and Italy have suggested detection of
-SARS-CoV-2 as early as November and December 2019, respectively, but
-the methods of such sewage studies have not been optimised, many have
-not been peer-reviewed, details are often missing, and there is a risk
-of false positives due to contamination or if only one gene target is
-detected.[458] A September 2020 review journal article said, "The
-possibility that the COVID 19 infection had already spread to Europe
-at the end of last year is now indicated by abundant, even if
-partially circumstantial, evidence", including pneumonia case numbers
-and radiology in France and Italy in November and December.[459]\n'],
-['The Renaissance (UK: /r ne s ns/ r n-AY-s nss, US: / r n s ns/
-REN- -sahnss)[1][2][a] is a period in history and a cultural movement
-marking the transition from the Middle Ages to modernity, covering the
-15th and 16th centuries and characterized by an effort to revive and
-surpass the ideas and achievements of classical antiquity; it was
-associated with great social change in most fields and disciplines,
-including art, architecture, politics, literature, exploration and
-science. It began in the Republic of Florence, then spread to the rest
-of Italy and later throughout Europe. The term rinascita ("rebirth")
-first appeared in Lives of the Artists (c.\u20091550) by Giorgio
-Vasari, while the corresponding French word renaissance was adopted
-into English as the term for this period during the 1830s.[4][b]\n']]
+'By December 2019, the spread of infection was almost entirely driven
+by human-to-human transmission. The number of COVID-19 cases in Hubei
+gradually increased, reaching sixty by 20 December, and at least 266
+by 31 December. On 24 December, Wuhan Central Hospital sent a
+bronchoalveolar lavage fluid (BAL) sample from an unresolved clinical
+case to sequencing company Vision Medicals. On 27 and 28 December,
+Vision Medicals informed the Wuhan Central Hospital and the Chinese
+CDC of the results of the test, showing a new coronavirus. A pneumonia
+cluster of unknown cause was observed on 26 December and treated by
+the doctor Zhang Jixian in Hubei Provincial Hospital, who informed the
+Wuhan Jianghan CDC on 27 December. On 30 December, a test report
+addressed to Wuhan Central Hospital, from company CapitalBio Medlab,
+stated an erroneous positive result for SARS, causing a group of
+doctors at Wuhan Central Hospital to alert their colleagues and
+relevant hospital authorities of the result. The Wuhan Municipal
+Health Commission issued a notice to various medical institutions on
+"the treatment of pneumonia of unknown cause" that same evening. Eight
+of these doctors, including Li Wenliang (punished on 3\xa0January),
+were later admonished by the police for spreading false rumours and
+another, Ai Fen, was reprimanded by her superiors for raising the
+alarm.\n', 'Postmodernism is an intellectual stance or mode of
+discourse which challenges worldviews associated with Enlightenment
+rationality dating back to the 17th century. Postmodernism is
+associated with relativism and a focus on the role of ideology in the
+maintenance of economic and political power. Postmodernists are
+"skeptical of explanations which claim to be valid for all groups,
+cultures, traditions, or races, and instead focuses on the relative
+truths of each person". It considers "reality" to be a mental
+construct. Postmodernism rejects the possibility of unmediated reality
+or objectively-rational knowledge, asserting that all interpretations
+are contingent on the perspective from which they are made; claims to
+objective fact are dismissed as naive realism.\n', 'In the 15th
+century, the Renaissance spread rapidly from its birthplace in
+Florence to the rest of Italy and soon to the rest of Europe. The
+invention of the printing press by German printer Johannes Gutenberg
+allowed the rapid transmission of these new ideas. As it spread, its
+ideas diversified and changed, being adapted to local culture. In the
+20th century, scholars began to break the Renaissance into regional
+and national movements.\n', 'Their fifth album, Living Things, is also
+an electronic-heavy album, but includes other influences, resulting in
+a harder sound by comparison. The band returned to a heavier sound
+compared to their last three albums on The Hunting Party, which was
+described as an alternative metal, nu metal, hard rock, rap rock, and
+rap metal album. Their seventh album, One More Light, was described as
+pop, pop rock and electropop.\n', 'The symptoms of COVID 19 are
+variable but often include fever, fatigue, cough, breathing
+difficulties, loss of smell, and loss of taste. Symptoms may begin one
+to fourteen days after exposure to the virus. At least a third of
+people who are infected do not develop noticeable symptoms. Of those
+who develop symptoms noticeable enough to be classified as patients,
+most (81%) develop mild to moderate symptoms (up to mild pneumonia),
+while 14% develop severe symptoms (dyspnea, hypoxia, or more than 50%
+lung involvement on imaging), and 5% develop critical symptoms
+(respiratory failure, shock, or multiorgan dysfunction). Older people
+are at a higher risk of developing severe symptoms. Some complications
+result in death. Some people continue to experience a range of effects
+(long COVID) for months or years after infection, and damage to organs
+has been observed. Multi-year studies are underway to further
+investigate the long-term effects of the disease.\n', 'On many
+surfaces, including glass, some types of plastic, stainless steel, and
+skin, the virus can remain infective for several days indoors at room
+temperature, or even about a week under ideal conditions. On some
+surfaces, including cotton fabric and copper, the virus usually dies
+after a few hours. The virus dies faster on porous surfaces than on
+non-porous surfaces due to capillary action within pores and faster
+aerosol droplet evaporation. However, of the many surfaces tested, two
+with the longest survival times are N95 respirator masks and surgical
+masks, both of which are considered porous surfaces.\n', "Modernism
+sought to design and plan cities that followed the logic of the new
+model of industrial mass production; reverting to large-scale
+solutions, aesthetic standardisation, and prefabricated design
+solutions. Modernism eroded urban living by its failure to recognise
+differences and aim towards homogeneous landscapes (Simonsen 1990,
+57). Jane Jacobs' 1961 book The Death and Life of Great American
+Cities was a sustained critique of urban planning as it had developed
+within modernism and marked a transition from modernity to
+postmodernity in thinking about urban planning.\n", 'The Swiss
+historian Jacob Burckhardt (1818 1897) in his The Civilization of the
+Renaissance in Italy (1860), by contrast, defined the Renaissance as
+the period between Giotto and Michelangelo in Italy, that is, the 14th
+to mid-16th centuries. He saw in the Renaissance the emergence of the
+modern spirit of individuality, which the Middle Ages had stifled. His
+book was widely read and became influential in the development of the
+modern interpretation of the Italian Renaissance.\n', 'Tigers and
+lions in zoos have become infected as a result of contact with
+infected humans. As expected, monkeys and great ape species such as
+orangutans can also be infected with the COVID 19 virus.\n',
+'Neurologic manifestations include seizure, stroke, encephalitis, and
+Guillain Barr  syndrome (which includes loss of motor functions).
+Following the infection, children may develop paediatric multisystem
+inflammatory syndrome, which has symptoms similar to Kawasaki disease,
+which can be fatal. In very rare cases, acute encephalopathy can
+occur, and it can be considered in those who have been diagnosed with
+COVID 19 and have an altered mental status.\n'

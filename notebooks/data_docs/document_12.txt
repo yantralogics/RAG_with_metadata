@@ -1,81 +1,26 @@
-[['The word "Renaissance" is borrowed from the French language, where
-it means "re-birth". It was first used in the eighteenth century and
-was later popularized by French historian Jules Michelet (1798 1874)
-in his 1855 work, Histoire de France (History of France).[97][98]\n'],
-['The use of passive antibodies to treat people with active COVID 19
-is also being studied. This involves the production of convalescent
-serum, which consists of the liquid portion of the blood from people
-who recovered from the infection and contains antibodies specific to
-this virus, which is then administered to active patients.[523] This
-strategy was tried for SARS with inconclusive results.[523] An updated
-Cochrane review in May 2023 found high certainty evidence that, for
-the treatment of people with moderate to severe COVID 19, convalescent
-plasma did not reduce mortality or bring about symptom
-improvement.[524] There continues to be uncertainty about the safety
-of convalescent plasma administration to people with COVID 19 and
-differing outcomes measured in different studies limits their use in
-determining efficacy.[524]\n'], ["After Italy, Hungary was the first
-European country where the Renaissance appeared.[100] The Renaissance
-style came directly from Italy during the Quattrocento (1400s) to
-Hungary first in the Central European region, thanks to the
-development of early Hungarian-Italian relationships   not only in
-dynastic connections, but also in cultural, humanistic and commercial
-relations\xa0  growing in strength from the 14th century. The
-relationship between Hungarian and Italian Gothic styles was a second
-reason\xa0  exaggerated breakthrough of walls is avoided, preferring
-clean and light structures. Large-scale building schemes provided
-ample and long term work for the artists, for example, the building of
-the Friss (New) Castle in Buda, the castles of Visegr d, Tata, and V
-rpalota. In Sigismund's court there were patrons such as Pipo Spano, a
-descendant of the Scolari family of Florence, who invited Manetto
-Ammanatini and Masolino da Pannicale to Hungary.[101]\n"], ['Several
-laboratories and companies have developed serological tests, which
-detect antibodies produced by the body in response to infection.
-Several have been evaluated by Public Health England and approved for
-use in the UK.[174]\n'], ['Criticism of postmodernist movements in the
-arts include objections to departure from beauty, the reliance on
-language for the art to have meaning, a lack of coherence or
-comprehensibility, deviation from clear structure, and consistent use
-of dark and negative themes.[87][88]\n'], ['They argued for
-architecture that represented the spirit of the age as depicted in
-cutting-edge technology, be it airplanes, cars, ocean liners, or even
-supposedly artless grain silos.[36]\nModernist Ludwig Mies van der
-Rohe is associated with the phrase "less is more".\n'], ['Italy had
-its first confirmed cases on 31 January 2020, two tourists from
-China.[451] Italy overtook China as the country with the most deaths
-on 19 March 2020.[452] By 26 March the United States had overtaken
-China and Italy with the highest number of confirmed cases in the
-world.[453] Research on coronavirus genomes indicates the majority of
-COVID-19 cases in New York came from European travellers, rather than
-directly from China or any other Asian country.[454] Retesting of
-prior samples found a person in France who had the virus on 27
-December 2019,[455][456] and a person in the United States who died
-from the disease on 6\xa0February 2020.[457]\n'], ['As is common with
-infections, there is a delay between the moment a person first becomes
-infected and the appearance of the first symptoms. The median delay
-for COVID-19 is four to five days[52] possibly being infectious on 1-4
-of those days.[53] Most symptomatic people experience symptoms within
-two to seven days after exposure, and almost all will experience at
-least one symptom within 12 days.[52][54]\n'], ['Following Meteora\'s
-success, the band worked on many side projects.[54] Bennington
-appeared on DJ Lethal\'s "State of the Art" and other work with Dead
-by Sunrise, while Shinoda did work with Depeche Mode, creating the
-remix song "Enjoy the Silence 04".[10] In 2004, the band began to work
-with Jay-Z to produce another remix album, titled Collision Course.
-The album, which featured intermixed lyrics and background tracks from
-both artists\' previous albums, debuted in November 2004. Shinoda also
-formed Fort Minor as a side project. With the aid of Jay-Z, Fort Minor
-released their debut album, The Rising Tied, to critical
-acclaim.[55][56]\n'], ['Humanist scholars shaped the intellectual
+"In stark contrast to the High Middle Ages, when Latin scholars
+focused almost entirely on studying Greek and Arabic works of natural
+science, philosophy and mathematics,e Renaissance scholars were most
+interested in recovering and studying Latin and Greek literary,
+historical, and oratorical texts. Broadly speaking, this began in the
+14th century with a Latin phase, when Renaissance scholars such as
+Petrarch, Coluccio Salutati (1331 1406), Niccol  de' Niccoli (1364
+1437), and Poggio Bracciolini (1380 1459) scoured the libraries of
+Europe in search of works by such Latin authors as Cicero, Lucretius,
+Livy, and Seneca. By the early 15th century, the bulk of the surviving
+such Latin literature had been recovered; the Greek phase of
+Renaissance humanism was under way, as Western European scholars
+turned to recovering ancient Greek literary, historical, oratorical
+and theological texts.\n", 'Humanist scholars shaped the intellectual
 landscape throughout the early modern period. Political philosophers
 such as Niccol  Machiavelli and Thomas More revived the ideas of Greek
 and Roman thinkers and applied them in critiques of contemporary
-government, following the Islamic steps of Ibn Khaldun.[60][61] Pico
-della Mirandola wrote the "manifesto" of the Renaissance, the Oration
-on the Dignity of Man, a vibrant defence of thinking.[citation needed]
-Matteo Palmieri (1406 1475), another humanist, is most known for his
-work Della vita civile ("On Civic Life"; printed 1528), which
-advocated civic humanism, and for his influence in refining the Tuscan
+government, following the Islamic steps of Ibn Khaldun. Pico della
+Mirandola wrote the "manifesto" of the Renaissance, the Oration on the
+Dignity of Man, a vibrant defence of thinking.citation needed Matteo
+Palmieri (1406 1475), another humanist, is most known for his work
+Della vita civile ("On Civic Life"; printed 1528), which advocated
+civic humanism, and for his influence in refining the Tuscan
 vernacular to the same level as Latin. Palmieri drew on Roman
 philosophers and theorists, especially Cicero, who, like Palmieri,
 lived an active public life as a citizen and official, as well as a
@@ -89,4 +34,95 @@ include ideas about how children develop mentally and physically, how
 citizens can conduct themselves morally, how citizens and states can
 ensure probity in public life, and an important debate on the
 difference between that which is pragmatically useful and that which
-is honest.[citation needed]\n']]
+is honest.citation needed\n', "Culture in the Netherlands at the end
+of the 15th century was influenced by the Italian Renaissance through
+trade via Bruges, which made Flanders wealthy. Its nobles commissioned
+artists who became known across Europe. In science, the anatomist
+Andreas Vesalius led the way; in cartography, Gerardus Mercator's map
+assisted explorers and navigators. In art, Dutch and Flemish
+Renaissance painting ranged from the strange work of Hieronymus Bosch
+to the everyday life depictions of Pieter Brueghel the Elder.\n", "At
+an early stage of the pandemic, the World Health Organization reported
+estimates of IFR between 0.3% and 1%. On 2\xa0July, The WHO's chief
+scientist reported that the average IFR estimate presented at a two-
+day WHO expert forum was about 0.6%. In August, the WHO found that
+studies incorporating data from broad serology testing in Europe
+showed IFR estimates converging at approximately 0.5 1%. Firm lower
+limits of IFRs have been established in a number of locations such as
+New York City and Bergamo in Italy since the IFR cannot be less than
+the population fatality rate. (After sufficient time however, people
+can get reinfected). As of 10 July, in New York City, with a
+population of 8.4\xa0million, 23,377 individuals (18,758 confirmed and
+4,619 probable) have died with COVID 19 (0.3% of the population).
+Antibody testing in New York City suggested an IFR of  0.9%, and
+1.4%. In Bergamo province, 0.6% of the population has died. In
+September 2020, the U.S. Centers for Disease Control and Prevention
+(CDC) reported preliminary estimates of age-specific IFRs for public
+health planning purposes.\n", 'A Thousand Suns was released on
+September 14. The album\'s first single, "The Catalyst", was released
+on August 2. The band promoted their new album by launching a concert
+tour, which started on October 2010. Other singles from the album
+include, "Waiting for the End", "Burning in the Skies", and
+"Iridescent". Furthermore, a documentary about the album\'s
+production, titled Meeting of A Thousand Suns, was available. On
+August 31, 2010, it was announced that the band would perform "The
+Catalyst" live for the first time at the 2010 MTV Video Music Awards
+on September 12, 2010. The venue of the debut live performance of the
+single was Griffith Observatory, an location used in Hollywood
+movies.\n', 'Pope Paul III came to the papal throne (1534 1549) after
+the sack of Rome in 1527, with uncertainties prevalent in the Catholic
+Church following the Reformation. Nicolaus Copernicus dedicated De
+revolutionibus orbium coelestium (On the Revolutions of the Celestial
+Spheres) to Paul III, who became the grandfather of Alessandro
+Farnese, who had paintings by Titian, Michelangelo, and Raphael, as
+well as an important collection of drawings, and who commissioned the
+masterpiece of Giulio Clovio, arguably the last major illuminated
+manuscript, the Farnese Hours.\n', 'Transferring purified and
+concentrated antibodies produced by the immune systems of those who
+have recovered from COVID 19 to people who need them is being
+investigated as a non-vaccine method of passive immunisation. Viral
+neutralisation is the anticipated mechanism of action by which passive
+antibody therapy can mediate defence against SARS-CoV-2. The spike
+protein of SARS-CoV-2 is the primary target for neutralising
+antibodies. As of 8\xa0August 2020, eight neutralising antibodies
+targeting the spike protein of SARS-CoV-2 have entered clinical
+studies. It has been proposed that selection of broad-neutralising
+antibodies against SARS-CoV-2 and SARS-CoV might be useful for
+treating not only COVID 19 but also future SARS-related CoV
+infections. Other mechanisms, however, such as antibody-dependant
+cellular cytotoxicity or phagocytosis, may be possible. Other forms of
+passive antibody therapy, for example, using manufactured monoclonal
+antibodies, are in development.\n', 'In November 2020, the US Food and
+Drug Administration (FDA) issued an emergency use authorisation for
+the investigational monoclonal antibody therapy bamlanivimab for the
+treatment of mild-to-moderate COVID 19. Bamlanivimab is authorised for
+people with positive results of direct SARS-CoV-2 viral testing who
+are twelve years of age and older weighing at least 40 kilograms
+(88\xa0lb), and who are at high risk for progressing to severe COVID
+19 or hospitalisation. This includes those who are 65 years of age or
+older, or who have chronic medical conditions.\n', 'The intense
+international exchange produced several cosmopolitan humanist
+scholars, including Francisco de Holanda, Andr  de Resende, and Dami o
+de G is, a friend of Erasmus who wrote with rare independence on the
+reign of King Manuel I. Diogo and Andr  de Gouveia made relevant
+teaching reforms via France. Foreign news and products in the
+Portuguese factory in Antwerp attracted the interest of Thomas More
+and Albrecht D rer to the wider world. There, profits and know-how
+helped nurture the Dutch Renaissance and Golden Age, especially after
+the arrival of the wealthy cultured Jewish community expelled from
+Portugal.\n', 'Historian and political philosopher Quentin Skinner
+points out that Otto of Freising (c. 1114 1158), a German bishop
+visiting north Italy during the 12th century, noticed a widespread new
+form of political and social organization, observing that Italy
+appeared to have exited from feudalism so that its society was based
+on merchants and commerce. Linked to this was anti-monarchical
+thinking, represented in the famous early Renaissance fresco cycle The
+Allegory of Good and Bad Government by Ambrogio Lorenzetti (painted
+1338 1340), whose strong message is about the virtues of fairness,
+justice, republicanism and good administration. Holding both Church
+and Empire at bay, these city republics were devoted to notions of
+liberty. Skinner reports that there were many defences of liberty such
+as the Matteo Palmieri (1406 1475) celebration of Florentine genius
+not only in art, sculpture and architecture, but "the remarkable
+efflorescence of moral, social and political philosophy that occurred
+in Florence at the same time".\n'

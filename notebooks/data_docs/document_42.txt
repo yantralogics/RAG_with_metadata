@@ -1,69 +1,94 @@
-[['Modern Architecture, as established and developed by Walter Gropius
-and Le Corbusier, was focused on:\n'], ['Author on postmodernism,
-Dominic Strinati, has noted, it is also important "to include in this
-category the so-called \'art rock\' musical innovations and mixing of
-styles associated with groups like Talking Heads, and performers like
-Laurie Anderson, together with the self-conscious \'reinvention of
-disco\' by the Pet Shop Boys".[51]\n'], ['COVID 19 case fatality rates
-are higher among men than women in most countries. However, in a few
-countries like India, Nepal, Vietnam, and Slovenia the fatality cases
-are higher in women than men.[343] Globally, men are more likely to be
-admitted to the ICU and more likely to die.[367][368] One meta-
-analysis found that globally, men were more likely to get COVID 19
-than women; there were approximately 55 men and 45 women per 100
-infections (CI: 51.43 56.58).[369]\n'], ['Modelling research has been
-conducted with several objectives, including predictions of the
-dynamics of transmission,[482] diagnosis and prognosis of
-infection,[483] estimation of the impact of interventions,[484][485]
-or allocation of resources.[486] Modelling studies are mostly based on
-compartmental models in epidemiology,[487] estimating the number of
-infected people over time under given conditions. Several other types
-of models have been developed and used during the COVID 19 pandemic
-including computational fluid dynamics models to study the flow
-physics of COVID 19,[488] retrofits of crowd movement models to study
-occupant exposure,[489] mobility-data based models to investigate
-transmission,[490] or the use of macroeconomic models to assess the
-economic impact of the pandemic.[491]\n'], ["The transition from
-modernism to postmodernism is often said to have happened at
-3:32\xa0pm on 15 July in 1972, when Pruitt Igoe, a housing development
-for low-income people in St. Louis designed by architect Minoru
-Yamasaki, which had been a prize-winning version of Le Corbusier's
-'machine for modern living,' was deemed uninhabitable and was torn
-down.[67] Since then, postmodernism has involved theories that embrace
-and aim to create diversity. It exalts uncertainty, flexibility and
-change and rejects utopianism while embracing a utopian way of
-thinking and acting.[68] Postmodernity of 'resistance' seeks to
-deconstruct modernism and is a critique of the origins without
-necessarily returning to them.[69] As a result of postmodernism,
-planners are much less inclined to lay a firm or steady claim to there
-being one single 'right way' of engaging in urban planning and are
-more open to different styles and ideas of 'how to plan'.[70]\n"],
-["In Minutes to Midnight the band experimented with their established
-sound and drew influences from a wider and more varied range of genres
-and styles, a process Los Angeles Times compares to a stage in U2's
-work.[284] Only two songs on the album's tracklist feature rap vocals
-and the majority of the album can be considered alternative
-rock.[285][286]\n"], ['The term "postmodern" was first used in 1870 by
-John Watkins Chapman, who described "a Postmodern style of painting"
-as a departure from French Impressionism.[13][14] The first citation
-given by the Oxford English Dictionary is dated to 1916, describing
-Gus Mager as "one of the few \'post\' modern painters whose style is
-convincing".[15]\n'], ['Linkin Park is among both the best-selling
-bands of the 21st century and the world\'s best-selling music artists,
-having sold over 100 million records worldwide.[5] They have won two
-Grammy Awards, six American Music Awards, two Billboard Music Awards,
-four MTV Video Music Awards, 10 MTV Europe Music Awards, and three
-World Music Awards. In 2003, MTV2 named Linkin Park the sixth-greatest
-band of the music video era and the third-best of the new millennium.
-Billboard ranked Linkin Park No. 19 on the Best Artists of the Decade
-list. In 2012, the band was voted as the greatest artist of the 2000s
-in a Bracket Madness poll on VH1. In 2014, the band was declared as
-"The Biggest Rock Band in the World Right Now" by Kerrang!.\n'], ["The
-long-imagined south polar continent was eventually sighted in 1820.
-Throughout the Renaissance it had been known as Terra Australis, or
-'Australia' for short. However, after that name was transferred to New
-Holland in the nineteenth century, the new name of 'Antarctica' was
-bestowed on the south polar continent.[82]\n"], ['The risks of
-cognitive deficit, dementia, psychotic disorders, and epilepsy or
-seizures persists at an increased level two years after
-infection.[331]\n']]
+'More recently metamodernism, post-postmodernism and the "death of
+postmodernism" have been widely debated: in 2007 Andrew Hoberek noted
+in his introduction to a special issue of the journal Twentieth-
+Century Literature titled "After Postmodernism" that "declarations of
+postmodernism\'s demise have become a critical commonplace". A small
+group of critics has put forth a range of theories that aim to
+describe culture or society in the alleged aftermath of postmodernism,
+most notably Raoul Eshelman (performatism), Gilles Lipovetsky
+(hypermodernity), Nicolas Bourriaud (altermodern), and Alan Kirby
+(digimodernism, formerly called pseudo-modernism). None of these new
+theories or labels have so far gained very widespread acceptance.
+Sociocultural anthropologist Nina M ller-Schwarze offers
+neostructuralism as a possible direction. The exhibition Postmodernism
+Style and Subversion 1970 1990 at the Victoria and Albert Museum
+(London, 24 September 2011   15 January 2012) was billed as the first
+show to document postmodernism as a historical movement.\n', "In stark
+contrast to the High Middle Ages, when Latin scholars focused almost
+entirely on studying Greek and Arabic works of natural science,
+philosophy and mathematics,e Renaissance scholars were most interested
+in recovering and studying Latin and Greek literary, historical, and
+oratorical texts. Broadly speaking, this began in the 14th century
+with a Latin phase, when Renaissance scholars such as Petrarch,
+Coluccio Salutati (1331 1406), Niccol  de' Niccoli (1364 1437), and
+Poggio Bracciolini (1380 1459) scoured the libraries of Europe in
+search of works by such Latin authors as Cicero, Lucretius, Livy, and
+Seneca. By the early 15th century, the bulk of the surviving such
+Latin literature had been recovered; the Greek phase of Renaissance
+humanism was under way, as Western European scholars turned to
+recovering ancient Greek literary, historical, oratorical and
+theological texts.\n", 'In November 2017, the band announced that a
+live album compiled from their final tour with Bennington, titled One
+More Light Live, would be released on December 15. On November 19,
+Linkin Park received an American Music Award for Favorite Alternative
+Artist and dedicated the award to Bennington.\n', "The M protein is
+the viral protein responsible for the transmembrane transport of
+nutrients. It is the cause of the bud release and the formation of the
+viral envelope. The N and E protein are accessory proteins that
+interfere with the host's immune response.\n", "\nThe traditional view
+focuses more on the Renaissance's early modern aspects and argues that
+it was a break from the past, but many historians today focus more on
+its medieval aspects and argue that it was an extension of the Middle
+Ages. The beginnings of the period the early Renaissance of the 15th
+century and the Italian Proto-Renaissance from around 1250 or 1300
+overlap considerably with the Late Middle Ages, conventionally dated
+to c.\u20091350 1500, and the Middle Ages themselves were a long
+period filled with gradual changes, like the modern age; as a
+transitional period between both, the Renaissance has close
+similarities to both, especially the late and early sub-periods of
+either.", 'In July 2011, Bennington told Rolling Stone that Linkin
+Park aims to produce a new album every eighteen months, and that he
+would be shocked if a new album did not come out in 2012. He later
+revealed in another interview in September 2011 that the band was
+still in the beginning phases of the next album, saying "We just kind
+of began. We like to keep the creative juices flowing, so we try to
+keep that going all the time\xa0... we like the direction that we\'re
+going in". On March 28, 2012, Shinoda confirmed that the band is
+filming a music video for "Burn It Down", directed by Joe Hahn.
+Shinoda spoke to Co.Create about the album\'s art, saying that it will
+"blow them the fans away\xa0... the average person is not going to be
+able to look at it and go, I understand that that\'s completely new,
+like not just the image but the way they made the image is totally
+new. So there\'s going to be that".\n', "In Minutes to Midnight the
+band experimented with their established sound and drew influences
+from a wider and more varied range of genres and styles, a process Los
+Angeles Times compares to a stage in U2's work. Only two songs on the
+album's tracklist feature rap vocals and the majority of the album can
+be considered alternative rock.\n", 'Criticisms of postmodernism are
+intellectually diverse. Since postmodernism criticizes both
+conservative and modernist values as well as universalist concepts
+such as objective reality, morality, truth, reason, and social
+progress, critics of postmodernism often defend such concepts from
+various angles.\n', 'The vocal interplay between Chester Bennington
+and Mike Shinoda plays as a major part within Linkin Park\'s music,
+with Bennington being the lead vocalist and Shinoda as the rapping
+vocalist. On Linkin Park\'s third album, Minutes to Midnight, Shinoda
+sings lead vocals on "In Between", "Hands Held High", and on the
+B-side "No Roads Left". On numerous songs from band\'s fourth album, A
+Thousand Suns, such as the album\'s singles ("The Catalyst", "Burning
+in the Skies", "Iridescent"), both Shinoda and Bennington sing. The
+album has been regarded as a turning point in the band\'s musical
+career, having a stronger emphasis on electronica. James Montgomery,
+of MTV, compared the record to Radiohead\'s Kid A, while Jordy Kasko
+of Review, Rinse, Repeat likened the album to both Kid A and Pink
+Floyd\'s landmark album The Dark Side of the Moon. Shinoda stated that
+he and the other band members were deeply influenced by Chuck D and
+Public Enemy. He elaborated: "Public Enemy were very three-dimensional
+with their records because although they seemed political, there was a
+whole lot of other stuff going on in there too. It made me think how
+three-dimensional I wanted our record to be without imitating them of
+course, and show where we were at creatively". One of the record\'s
+political elements is its samples of speeches by American political
+figures. A Thousand Suns was described as trip hop, electronic rock,
+ambient, alternative rock, industrial rock, experimental rock, rap
+rock, and progressive rock.\n'

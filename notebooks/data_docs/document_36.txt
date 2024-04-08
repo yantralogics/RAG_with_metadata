@@ -1,88 +1,74 @@
-[['On January 28, 2018, Shinoda replied to a tweet from a fan
-inquiring about his future with Linkin Park, writing "I have every
-intention on continuing with LP, and the guys feel the same. We have a
-lot of rebuilding to do, and questions to answer, so it\'ll take
-time."[222] On March 29, however, Shinoda stated that he was uncertain
-of Linkin Park\'s future when being interviewed by Vulture.[223] On
-April 17, Linkin Park was nominated for three awards at the 2018
-Billboard Music Awards, but did not win any of them.[224] The band was
-presented with The George and Ira Gershwin Award for Lifetime Musical
-Achievement at UCLA on May 18.[225] On February 18, 2019, Shinoda said
-in an interview that the band is open to the idea of continuing though
-what form that takes has yet to be decided. Shinoda stated "I know the
-other guys, they love to be onstage, they love to be in a studio, and
-so to not do that would be like, I don\'t know, almost like
-unhealthy." When asked about the band\'s future minus Bennington,
-Shinoda stated, "It\'s not my goal to look for a new singer. If it
-does happen, it has to happen naturally. If we find someone that is a
-great person and good stylistic fit, I could see trying to do some
-stuff with somebody. I would never want to feel like we are replacing
-Chester."[226]\n'], ['Rapid accumulation of knowledge, which has
-characterized the development of science since the 17th century, had
-never occurred before that time. The new kind of scientific activity
-emerged only in a few countries of Western Europe, and it was
-restricted to that small area for about two hundred years. (Since the
-19th century, scientific knowledge has been assimilated by the rest of
-the world).'], ["The new ideals of humanism, although more secular in
-some aspects, developed against a Christian backdrop, especially in
-the Northern Renaissance. Much, if not most, of the new art was
-commissioned by or in dedication to the Church.[25] However, the
-Renaissance had a profound effect on contemporary theology,
-particularly in the way people perceived the relationship between man
-and God.[25] Many of the period's foremost theologians were followers
-of the humanist method, including Erasmus, Huldrych Zwingli, Thomas
-More, Martin Luther, and John Calvin.\n"], ["The Black Death caused
-greater upheaval to Florence's social and political structure than
-later epidemics. Despite a significant number of deaths among members
-of the ruling classes, the government of Florence continued to
-function during this period. Formal meetings of elected
-representatives were suspended during the height of the epidemic due
-to the chaotic conditions in the city, but a small group of officials
-was appointed to conduct the affairs of the city, which ensured
-continuity of government.[53]\n"], ['In the Netherlands, a
-particularly vibrant artistic culture developed. The work of Hugo van
-der Goes and Jan van Eyck was particularly influential on the
-development of painting in Italy, both technically with the
-introduction of oil paint and canvas, and stylistically in terms of
-naturalism in representation. Later, the work of Pieter Brueghel the
-Elder would inspire artists to depict themes of everyday
-life.[66]\n'], ['In March 2020, the World Health Organization (WHO)
-initiated the Solidarity trial to assess the treatment effects of some
-promising drugs: an experimental drug called remdesivir; anti-malarial
-drugs chloroquine and hydroxychloroquine; two anti-HIV drugs,
-lopinavir/ritonavir; and interferon-beta.[494][495] More than 300
-active clinical trials are underway as of April 2020.[70]\n'], ["The
-Renaissance arrived in the Iberian peninsula through the Mediterranean
-possessions of the Aragonese Crown and the city of Valencia. Many
-early Spanish Renaissance writers come from the Crown of Aragon,
-including Ausi s March and Joanot Martorell. In the Crown of Castile,
-the early Renaissance was heavily influenced by the Italian humanism,
-starting with writers and poets such as the Marquis of Santillana, who
-introduced the new Italian poetry to Spain in the early 15th century.
-Other writers, such as Jorge Manrique, Fernando de Rojas, Juan del
-Encina, Juan Bosc n Almog ver, and Garcilaso de la Vega, kept a close
-resemblance to the Italian canon. Miguel de Cervantes's masterpiece
-Don Quixote is credited as the first Western novel. Renaissance
-humanism flourished in the early 16th century, with influential
-writers such as philosopher Juan Luis Vives, grammarian Antonio de
-Nebrija and natural historian Pedro de Mex a.\n"], ["Modernism sought
-to design and plan cities that followed the logic of the new model of
-industrial mass production; reverting to large-scale solutions,
-aesthetic standardisation, and prefabricated design solutions.[64]
-Modernism eroded urban living by its failure to recognise differences
-and aim towards homogeneous landscapes (Simonsen 1990, 57). Jane
-Jacobs' 1961 book The Death and Life of Great American Cities[65] was
-a sustained critique of urban planning as it had developed within
-modernism and marked a transition from modernity to postmodernity in
-thinking about urban planning.[66]\n"], [' Research conducted when
-Alpha was the dominant variant has suggested COVID-19 may cause brain
-damage.[130] Later research showed that all variants studied
-(including Omicron) killed brain cells, but the exact cells killed
-varied by variant.[131] It is unknown if such damage is temporary or
-permanent.[132][133] Observed individuals infected with COVID-19 (most
-with mild cases) experienced an additional 0.2% to 2% of brain tissue
-lost in regions of the brain connected to the sense of smell compared
-with uninfected individuals, and the overall effect on the brain was
-equivalent on average to at least one extra year of normal ageing;
-infected individuals also scored lower on several cognitive tests. All
-effects were more pronounced among older ages.[134]\n']]
+'Some early studies suggest 10% to 20% of people with COVID 19 will
+experience symptoms lasting longer than a month. A majority of those
+who were admitted to hospital with severe disease report long-term
+problems including fatigue and shortness of breath. On 30 October
+2020, WHO chief Tedros Adhanom warned that "to a significant number of
+people, the COVID virus poses a range of serious long-term effects".
+He has described the vast spectrum of COVID 19 symptoms that fluctuate
+over time as "really concerning". They range from fatigue, a cough and
+shortness of breath, to inflammation and injury of major organs\xa0
+including the lungs and heart, and also neurological and psychologic
+effects. Symptoms often overlap and can affect any system in the body.
+Infected people have reported cyclical bouts of fatigue, headaches,
+months of complete exhaustion, mood swings, and other symptoms. Tedros
+therefore concluded that a strategy of achieving herd immunity by
+infection, rather than vaccination, is "morally unconscionable and
+unfeasible".\n', 'The Renaissance has a long and complex
+historiography, and in line with general skepticism of discrete
+periodizations, there has been much debate among historians reacting
+to the 19th-century glorification of the "Renaissance" and individual
+cultural heroes as "Renaissance men", questioning the usefulness of
+Renaissance as a term and as a historical delineation.\n', 'The
+greatest monument of this style in the territory of the former Duchy
+of Pomerania is the Ducal Castle in Szczecin.\n', 'In September 2020,
+the US Centers for Disease Control and Prevention (CDC) published
+preliminary estimates of the risk of death by age groups in the United
+States, but those estimates were widely misreported and
+misunderstood.\n', 'The Public Health Emergency of International
+Concern for COVID-19 ended on May 5, 2023. By this time, everyday life
+in most countries had returned to how it was before the pandemic.\n',
+'More recently metamodernism, post-postmodernism and the "death of
+postmodernism" have been widely debated: in 2007 Andrew Hoberek noted
+in his introduction to a special issue of the journal Twentieth-
+Century Literature titled "After Postmodernism" that "declarations of
+postmodernism\'s demise have become a critical commonplace". A small
+group of critics has put forth a range of theories that aim to
+describe culture or society in the alleged aftermath of postmodernism,
+most notably Raoul Eshelman (performatism), Gilles Lipovetsky
+(hypermodernity), Nicolas Bourriaud (altermodern), and Alan Kirby
+(digimodernism, formerly called pseudo-modernism). None of these new
+theories or labels have so far gained very widespread acceptance.
+Sociocultural anthropologist Nina M ller-Schwarze offers
+neostructuralism as a possible direction. The exhibition Postmodernism
+Style and Subversion 1970 1990 at the Victoria and Albert Museum
+(London, 24 September 2011   15 January 2012) was billed as the first
+show to document postmodernism as a historical movement.\n', 'Some
+criticism responds to postmodernist skepticism towards objective
+reality and claims that truth and morality are relative, including the
+argument that this relativism is self-contradictory. In part in
+reference to postmodernism, conservative English philosopher Roger
+Scruton wrote, "A writer who says that there are no truths, or that
+all truth is \'merely relative,\' is asking you not to believe him. So
+don\'t." In 2014, the philosophers Theodore Schick and Lewis Vaughn
+wrote: "the statement that \'No unrestricted universal generalizations
+are true\' is itself an unrestricted universal generalization. So if
+relativism in any of its forms is true, it\'s false." Some responses
+to postmodernist relativism argue that, contrary to its proponents\'
+usual intentions, it does not necessarily benefit the political left.
+For example, the historian Richard J. Evans argued that if relativism
+rejects truth, it can legitimize far-right pseudohistory such as
+Holocaust denial.\n', 'Chest CT scans may be helpful to diagnose COVID
+19 in individuals with a high clinical suspicion of infection but are
+not recommended for routine screening. Bilateral multilobar ground-
+glass opacities with a peripheral, asymmetric, and posterior
+distribution are common in early infection. Subpleural dominance,
+crazy paving (lobular septal thickening with variable alveolar
+filling), and consolidation may appear as the disease progresses.
+Characteristic imaging features on chest radiographs and computed
+tomography (CT) of people who are symptomatic include asymmetric
+peripheral ground-glass opacities without pleural effusions.\n', 'The
+Wuhan Municipal Health Commission made the first public announcement
+of a pneumonia outbreak of unknown cause on 31 December, confirming 27
+cases\xa0  enough to trigger an investigation.\n', 'COVID 19 is caused
+by infection with a strain of coronavirus known as "severe acute
+respiratory syndrome coronavirus 2" (SARS-CoV-2).\n'

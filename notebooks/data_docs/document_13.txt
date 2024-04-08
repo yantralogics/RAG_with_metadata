@@ -1,82 +1,121 @@
-[['The COVID 19 vaccines are widely credited for their role in
-reducing the spread of COVID 19 and reducing the severity and death
-caused by COVID 19.[203][206] According to a June 2022 study, COVID 19
-vaccines prevented an additional 14.4 to 19.8 million deaths in 185
-countries and territories from 8 December 2020 to 8 December
-2021.[207][208] Many countries implemented phased distribution plans
-that prioritized those at highest risk of complications, such as the
-elderly, and those at high risk of exposure and transmission, such as
-healthcare workers.[209][210]\n'], ['Emerging in the mid-twentieth
-century as a reaction against modernism,[8][9][10] postmodernism has
-permeated various disciplines[11] and is linked to critical theory,
-deconstruction, and post-structuralism.[4]\n'], ['In June, initial
-results from the randomised RECOVERY Trial in the United Kingdom
-showed that dexamethasone reduced mortality by one third for people
-who are critically ill on ventilators and one fifth for those
-receiving supplemental oxygen.[500] Because this is a well-tested and
-widely available treatment, it was welcomed by the WHO, which is in
-the process of updating treatment guidelines to include dexamethasone
-and other steroids.[501][502] Based on those preliminary results,
-dexamethasone treatment has been recommended by the NIH for patients
-with COVID 19 who are mechanically ventilated or who require
-supplemental oxygen but not in patients with COVID 19 who do not
-require supplemental oxygen.[503]\n'], ["Linkin Park performed at the
-closing ceremony of BlizzCon 2015, Blizzard's video game
-convention.[185][186]\n"], ['In some ways, Renaissance humanism was
-not a philosophy but a method of learning. In contrast to the medieval
-scholastic mode, which focused on resolving contradictions between
-authors, Renaissance humanists would study ancient texts in the
-original and appraise them through a combination of reasoning and
-empirical evidence. Humanist education was based on the programme of
-Studia Humanitatis, the study of five humanities: poetry, grammar,
-history, moral philosophy, and rhetoric. Although historians have
-sometimes struggled to define humanism precisely, most have settled on
-"a middle of the road definition... the movement to recover,
-interpret, and assimilate the language, literature, learning and
-values of ancient Greece and Rome".[57] Above all, humanists asserted
-"the genius of man\xa0... the unique and extraordinary ability of the
-human mind".[58]\n'], ['Most cases of COVID-19 are mild. In these,
-supportive care includes medication such as paracetamol or NSAIDs to
-relieve symptoms (fever, body aches, cough), proper intake of fluids,
-rest, and nasal breathing.[263][264][265][266] Good personal hygiene
-and a healthy diet are also recommended.[267] As of April 2020 the
-U.S. Centers for Disease Control and Prevention (CDC) recommended that
-those who suspect they are carrying the virus isolate themselves at
-home and wear a face mask.[268] As of November 2020 use of the
-glucocorticoid dexamethasone had been strongly recommended in those
-severe cases treated in hospital with low oxygen levels, to reduce the
-risk of death.[269][270][271] Noninvasive ventilation and, ultimately,
-admission to an intensive care unit for mechanical ventilation may be
-required to support breathing.[262] Extracorporeal membrane
-oxygenation (ECMO) has been used to address  respiratory failure, but
-its benefits are still under consideration.[272][273] Some of the
-cases of severe disease course are caused by systemic hyper-
-inflammation, the so-called cytokine storm.[274]\n'], ['The intense
-international exchange produced several cosmopolitan humanist
-scholars, including Francisco de Holanda, Andr  de Resende, and Dami o
-de G is, a friend of Erasmus who wrote with rare independence on the
-reign of King Manuel I. Diogo and Andr  de Gouveia made relevant
-teaching reforms via France. Foreign news and products in the
-Portuguese factory in Antwerp attracted the interest of Thomas
-More[138] and Albrecht D rer to the wider world.[139] There, profits
-and know-how helped nurture the Dutch Renaissance and Golden Age,
-especially after the arrival of the wealthy cultured Jewish community
-expelled from Portugal.\n'], ['Bennington died on July 20, 2017; his
-death was ruled a suicide by hanging.[200] Shinoda confirmed
-Bennington\'s death on Twitter, writing, "Shocked and heartbroken, but
-it\'s true. An official statement will come out as soon as we have
-one".[201] The band had released a music video for their single
-"Talking to Myself" earlier that day.[202] One day after Bennington\'s
-death, the band canceled the North American leg of their One More
-Light World Tour.[203] On the morning of July 24, Linkin Park released
-an official statement on their website as a tribute to
-Bennington.[204][205] On July 28, Shinoda announced that donations
-made to the band\'s Music for Relief charity would be redirected to
-the One More Light Fund, which had been set up in Bennington\'s
-memory.[206] On August 4, when the band was initially scheduled to
-play on Good Morning America, Chris Cornell\'s twelve-year-old
-daughter Toni appeared with OneRepublic to perform "Hallelujah" as a
-tribute to Bennington (who was the godfather to her younger brother,
-Christopher) and her father.[207][208] Bennington had previously
-performed the song at the funeral for Cornell, who had also died from
-a suicide by hanging two months earlier.[207]\n']]
+'Rapid accumulation of knowledge, which has characterized the
+development of science since the 17th century, had never occurred
+before that time. The new kind of scientific activity emerged only in
+a few countries of Western Europe, and it was restricted to that small
+area for about two hundred years. (Since the 19th century, scientific
+knowledge has been assimilated by the rest of the world).', 'The
+spread of disease was significantly more rampant in areas of poverty.
+Epidemics ravaged cities, particularly children. Plagues were easily
+spread by lice, unsanitary drinking water, armies, or by poor
+sanitation. Children were hit the hardest because many diseases, such
+as typhus and congenital syphilis, target the immune system, leaving
+young children without a fighting chance. Children in city dwellings
+were more affected by the spread of disease than the children of the
+wealthy.\n', "In the revival of neoplatonism, Renaissance humanists
+did not reject Christianity; on the contrary, many of the
+Renaissance's greatest works were devoted to it, and the Church
+patronized many works of Renaissance art.citation needed But a subtle
+shift took place in the way that intellectuals approached religion
+that was reflected in many other areas of cultural
+life.better\xa0source\xa0needed In addition, many Greek Christian
+works, including the Greek New Testament, were brought back from
+Byzantium to Western Europe and engaged Western scholars for the first
+time since late antiquity. This new engagement with Greek Christian
+works, and particularly the return to the original Greek of the New
+Testament promoted by humanists Lorenzo Valla and Erasmus, helped pave
+the way for the Reformation.citation needed\n", 'On January 28, 2018,
+Shinoda replied to a tweet from a fan inquiring about his future with
+Linkin Park, writing "I have every intention on continuing with LP,
+and the guys feel the same. We have a lot of rebuilding to do, and
+questions to answer, so it\'ll take time." On March 29, however,
+Shinoda stated that he was uncertain of Linkin Park\'s future when
+being interviewed by Vulture. On April 17, Linkin Park was nominated
+for three awards at the 2018 Billboard Music Awards, but did not win
+any of them. The band was presented with The George and Ira Gershwin
+Award for Lifetime Musical Achievement at UCLA on May 18. On February
+18, 2019, Shinoda said in an interview that the band is open to the
+idea of continuing though what form that takes has yet to be decided.
+Shinoda stated "I know the other guys, they love to be onstage, they
+love to be in a studio, and so to not do that would be like, I don\'t
+know, almost like unhealthy." When asked about the band\'s future
+minus Bennington, Shinoda stated, "It\'s not my goal to look for a new
+singer. If it does happen, it has to happen naturally. If we find
+someone that is a great person and good stylistic fit, I could see
+trying to do some stuff with somebody. I would never want to feel like
+we are replacing Chester."\n', 'In 1495 the Italian Renaissance
+arrived in France, imported by King Charles VIII after his invasion of
+Italy. A factor that promoted the spread of secularism was the
+inability of the Church to offer assistance against the Black Death.
+Francis I imported Italian art and artists, including Leonardo da
+Vinci, and built ornate palaces at great expense. Writers such as Fran
+ois Rabelais, Pierre de Ronsard, Joachim du Bellay, and Michel de
+Montaigne, painters such as Jean Clouet, and musicians such as Jean
+Mouton also borrowed from the spirit of the Renaissance.\n', 'Matthias
+enjoyed the company of Humanists and had lively discussions on various
+topics with them. The fame of his magnanimity encouraged many scholars
+mostly Italian to settle in Buda. Antonio Bonfini, Pietro Ranzano,
+Bartolomeo Fonzio, and Francesco Bandini spent many years in
+Matthias\'s court. This circle of educated men introduced the ideas of
+Neoplatonism to Hungary. Like all intellectuals of his age, Matthias
+was convinced that the movements and combinations of the stars and
+planets exercised influence on individuals\' life and on the history
+of nations. Galeotto Marzio described him as "king and astrologer",
+and Antonio Bonfini said Matthias "never did anything without
+consulting the stars". Upon his request, the famous astronomers of the
+age, Johannes Regiomontanus and Marcin Bylica, set up an observatory
+in Buda and installed it with astrolabes and celestial globes.
+Regiomontanus dedicated his book on navigation that was used by
+Christopher Columbus to Matthias.\n', 'Sociologist Rodney Stark, plays
+down the Renaissance in favor of the earlier innovations of the
+Italian city-states in the High Middle Ages, which married responsive
+government, Christianity and the birth of capitalism. This analysis
+argues that, whereas the great European states (France and Spain) were
+absolute monarchies, and others were under direct Church control, the
+independent city-republics of Italy took over the principles of
+capitalism invented on monastic estates and set off a vast
+unprecedented Commercial Revolution that preceded and financed the
+Renaissance.citation needed\n', 'The paintings of the Italian
+Renaissance differed from those of the Northern Renaissance. Italian
+Renaissance artists were among the first to paint secular scenes,
+breaking away from the purely religious art of medieval painters.
+Northern Renaissance artists initially remained focused on religious
+subjects, such as the contemporary religious upheaval portrayed by
+Albrecht D rer. Later, the works of Pieter Bruegel influenced artists
+to paint scenes of daily life rather than religious or classical
+themes. It was also during the Northern Renaissance that Flemish
+brothers Hubert and Jan van Eyck perfected the oil painting technique,
+which enabled artists to produce strong colors on a hard surface that
+could survive for centuries. A feature of the Northern Renaissance was
+its use of the vernacular in place of Latin or Greek, which allowed
+greater freedom of expression. This movement had started in Italy with
+the decisive influence of Dante Alighieri on the development of
+vernacular languages; in fact the focus on writing in Italian has
+neglected a major source of Florentine ideas expressed in Latin. The
+spread of the printing press technology boosted the Renaissance in
+Northern Europe as elsewhere, with Venice becoming a world center of
+printing.\n', 'Other periods of cultural rebirth have also been termed
+"renaissances", such as the Bengal Renaissance, Tamil Renaissance,
+Nepal Bhasa renaissance, al-Nahda or the Harlem Renaissance. The term
+can also be used in cinema. In animation, the Disney Renaissance is a
+period that spanned the years from 1989 to 1999 which saw the studio
+return to the level of quality not witnessed since their Golden Age of
+Animation. The San Francisco Renaissance was a vibrant period of
+exploratory poetry and fiction writing in that city in the mid-20th
+century.\n', 'Bennington died on July 20, 2017; his death was ruled a
+suicide by hanging. Shinoda confirmed Bennington\'s death on Twitter,
+writing, "Shocked and heartbroken, but it\'s true. An official
+statement will come out as soon as we have one". The band had released
+a music video for their single "Talking to Myself" earlier that day.
+One day after Bennington\'s death, the band canceled the North
+American leg of their One More Light World Tour. On the morning of
+July 24, Linkin Park released an official statement on their website
+as a tribute to Bennington. On July 28, Shinoda announced that
+donations made to the band\'s Music for Relief charity would be
+redirected to the One More Light Fund, which had been set up in
+Bennington\'s memory. On August 4, when the band was initially
+scheduled to play on Good Morning America, Chris Cornell\'s twelve-
+year-old daughter Toni appeared with OneRepublic to perform
+"Hallelujah" as a tribute to Bennington (who was the godfather to her
+younger brother, Christopher) and her father. Bennington had
+previously performed the song at the funeral for Cornell, who had also
+died from a suicide by hanging two months earlier.\n'

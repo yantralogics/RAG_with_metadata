@@ -1,99 +1,99 @@
-[['As a cultural movement, the Renaissance encompassed innovative
-flowering of Latin and vernacular literatures, beginning with the
-14th-century resurgence of learning based on classical sources, which
-contemporaries credited to Petrarch; the development of linear
-perspective and other techniques of rendering a more natural reality
-in painting; and gradual but widespread educational reform. In
-politics, the Renaissance contributed to the development of the
-customs and conventions of diplomacy, and in science to an increased
-reliance on observation and inductive reasoning. Although the
-Renaissance saw revolutions in many intellectual and social scientific
-pursuits, as well as the introduction of modern banking and the field
-of accounting,[5] it is perhaps best known for its artistic
-developments and the contributions of such polymaths as Leonardo da
-Vinci and Michelangelo, who inspired the term "Renaissance
-man".[6][7]\n'], ['The many thousands of SARS-CoV-2 variants are
-grouped into either clades or lineages.[105][106] The WHO, in
-collaboration with partners, expert networks, national authorities,
-institutions and researchers, have established nomenclature systems
-for naming and tracking SARS-CoV-2 genetic lineages by GISAID,
-Nextstrain and Pango. The expert group convened by the WHO recommended
-the labelling of variants using letters of the Greek alphabet, for
-example, Alpha, Beta, Delta, and Gamma, giving the justification that
-they "will be easier and more practical to discussed by non-scientific
-audiences".[107] Nextstrain divides the variants into five clades
-(19A, 19B, 20A, 20B, and 20C), while GISAID divides them into seven
-(L, O, V, S, G, GH, and GR).[108] The Pango tool groups variants into
-lineages, with many circulating lineages being classed under the B.1
-lineage.[106][109]\n'], ['Renaissance art marks a cultural rebirth at
-the close of the Middle Ages and rise of the Modern world. One of the
-distinguishing features of Renaissance art was its development of
-highly realistic linear perspective. Giotto di Bondone (1267 1337) is
-credited with first treating a painting as a window into space, but it
-was not until the demonstrations of architect Filippo Brunelleschi
-(1377 1446) and the subsequent writings of Leon Battista Alberti (1404
-1472) that perspective was formalized as an artistic
-technique.[63]\n'], ['The Renaissance was certainly underway before
-Lorenzo de\' Medici came to power   indeed, before the Medici family
-itself achieved hegemony in Florentine society. Some historians have
-postulated that Florence was the birthplace of the Renaissance as a
-result of luck, i.e., because "Great Men" were born there by
-chance:[55] Leonardo, Botticelli and Michelangelo were all born in
-Tuscany. Arguing that such chance seems improbable, other historians
-have contended that these "Great Men" were only able to rise to
-prominence because of the prevailing cultural conditions at the
-time.[56]\n'], ['The CDC states that avoiding crowded indoor spaces
-reduces the risk of COVID-19 infection.[226] When indoors, increasing
-the rate of air change, decreasing recirculation of air and increasing
-the use of outdoor air can reduce transmission.[226][227] The WHO
-recommends ventilation and air filtration in public spaces to help
-clear out infectious aerosols.[228][229][230]\n'], ['The art historian
-Erwin Panofsky observed of this resistance to the concept of
-"Renaissance":\n'], ['Rapid accumulation of knowledge, which has
-characterized the development of science since the 17th century, had
-never occurred before that time. The new kind of scientific activity
-emerged only in a few countries of Western Europe, and it was
-restricted to that small area for about two hundred years. (Since the
-19th century, scientific knowledge has been assimilated by the rest of
-the world).'], ['The CDC says that in most situations, cleaning
-surfaces with soap or detergent, not disinfecting, is enough to reduce
-risk of transmission.[250][251] The CDC recommends that if a COVID 19
-case is suspected or confirmed at a facility such as an office or day
-care, all areas such as offices, bathrooms, common areas, shared
-electronic equipment like tablets, touch screens, keyboards, remote
-controls, and ATMs used by the ill persons should be disinfected.[252]
-Surfaces may be decontaminated with 62 71 per cent ethanol, 50 100 per
-cent isopropanol, 0.1 per cent sodium hypochlorite, 0.5 per cent
-hydrogen peroxide, 0.2 7.5 per cent povidone-iodine, or 50 200 ppm
-hypochlorous acid. Other solutions, such as benzalkonium chloride and
-chlorhexidine gluconate, are less effective. Ultraviolet germicidal
-irradiation may also be used,[228] although popular devices require 5
-10\xa0min exposure and may deteriorate some materials over time.[253]
-A datasheet comprising the authorised substances to disinfection in
-the food industry (including suspension or surface tested, kind of
-surface, use dilution, disinfectant and inoculum volumes) can be seen
-in the supplementary material of.[243]\n'], ['The first COVID 19
-vaccine was granted regulatory approval on 2\xa0December 2020 by the
-UK medicines regulator MHRA.[195] It was evaluated for emergency use
-authorisation (EUA) status by the US FDA, and in several other
-countries.[196] Initially, the US National Institutes of Health
-guidelines do not recommend any medication for prevention of COVID 19,
-before or after exposure to the SARS-CoV-2 virus, outside the setting
-of a clinical trial.[197][70] Without a vaccine, other prophylactic
-measures, or effective treatments, a key part of managing COVID 19 is
-trying to decrease and delay the epidemic peak, known as "flattening
-the curve".[198] This is done by slowing the infection rate to
-decrease the risk of health services being overwhelmed, allowing for
-better treatment of active cases, and delaying additional cases until
-effective treatments or a vaccine become available.[198][199]\n'],
-['RT-PCR testing of untreated wastewater samples from Brazil and Italy
-have suggested detection of SARS-CoV-2 as early as November and
-December 2019, respectively, but the methods of such sewage studies
-have not been optimised, many have not been peer-reviewed, details are
-often missing, and there is a risk of false positives due to
-contamination or if only one gene target is detected.[458] A September
-2020 review journal article said, "The possibility that the COVID 19
-infection had already spread to Europe at the end of last year is now
-indicated by abundant, even if partially circumstantial, evidence",
-including pneumonia case numbers and radiology in France and Italy in
-November and December.[459]\n']]
+'COVID 19 case fatality rates are higher among men than women in most
+countries. However, in a few countries like India, Nepal, Vietnam, and
+Slovenia the fatality cases are higher in women than men. Globally,
+men are more likely to be admitted to the ICU and more likely to die.
+One meta-analysis found that globally, men were more likely to get
+COVID 19 than women; there were approximately 55 men and 45 women per
+100 infections (CI: 51.43 56.58).\n', "Erasmus was arguably the
+Netherlands' best known humanist and Catholic intellectual during the
+Renaissance.\n", 'One of the most well-known postmodernist concerns is
+deconstruction, a theory for philosophy, literary criticism, and
+textual analysis developed by Jacques Derrida. Derrida\'s work has
+been seen as rooted in a statement found in Of Grammatology: "Il n\'y
+a pas de hors-texte" ("there is nothing outside the text"). This
+statement is part of a critique of "inside" and "outside" metaphors
+when referring to the text, and is a corollary to the observation that
+there is no "inside" of a text as well. This attention to a text\'s
+unacknowledged reliance on metaphors and figures embedded within its
+discourse is characteristic of Derrida\'s approach. Derrida\'s method
+sometimes involves demonstrating that a given philosophical discourse
+depends on binary oppositions or excluding terms that the discourse
+itself has declared to be irrelevant or inapplicable. Derrida\'s
+philosophy inspired a postmodern movement called deconstructivism
+among architects, characterized by a design that rejects structural
+"centers" and encourages decentralized play among its elements.
+Derrida discontinued his involvement with the movement after the
+publication of his collaborative project with architect Peter Eisenman
+in Chora L Works: Jacques Derrida and Peter Eisenman.\n', 'The
+intellectual scholarship regarding postmodernism and architecture is
+closely linked with the writings of critic-turned-architect Charles
+Jencks, beginning with lectures in the early 1970s and his essay "The
+Rise of Post Modern Architecture" from 1975. His magnum opus, however,
+is the book The Language of Post-Modern Architecture, first published
+in 1977, and since running to seven editions. Jencks makes the point
+that Post-Modernism (like Modernism) varies for each field of art, and
+that for architecture it is not just a reaction to Modernism but what
+he terms double coding: "Double Coding: the combination of Modern
+techniques with something else (usually traditional building) in order
+for architecture to communicate with the public and a concerned
+minority, usually other architects." In their book, "Revisiting
+Postmodernism", Terry Farrell and Adam Furman argue that postmodernism
+brought a more joyous and sensual experience to the culture,
+particularly in architecture.\n', 'The virus does not appear to be
+able to infect pigs, ducks, or chickens at all. Mice, rats, and
+rabbits, if they can be infected at all, are unlikely to be involved
+in spreading the virus.\n', 'On August 22, Linkin Park announced plans
+to host a tribute concert in Los Angeles to honor Bennington. The band
+thanked fans for their support, stating, "The five of us are so
+grateful for all of your support as we heal and build the future of
+Linkin Park". The title track of One More Light was released as a
+single on October 3. The band later confirmed that the concert, titled
+Linkin Park and Friends: Celebrate Life in Honor of Chester
+Bennington, would take place on October 27 at the Hollywood Bowl. The
+event included Linkin Park\'s first performance following
+Bennington\'s death. The event featured multiple guests performing
+Linkin Park songs along with the band. The event was over three hours
+long and was streamed live via YouTube. It has been streamed 24.7
+million times as of December 2023.\n', 'Jorge Luis Borges\' (1939)
+short story "Pierre Menard, Author of the Quixote", is often
+considered as predicting postmodernism and is a paragon of the
+ultimate parody. Samuel Beckett is also considered an important
+precursor and influence. Novelists who are commonly connected with
+postmodern literature include Vladimir Nabokov, William Gaddis,
+Umberto Eco, Italo Calvino, Pier Vittorio Tondelli, John Hawkes,
+William S. Burroughs, Kurt Vonnegut, John Barth, Robert Coover, Jean
+Rhys, Donald Barthelme, E. L. Doctorow, Richard Kalich, Jerzy Kosi
+ski, Don DeLillo, Thomas Pynchon (Pynchon\'s work has also been
+described as high modern), Ishmael Reed, Kathy Acker, Ana Lydia Vega,
+J chym Topol and Paul Auster.\n', 'In the 1970s, a disparate group of
+post-structuralists in France developed a critique of modern
+philosophy with roots discernible in Friedrich Nietzsche, S ren
+Kierkegaard, and Martin Heidegger. Although few themselves relied upon
+the term, they became known to many as postmodern theorists. Notable
+figures include Jacques Derrida, Michel Foucault, Jean-Fran ois
+Lyotard, Jean Baudrillard, and others. By the 1980s, this spread to
+America in the work of Richard Rorty and others.\n', 'In November
+2020, the US Food and Drug Administration (FDA) issued an emergency
+use authorisation for the investigational monoclonal antibody therapy
+bamlanivimab for the treatment of mild-to-moderate COVID 19.
+Bamlanivimab is authorised for people with positive results of direct
+SARS-CoV-2 viral testing who are twelve years of age and older
+weighing at least 40 kilograms (88\xa0lb), and who are at high risk
+for progressing to severe COVID 19 or hospitalisation. This includes
+those who are 65 years of age or older, or who have chronic medical
+conditions.\n', "Linkin Park returned to the recording studios in 2006
+to work on new material. To produce the album, the band chose producer
+Rick Rubin. Despite initially stating the album would debut sometime
+in 2006, the album was delayed until 2007. The band had recorded
+thirty to fifty songs in August 2006, when Shinoda stated the album
+was halfway completed. Bennington later added that the new album would
+stray away from their previous nu metal sound. Warner Bros. Records
+officially announced that the band's third studio album, titled
+Minutes to Midnight, would be released on May 15, 2007, in the United
+States. After spending fourteen months working on the album, the band
+members opted to further refine their album by removing five of the
+original seventeen tracks. The album's title, a reference to the
+Doomsday Clock, foreshadowed the band's new lyrical themes. Minutes to
+Midnight sold over 623,000 copies in its first week, making it one of
+the most successful debut week albums in recent years. The album also
+took the top spot on the Billboard Charts.\n"

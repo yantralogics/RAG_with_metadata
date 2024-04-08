@@ -1,95 +1,57 @@
-[['One common symptom, loss of smell, results from infection of the
-support cells of the olfactory epithelium, with subsequent damage to
-the olfactory neurons.[124] The involvement of both the central and
-peripheral nervous system in COVID 19 has been reported in many
-medical publications.[125] It is clear that many people with COVID-19
-exhibit neurological or mental health issues. The virus is not
-detected in the central nervous system (CNS) of the majority of
-COVID-19 patients with neurological issues. However, SARS-CoV-2 has
-been detected at low levels in the brains of those who have died from
-COVID 19, but these results need to be confirmed.[126] While virus has
-been detected in cerebrospinal fluid of autopsies, the exact mechanism
-by which it invades the CNS remains unclear and may first involve
-invasion of peripheral nerves given the low levels of ACE2 in the
-brain.[127][128][129] The virus may also enter the bloodstream from
-the lungs and cross the blood brain barrier to gain access to the CNS,
-possibly within an infected white blood cell.[126]\n'], ["Linkin
-Park's influences include Limp Bizkit, Soundgarden, Alice in Chains,
-Pearl Jam, Stone Temple Pilots, Jane's Addiction, Nirvana, Red Hot
-Chili Peppers, Nine Inch Nails, Ministry, Skinny Puppy, Machines of
-Loving Grace, Metallica, Refused, Minor Threat, Fugazi, Descendents,
-Misfits, Beastie Boys, Run-DMC, A Tribe Called Quest, Rob Base and DJ
-E-Z Rock, N.W.A, Public Enemy, KRS-One, Boogie Down Productions, Led
-Zeppelin, Rage Against the Machine, and the
-Beatles.[312][313][314][315]\n"], ["In stark contrast to the High
-Middle Ages, when Latin scholars focused almost entirely on studying
-Greek and Arabic works of natural science, philosophy and
-mathematics,[e] Renaissance scholars were most interested in
-recovering and studying Latin and Greek literary, historical, and
-oratorical texts. Broadly speaking, this began in the 14th century
-with a Latin phase, when Renaissance scholars such as Petrarch,
-Coluccio Salutati (1331 1406), Niccol  de' Niccoli (1364 1437), and
-Poggio Bracciolini (1380 1459) scoured the libraries of Europe in
-search of works by such Latin authors as Cicero, Lucretius, Livy, and
-Seneca.[33] By the early 15th century, the bulk of the surviving such
-Latin literature had been recovered; the Greek phase of Renaissance
-humanism was under way, as Western European scholars turned to
-recovering ancient Greek literary, historical, oratorical and
-theological texts.[34]\n"], ['COVID 19 may also cause substantial
-structural changes to blood cells, sometimes persisting for months
-after hospital discharge.[146] A low level of blood lymphocytes may
-result from the virus acting through ACE2-related entry into
-lymphocytes.[147]\n'], ['Since the outbreak of the COVID 19 pandemic,
-scholars have explored the bioethics, normative economics, and
-political theories of healthcare policies related to the public health
-crisis.[527] Academics have pointed to the moral distress of
-healthcare workers, ethics of distributing scarce healthcare resources
-such as ventilators,[528] and the global justice of vaccine
-diplomacies.[citation needed] The socio-economic inequalities between
-genders,[529] races,[530] groups with disabilities,[531]
-communities,[532] regions, countries,[533] and continents have also
-drawn attention in academia and the general public.\n'], ['A cytokine
-storm is due to an acute hyperinflammatory response that is
-responsible for clinical illness in an array of diseases but in COVID
-19, it is related to worse prognosis and increased fatality. The storm
-causes acute respiratory distress syndrome, blood clotting events such
-as strokes, myocardial infarction, encephalitis, acute kidney injury,
-and vasculitis. The production of IL-1, IL-2, IL-6, TNF-alpha, and
-interferon-gamma, all crucial components of normal immune responses,
-inadvertently become the causes of a cytokine storm. The cells of the
-central nervous system, the microglia, neurons, and astrocytes, are
-also involved in the release of pro-inflammatory cytokines affecting
-the nervous system, and effects of cytokine storms toward the CNS are
-not uncommon.[162]\n'], ["Linkin Park has sold more than 100 million
-records worldwide.[317][318] The group's first studio album Hybrid
-Theory is one of the best-selling albums in the US (12\xa0million
-copies shipped) and worldwide (30\xa0million copies sold).[319]
-Billboard estimates that Linkin Park earned US$5 million between May
-2011 and May 2012, making them the 40th-highest-paid musical
-artist.[320] 11 of the band's singles have reached the number one
-position on Billboard's Alternative Songs chart, the second-most for
-any artist.[321]\n"], ['In the 15th century, the Renaissance spread
-rapidly from its birthplace in Florence to the rest of Italy and soon
-to the rest of Europe. The invention of the printing press by German
-printer Johannes Gutenberg allowed the rapid transmission of these new
-ideas. As it spread, its ideas diversified and changed, being adapted
-to local culture. In the 20th century, scholars began to break the
-Renaissance into regional and national movements.\n'], ['Linkin Park
-is among both the best-selling bands of the 21st century and the
-world\'s best-selling music artists, having sold over 100 million
-records worldwide.[5] They have won two Grammy Awards, six American
-Music Awards, two Billboard Music Awards, four MTV Video Music Awards,
-10 MTV Europe Music Awards, and three World Music Awards. In 2003,
-MTV2 named Linkin Park the sixth-greatest band of the music video era
-and the third-best of the new millennium. Billboard ranked Linkin Park
-No. 19 on the Best Artists of the Decade list. In 2012, the band was
-voted as the greatest artist of the 2000s in a Bracket Madness poll on
-VH1. In 2014, the band was declared as "The Biggest Rock Band in the
-World Right Now" by Kerrang!.\n'], ['Their fifth album, Living Things,
-is also an electronic-heavy album, but includes other influences,
-resulting in a harder sound by comparison.[299][300] The band returned
-to a heavier sound compared to their last three albums on The Hunting
-Party, which was described as an alternative metal,[301][302][303] nu
-metal,[304] hard rock,[301][305] rap rock,[306] and rap metal
-album.[307] Their seventh album, One More Light, was described as
-pop,[308][309] pop rock[271][310] and electropop.[311]\n']]
+'COVID 19 is caused by infection with a strain of coronavirus known as
+"severe acute respiratory syndrome coronavirus 2" (SARS-CoV-2).\n',
+'The Renaissance was a cultural movement that profoundly affected
+European intellectual life in the early modern period. Beginning in
+Italy, and spreading to the rest of Europe by the 16th century, its
+influence was felt in art, architecture, philosophy, literature,
+music, science, technology, politics, religion, and other aspects of
+intellectual inquiry. Renaissance scholars employed the humanist
+method in study, and searched for realism and human emotion in
+art.\n', 'Following Meteora\'s success, the band worked on many side
+projects. Bennington appeared on DJ Lethal\'s "State of the Art" and
+other work with Dead by Sunrise, while Shinoda did work with Depeche
+Mode, creating the remix song "Enjoy the Silence 04". In 2004, the
+band began to work with Jay-Z to produce another remix album, titled
+Collision Course. The album, which featured intermixed lyrics and
+background tracks from both artists\' previous albums, debuted in
+November 2004. Shinoda also formed Fort Minor as a side project. With
+the aid of Jay-Z, Fort Minor released their debut album, The Rising
+Tied, to critical acclaim.\n', 'The Italian artist and critic Giorgio
+Vasari (1511 1574) first used the term rinascita in his book The Lives
+of the Artists (published 1550). In the book Vasari attempted to
+define what he described as a break with the barbarities of Gothic
+art: the arts (he held) had fallen into decay with the collapse of the
+Roman Empire and only the Tuscan artists, beginning with Cimabue (1240
+1301) and Giotto (1267 1337) began to reverse this decline in the
+arts. Vasari saw ancient art as central to the rebirth of Italian
+art.\n', 'In 1492, Christopher Columbus sailed across the Atlantic
+Ocean from Spain seeking a direct route to India of the Delhi
+Sultanate. He accidentally stumbled upon the Americas, but believed he
+had reached the East Indies.\n', "The M protein is the viral protein
+responsible for the transmembrane transport of nutrients. It is the
+cause of the bud release and the formation of the viral envelope. The
+N and E protein are accessory proteins that interfere with the host's
+immune response.\n", 'As of August 2021, reinfection with COVID 19 was
+possible but uncommon. The first case of reinfection was documented in
+August 2020. A systematic review found 17 cases of confirmed
+reinfection in medical literature as of May 2021. With the Omicron
+variant, as of 2022, reinfections have become common, albeit it is
+unclear how common. COVID-19 reinfections are thought to likely be
+less severe than primary infections, especially if one was previously
+infected by the same variant.additional citation(s) needed\n',
+'Although Italian Renaissance had a modest impact in Portuguese arts,
+Portugal was influential in broadening the European worldview,
+stimulating humanist inquiry. Renaissance arrived through the
+influence of wealthy Italian and Flemish merchants who invested in the
+profitable commerce overseas. As the pioneer headquarters of European
+exploration, Lisbon flourished in the late 15th century, attracting
+experts who made several breakthroughs in mathematics, astronomy and
+naval technology, including Pedro Nunes, Jo o de Castro, Abraham
+Zacuto, and Martin Behaim. Cartographers Pedro Reinel, Lopo Homem, Est
+v o Gomes, and Diogo Ribeiro made crucial advances in mapping the
+world. Apothecary Tom  Pires and physicians Garcia de Orta and Crist v
+o da Costa collected and published works on plants and medicines, soon
+translated by Flemish pioneer botanist Carolus Clusius.\n', 'The virus
+does not appear to be able to infect pigs, ducks, or chickens at all.
+Mice, rats, and rabbits, if they can be infected at all, are unlikely
+to be involved in spreading the virus.\n'

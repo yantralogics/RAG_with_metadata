@@ -1,98 +1,61 @@
-[["By the 15th century, writers, artists, and architects in Italy were
-well aware of the transformations that were taking place and were
-using phrases such as modi antichi (in the antique manner) or alle
-romana et alla antica (in the manner of the Romans and the ancients)
-to describe their work. In the 1330s Petrarch referred to pre-
-Christian times as antiqua (ancient) and to the Christian period as
-nova (new).[85] From Petrarch's Italian perspective, this new period
-(which included his own time) was an age of national
-eclipse.[85]\nLeonardo Bruni was the first to use tripartite
-periodization in his History of the Florentine People (1442).[86]
-Bruni's first two periods were based on those of Petrarch, but he
-added a third period because he believed that Italy was no longer in a
-state of decline. Flavio Biondo used a similar framework in Decades of
-History from the Deterioration of the Roman Empire (1439 1453).\n"],
-['Neurologic manifestations include seizure, stroke, encephalitis, and
-Guillain Barr  syndrome (which includes loss of motor
-functions).[71][72] Following the infection, children may develop
-paediatric multisystem inflammatory syndrome, which has symptoms
-similar to Kawasaki disease, which can be fatal.[73][74] In very rare
-cases, acute encephalopathy can occur, and it can be considered in
-those who have been diagnosed with COVID 19 and have an altered mental
-status.[75]\n'], ['The first confirmed human infections were in Wuhan.
-A study of the first 41 cases of confirmed COVID 19, published in
-January 2020 in The Lancet, reported the earliest date of onset of
-symptoms as 1\xa0December 2019.[425][426][427] Official publications
-from the WHO reported the earliest onset of symptoms as 8\xa0December
-2019.[428] Human-to-human transmission was confirmed by the WHO and
-Chinese authorities by 20 January 2020.[429][430] According to
-official Chinese sources, these were mostly linked to the Huanan
-Seafood Wholesale Market, which also sold live animals.[431] In May
-2020, George Gao, the director of the CDC, said animal samples
-collected from the seafood market had tested negative for the virus,
-indicating that the market was the site of an early superspreading
-event, but that it was not the site of the initial outbreak.[432]
-Traces of the virus have been found in wastewater samples that were
-collected in Milan and Turin, Italy, on 18 December 2019.[433]\n'],
-['It is also assumed that those that are immunocompromised are at
-higher risk of getting severely sick from SARS-CoV-2.[310] One
-research study that looked into the COVID 19 infections in
-hospitalised kidney transplant recipients found a mortality rate of
-11%.[311]\n'], ["The mortality rate reflects the number of deaths
-within a specific demographic group divided by the population of that
-demographic group. Consequently, the mortality rate reflects the
-prevalence as well as the severity of the disease within a given
-population. Mortality rates are highly correlated to age, with
-relatively low rates for young people and relatively high rates among
-the elderly.[340][341][342] In fact, one relevant factor of mortality
-rates is the age structure of the countries' populations. For example,
-the case fatality rate for COVID 19 is lower in India than in the US
-since India's younger population represents a larger percentage than
-in the US.[343]\n"], ['The treatment and management of COVID-19
-combines both supportive care, which includes treatment to relieve
-symptoms, fluid therapy, oxygen support as needed,[258][259][260] and
-a growing list of approved medications. Highly effective vaccines have
-reduced mortality related to SARS-CoV-2; however, for those awaiting
-vaccination, as well as for the estimated millions of
-immunocompromised persons who are unlikely to respond robustly to
-vaccination, treatment remains important.[261]  Some people may
-experience persistent symptoms or disability after recovery from the
-infection, known as long COVID, but there is still limited information
-on the best management and rehabilitation for this
-condition.[262]\n'], ["\nThe traditional view focuses more on the
-Renaissance's early modern aspects and argues that it was a break from
-the past, but many historians today focus more on its medieval aspects
-and argue that it was an extension of the Middle Ages.[11][12] The
-beginnings of the period the early Renaissance of the 15th century and
-the Italian Proto-Renaissance from around 1250 or 1300 overlap
-considerably with the Late Middle Ages, conventionally dated to
-c.\u20091350 1500, and the Middle Ages themselves were a long period
-filled with gradual changes, like the modern age; as a transitional
-period between both, the Renaissance has close similarities to both,
-especially the late and early sub-periods of either."], ['Rather than
-a period with definitive beginnings and endings and consistent content
-in between, the Renaissance can be (and occasionally has been) seen as
-a movement of practices and ideas to which specific groups and
-identifiable persons variously responded in different times and
-places. It would be in this sense a network of diverse, sometimes
-converging, sometimes conflicting cultures, not a single, time-bound
-culture.[20]\n'], ['In all, the Renaissance can be viewed as an
-attempt by intellectuals to study and improve the secular and worldly,
-both through the revival of ideas from antiquity and through novel
-approaches to thought. Political philosopher Hans Kohn describes it as
-an age where "Men looked for new foundations"; some like Erasmus and
-Thomas More envisioned new reformed spiritual foundations, others. in
-the words of Machiavelli, una lunga sperienza delle cose moderne ed
-una continua lezione delle antiche (a long experience with modern life
-and a continuous learning from antiquity).[27]\n'], ['Linkin Park is
-among both the best-selling bands of the 21st century and the world\'s
-best-selling music artists, having sold over 100 million records
-worldwide.[5] They have won two Grammy Awards, six American Music
-Awards, two Billboard Music Awards, four MTV Video Music Awards, 10
-MTV Europe Music Awards, and three World Music Awards. In 2003, MTV2
-named Linkin Park the sixth-greatest band of the music video era and
-the third-best of the new millennium. Billboard ranked Linkin Park No.
-19 on the Best Artists of the Decade list. In 2012, the band was voted
-as the greatest artist of the 2000s in a Bracket Madness poll on VH1.
-In 2014, the band was declared as "The Biggest Rock Band in the World
-Right Now" by Kerrang!.\n']]
+'Matthias enjoyed the company of Humanists and had lively discussions
+on various topics with them. The fame of his magnanimity encouraged
+many scholars mostly Italian to settle in Buda. Antonio Bonfini,
+Pietro Ranzano, Bartolomeo Fonzio, and Francesco Bandini spent many
+years in Matthias\'s court. This circle of educated men introduced the
+ideas of Neoplatonism to Hungary. Like all intellectuals of his age,
+Matthias was convinced that the movements and combinations of the
+stars and planets exercised influence on individuals\' life and on the
+history of nations. Galeotto Marzio described him as "king and
+astrologer", and Antonio Bonfini said Matthias "never did anything
+without consulting the stars". Upon his request, the famous
+astronomers of the age, Johannes Regiomontanus and Marcin Bylica, set
+up an observatory in Buda and installed it with astrolabes and
+celestial globes. Regiomontanus dedicated his book on navigation that
+was used by Christopher Columbus to Matthias.\n', 'During the
+Renaissance, extending from 1450 to 1650, every continent was visited
+and mostly mapped by Europeans, except the south polar continent now
+known as Antarctica. This development is depicted in the large world
+map Nova Totius Terrarum Orbis Tabula made by the Dutch cartographer
+Joan Blaeu in 1648 to commemorate the Peace of Westphalia.\n',
+'Applied innovation extended to commerce. At the end of the 15th
+century, Luca Pacioli published the first work on bookkeeping, making
+him the founder of accounting.\n', 'In August 2020, the CDC issued a
+caution that tuberculosis (TB) infections could increase the risk of
+severe illness or death. The WHO recommended that people with
+respiratory symptoms be screened for both diseases, as testing
+positive for COVID 19 could not rule out co-infections. Some
+projections have estimated that reduced TB detection due to the
+pandemic could result in 6.3\xa0million additional TB cases and
+1.4\xa0million TB-related deaths by 2025.\n', 'The Italian artist and
+critic Giorgio Vasari (1511 1574) first used the term rinascita in his
+book The Lives of the Artists (published 1550). In the book Vasari
+attempted to define what he described as a break with the barbarities
+of Gothic art: the arts (he held) had fallen into decay with the
+collapse of the Roman Empire and only the Tuscan artists, beginning
+with Cimabue (1240 1301) and Giotto (1267 1337) began to reverse this
+decline in the arts. Vasari saw ancient art as central to the rebirth
+of Italian art.\n', 'In late 2019, the WHO assigned emergency ICD-10
+disease codes U07.1 for deaths from lab-confirmed SARS-CoV-2 infection
+and U07.2 for deaths from clinically or epidemiologically diagnosed
+COVID 19 without lab-confirmed SARS-CoV-2 infection.\n', 'On January
+11, 2011, an updated version of Download to Donate for Haiti was
+launched, called Download to Donate for Haiti V2.0, with more songs to
+download. For the updated compilation, the band released Keaton
+Hashimoto\'s remix of "The Catalyst" from the "Linkin Park featuring
+YOU" contest.\n', 'Other periods of cultural rebirth have also been
+termed "renaissances", such as the Bengal Renaissance, Tamil
+Renaissance, Nepal Bhasa renaissance, al-Nahda or the Harlem
+Renaissance. The term can also be used in cinema. In animation, the
+Disney Renaissance is a period that spanned the years from 1989 to
+1999 which saw the studio return to the level of quality not witnessed
+since their Golden Age of Animation. The San Francisco Renaissance was
+a vibrant period of exploratory poetry and fiction writing in that
+city in the mid-20th century.\n', 'Linkin Park has remained on hiatus
+since Bennington\'s death. During an Instagram live chat on December
+17, 2017, Shinoda was asked whether Linkin Park would perform with a
+hologram version of Bennington in the future. He replied, "Can we not
+do a holographic Chester? I can\'t even wrap my head around the idea
+of a holographic Chester. I\'ve actually heard other people outside
+the band suggest that, and there\'s absolutely no way. I cannot fuck
+with that."\n'

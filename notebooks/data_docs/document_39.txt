@@ -1,96 +1,90 @@
-[['According to scientific reviews smokers are more likely to require
-intensive care or die compared to non-smokers.[299][300] Acting on the
-same ACE2 pulmonary receptors affected by smoking, air pollution has
-been correlated with the disease.[300] Short-term[301] and
-chronic[302] exposure to air pollution seems to enhance morbidity and
-mortality from COVID 19.[303][304][305] Pre-existing heart and lung
-diseases[306] and also obesity, especially in conjunction with fatty
-liver disease, contributes to an increased health risk of COVID
-19.[300][307][308][309]\n'], ['The demographic decline due to the
-plague had economic consequences: the prices of food dropped and land
-values declined by 30 40% in most parts of Europe between 1350 and
-1400.[51] Landholders faced a great loss, but for ordinary men and
-women it was a windfall. The survivors of the plague found not only
-that the prices of food were cheaper but also that lands were more
-abundant, and many of them inherited property from their dead
-relatives.\n'], ['In February 2023, the band started an interactive
-game on their website teasing the 20th anniversary of Meteora.[233] On
-February 6, they revealed a previously unreleased demo "Lost" that was
-formally released on February 10, as the lead single from the reissue
-of the album, released on April 7.[234][235] The second single,
-"Fighting Myself" was released on March 24.[236]\n'], ['Some observers
-have questioned whether the Renaissance was a cultural "advance" from
-the Middle Ages, instead seeing it as a period of pessimism and
-nostalgia for classical antiquity,[19] while social and economic
-historians, especially of the longue dur e, have instead focused on
-the continuity between the two eras,[20] which are linked, as Panofsky
-observed, "by a thousand ties".[21][d]\n'], ['The vocal interplay
-between Chester Bennington and Mike Shinoda plays as a major part
-within Linkin Park\'s music, with Bennington being the lead vocalist
-and Shinoda as the rapping vocalist. On Linkin Park\'s third album,
-Minutes to Midnight, Shinoda sings lead vocals on "In Between", "Hands
-Held High", and on the B-side "No Roads Left". On numerous songs from
-band\'s fourth album, A Thousand Suns, such as the album\'s singles
-("The Catalyst", "Burning in the Skies", "Iridescent"), both Shinoda
-and Bennington sing. The album has been regarded as a turning point in
-the band\'s musical career, having a stronger emphasis on
-electronica.[287][288] James Montgomery, of MTV, compared the record
-to Radiohead\'s Kid A,[289] while Jordy Kasko of Review, Rinse, Repeat
-likened the album to both Kid A and Pink Floyd\'s landmark album The
-Dark Side of the Moon.[290] Shinoda stated that he and the other band
-members were deeply influenced by Chuck D and Public Enemy. He
-elaborated: "Public Enemy were very three-dimensional with their
-records because although they seemed political, there was a whole lot
-of other stuff going on in there too. It made me think how three-
-dimensional I wanted our record to be without imitating them of
-course, and show where we were at creatively".[291] One of the
-record\'s political elements is its samples of speeches by American
-political figures.[292] A Thousand Suns was described as trip
-hop,[293] electronic rock,[268][294] ambient,[293] alternative
-rock,[295] industrial rock,[273] experimental rock,[296] rap
-rock,[297] and progressive rock.[298]\n'], ['The virus can cause acute
-myocardial injury and chronic damage to the cardiovascular
-system.[137][138] An acute cardiac injury was found in 12% of infected
-people admitted to the hospital in Wuhan, China,[139] and is more
-frequent in severe disease.[140] Rates of cardiovascular symptoms are
-high, owing to the systemic inflammatory response and immune system
-disorders during disease progression, but acute myocardial injuries
-may also be related to ACE2 receptors in the heart.[138] ACE2
-receptors are highly expressed in the heart and are involved in heart
-function.[138][141]\n'], ['Living Things was released on June 26 in
-the United States.[129][130][131][132] The album sold over 223,000
-copies during its debut week, ranking No. 1 on the US Albums
-Charts.[141] Linkin Park\'s single "Castle of Glass" was nominated for
-\'Best Song in a Game\' at the 2012 Spike Video Game Awards.[142] The
-band also performed at the award ceremony on December 7, but lost the
-award to "Cities" by Beck.[142] Linkin Park also played at the
-Soundwave music festival in Australia, where they shared the stage
-with Metallica, Paramore, Blink-182, and Sum 41.[143][144]\n'], ['In
-addition to the standard periodization, proponents of a "long
-Renaissance" may put its beginning in the 14th century and its end in
-the 17th century.[c]\n'], ['One common symptom, loss of smell, results
-from infection of the support cells of the olfactory epithelium, with
-subsequent damage to the olfactory neurons.[124] The involvement of
-both the central and peripheral nervous system in COVID 19 has been
-reported in many medical publications.[125] It is clear that many
-people with COVID-19 exhibit neurological or mental health issues. The
-virus is not detected in the central nervous system (CNS) of the
-majority of COVID-19 patients with neurological issues. However, SARS-
-CoV-2 has been detected at low levels in the brains of those who have
-died from COVID 19, but these results need to be confirmed.[126] While
-virus has been detected in cerebrospinal fluid of autopsies, the exact
-mechanism by which it invades the CNS remains unclear and may first
-involve invasion of peripheral nerves given the low levels of ACE2 in
-the brain.[127][128][129] The virus may also enter the bloodstream
-from the lungs and cross the blood brain barrier to gain access to the
-CNS, possibly within an infected white blood cell.[126]\n'], ['A
-suitable environment had developed to question classical scientific
-doctrine. The discovery in 1492 of the New World by Christopher
-Columbus challenged the classical worldview. The works of Ptolemy (in
-geography) and Galen (in medicine) were found to not always match
-everyday observations. As the Reformation and Counter-Reformation
-clashed, the Northern Renaissance showed a decisive shift in focus
-from Aristotelean natural philosophy to chemistry and the biological
-sciences (botany, anatomy, and medicine).[73] The willingness to
-question previously held truths and search for new answers resulted in
-a period of major scientific advancements.\n']]
+"Even cities and states beyond central Italy, such as the Republic of
+Florence at this time, were also notable for their merchant republics,
+especially the Republic of Venice. Although in practice these were
+oligarchical, and bore little resemblance to a modern democracy, they
+did have democratic features and were responsive states, with forms of
+participation in governance and belief in liberty. The relative
+political freedom they afforded was conducive to academic and artistic
+advancement. Likewise, the position of Italian cities such as Venice
+as great trading centres made them intellectual crossroads. Merchants
+brought with them ideas from far corners of the globe, particularly
+the Levant. Venice was Europe's gateway to trade with the East, and a
+producer of fine glass, while Florence was a capital of textiles. The
+wealth such business brought to Italy meant large public and private
+artistic projects could be commissioned and individuals had more
+leisure time for study.\n", 'In literature the later part of the 16th
+century saw the flowering of Elizabethan literature, with poetry
+heavily influenced by Italian Renaissance literature but Elizabethan
+theatre a distinctive native style. Writers include William
+Shakespeare (1564 1616), Christopher Marlowe (1564 1593), Edmund
+Spenser (1552 599), Sir Thomas More (1478 1535), and Sir Philip Sidney
+(1554 1586). English Renaissance music competed with that in Europe
+with composers such as Thomas Tallis (1505 1585), John Taverner (1490
+1545), and William Byrd (1540 1623).  Elizabethan architecture
+produced the large prodigy houses of courtiers, and in the next
+century Inigo Jones (1573 1652), who introduced Italianate
+architecture to England.\n', 'Matthias enjoyed the company of
+Humanists and had lively discussions on various topics with them. The
+fame of his magnanimity encouraged many scholars mostly Italian to
+settle in Buda. Antonio Bonfini, Pietro Ranzano, Bartolomeo Fonzio,
+and Francesco Bandini spent many years in Matthias\'s court. This
+circle of educated men introduced the ideas of Neoplatonism to
+Hungary. Like all intellectuals of his age, Matthias was convinced
+that the movements and combinations of the stars and planets exercised
+influence on individuals\' life and on the history of nations.
+Galeotto Marzio described him as "king and astrologer", and Antonio
+Bonfini said Matthias "never did anything without consulting the
+stars". Upon his request, the famous astronomers of the age, Johannes
+Regiomontanus and Marcin Bylica, set up an observatory in Buda and
+installed it with astrolabes and celestial globes. Regiomontanus
+dedicated his book on navigation that was used by Christopher Columbus
+to Matthias.\n', 'In 1495 the Italian Renaissance arrived in France,
+imported by King Charles VIII after his invasion of Italy. A factor
+that promoted the spread of secularism was the inability of the Church
+to offer assistance against the Black Death. Francis I imported
+Italian art and artists, including Leonardo da Vinci, and built ornate
+palaces at great expense. Writers such as Fran ois Rabelais, Pierre de
+Ronsard, Joachim du Bellay, and Michel de Montaigne, painters such as
+Jean Clouet, and musicians such as Jean Mouton also borrowed from the
+spirit of the Renaissance.\n', 'In the 15th century, the Renaissance
+spread rapidly from its birthplace in Florence to the rest of Italy
+and soon to the rest of Europe. The invention of the printing press by
+German printer Johannes Gutenberg allowed the rapid transmission of
+these new ideas. As it spread, its ideas diversified and changed,
+being adapted to local culture. In the 20th century, scholars began to
+break the Renaissance into regional and national movements.\n', 'Since
+the late 1990s, there has been a growing sentiment in popular culture
+and in academia that postmodernism "has gone out of fashion". Others
+argue that postmodernism is dead in the context of current cultural
+production.\n', 'While very young children have experienced lower
+rates of infection, older children have a rate of infection that is
+similar to the population as a whole. Children are likely to have
+milder symptoms and are at lower risk of severe disease than adults.
+The CDC reports that in the US roughly a third of hospitalised
+children were admitted to the ICU, while a European multinational
+study of hospitalised children from June 2020, found that about 8% of
+children admitted to a hospital needed intensive care. Four of the 582
+children (0.7%) in the European study died, but the actual mortality
+rate may be "substantially lower" since milder cases that did not seek
+medical help were not included in the study.\n', 'Modern Architecture,
+as established and developed by Walter Gropius and Le Corbusier, was
+focused on:\n', 'Shinoda designed two T-shirts, in which the proceeds
+would go to Music for Relief to help the victims of the 2011 T hoku
+earthquake and tsunami disasters. Music for Relief released Download
+to Donate: Tsunami Relief Japan, another compilation of songs, in
+which the proceeds would go to Save the Children. The band released
+the song titled as "Issho Ni", meaning "we\'re in this together", on
+March 22, 2011, via Download to Donate: Tsunami Relief Japan.\n', 'The
+first COVID 19 vaccine was granted regulatory approval on
+2\xa0December 2020 by the UK medicines regulator MHRA. It was
+evaluated for emergency use authorisation (EUA) status by the US FDA,
+and in several other countries. Initially, the US National Institutes
+of Health guidelines do not recommend any medication for prevention of
+COVID 19, before or after exposure to the SARS-CoV-2 virus, outside
+the setting of a clinical trial. Without a vaccine, other prophylactic
+measures, or effective treatments, a key part of managing COVID 19 is
+trying to decrease and delay the epidemic peak, known as "flattening
+the curve". This is done by slowing the infection rate to decrease the
+risk of health services being overwhelmed, allowing for better
+treatment of active cases, and delaying additional cases until
+effective treatments or a vaccine become available.\n'

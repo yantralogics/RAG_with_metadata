@@ -1,97 +1,94 @@
-[['In July 2011, Bennington told Rolling Stone that Linkin Park aims
-to produce a new album every eighteen months, and that he would be
-shocked if a new album did not come out in 2012.[123][124] He later
-revealed in another interview in September 2011 that the band was
-still in the beginning phases of the next album, saying "We just kind
-of began. We like to keep the creative juices flowing, so we try to
-keep that going all the time\xa0... we like the direction that we\'re
-going in".[125] On March 28, 2012, Shinoda confirmed that the band is
-filming a music video for "Burn It Down",[126] directed by Joe
-Hahn.[127] Shinoda spoke to Co.Create about the album\'s art, saying
-that it will "blow them [the fans] away\xa0... the average person is
-not going to be able to look at it and go, I understand that that\'s
-completely new, like not just the image but the way they made the
-image is totally new. So there\'s going to be that".[128]\n'], ['COVID
-19 can provisionally be diagnosed on the basis of symptoms and
-confirmed using reverse transcription polymerase chain reaction (RT-
-PCR) or other nucleic acid testing of infected secretions.[21][166]
-Along with laboratory testing, chest CT scans may be helpful to
-diagnose COVID 19 in individuals with a high clinical suspicion of
-infection.[167] Detection of a past infection is possible with
-serological tests, which detect antibodies produced by the body in
-response to the infection.[21]\n'], ["The band continued to explore a
-wider variation of musical types on their fourth album, A Thousand
-Suns (2010), layering their music with more electronic sounds. The
-band's fifth album, Living Things (2012), combined musical elements
-from all of their previous records. Their sixth album, The Hunting
-Party (2014), returned to a heavier rock sound, while their seventh
-album, One More Light (2017), was a substantially more pop-oriented
-record. Linkin Park went on an indefinite hiatus following the suicide
-of longtime lead vocalist Bennington in July 2017. In April 2022,
-Shinoda revealed the band was neither working on new music nor
-planning on touring in the foreseeable future. Since Bennington's
-death, they have only released 20th-anniversary editions of their
-first two studio albums, as well as a greatest hits album, Papercuts,
-in 2024.\n"], ['The SARS-CoV-2 virus can infect a wide range of cells
-and systems of the body. COVID 19 is most known for affecting the
-upper respiratory tract (sinuses, nose, and throat) and the lower
-respiratory tract (windpipe and lungs).[119] The lungs are the organs
-most affected by COVID 19 because the virus accesses host cells via
-the receptor for the enzyme angiotensin-converting enzyme 2 (ACE2),
-which is most abundant on the surface of type II alveolar cells of the
-lungs.[120] The virus uses a special surface glycoprotein called a
-"spike" to connect to the ACE2 receptor and enter the host
-cell.[121]\n'], ['In February 2021, the FDA issued an emergency use
-authorisation (EUA) for bamlanivimab and etesevimab administered
-together for the treatment of mild to moderate COVID 19 in people
-twelve years of age or older weighing at least 40 kilograms (88\xa0lb)
-who test positive for SARS CoV 2 and who are at high risk for
-progressing to severe COVID 19. The authorised use includes treatment
-for those who are 65 years of age or older or who have certain chronic
-medical conditions.[511]\n'], ['Early mention of postmodernism as an
-element of graphic design appeared in the British magazine,
-"Design".[42] A characteristic of postmodern graphic design is that
-"retro, techno, punk, grunge, beach, parody, and pastiche were all
-conspicuous trends. Each had its own sites and venues, detractors and
-advocates."[43]\n'], ['Meteora earned the band multiple awards and
-honors. The band won the MTV awards for Best Rock Video for "Somewhere
-I Belong"[48][49] and the Viewer\'s Choice Award for "Breaking the
-Habit".[50] Linkin Park also received significant recognition during
-the 2004 Radio Music Awards, winning the Artist of the Year and Song
-of the Year ("Numb") awards.[51] Although Meteora was not nearly as
-successful as Hybrid Theory, it was the third best selling album in
-the United States during 2003.[10] The band spent the first few months
-of 2004 touring around the world, first with the third Projekt
-Revolution tour, and later several European concerts.[10] At the same
-time, the band\'s relationship with Warner Bros. Records was
-deteriorating rapidly on account of several trust and financial
-issues.[52] After months of feuding, the band finally negotiated a
-deal in December 2005.[53]\n'], ['Thorough hand hygiene after any
-cough or sneeze is required.[232] The WHO also recommends that
-individuals wash hands often with soap and water for at least twenty
-seconds, especially after going to the toilet or when hands are
-visibly dirty, before eating and after blowing one\'s nose.[233] When
-soap and water are not available, the CDC recommends using an alcohol-
-based hand sanitiser with at least 60% alcohol.[234] For areas where
-commercial hand sanitisers are not readily available, the WHO provides
-two formulations for local production. In these formulations, the
-antimicrobial activity arises from ethanol or isopropanol. Hydrogen
-peroxide is used to help eliminate bacterial spores in the alcohol; it
-is "not an active substance for hand antisepsis". Glycerol is added as
-a humectant.[235]\n'], ['Jean-Fran ois Lyotard is credited with being
-the first to use the term "postmodern" in a philosophical context, in
-his 1979 work The Postmodern Condition: A Report on Knowledge. In it,
-he follows Wittgenstein\'s language games model and speech act theory,
-contrasting two different language games, that of the expert, and that
-of the philosopher. He talks about the transformation of knowledge
-into information in the computer age and likens the transmission or
-reception of coded messages (information) to a position within a
-language game.[3]\n'], ['Many groups have created COVID 19 datasets
-that include imagery such as the Italian Radiological Society which
-has compiled an international online database of imaging findings for
-confirmed cases.[183] Due to overlap with other infections such as
-adenovirus, imaging without confirmation by rRT-PCR is of limited
-specificity in identifying COVID 19.[182] A large study in China
-compared chest CT results to PCR and demonstrated that though imaging
-is less specific for the infection, it is faster and more
-sensitive.[166]\n']]
+'The rediscovery of ancient texts and the invention of the printing
+press in about 1440 democratized learning and allowed a faster
+propagation of more widely distributed ideas. In the first period of
+the Italian Renaissance, humanists favored the study of humanities
+over natural philosophy or applied mathematics, and their reverence
+for classical sources further enshrined the Aristotelian and Ptolemaic
+views of the universe. Writing around 1450, Nicholas Cusanus
+anticipated the heliocentric worldview of Copernicus, but in a
+philosophical fashion.\n', 'The paintings of the Italian Renaissance
+differed from those of the Northern Renaissance. Italian Renaissance
+artists were among the first to paint secular scenes, breaking away
+from the purely religious art of medieval painters. Northern
+Renaissance artists initially remained focused on religious subjects,
+such as the contemporary religious upheaval portrayed by Albrecht D
+rer. Later, the works of Pieter Bruegel influenced artists to paint
+scenes of daily life rather than religious or classical themes. It was
+also during the Northern Renaissance that Flemish brothers Hubert and
+Jan van Eyck perfected the oil painting technique, which enabled
+artists to produce strong colors on a hard surface that could survive
+for centuries. A feature of the Northern Renaissance was its use of
+the vernacular in place of Latin or Greek, which allowed greater
+freedom of expression. This movement had started in Italy with the
+decisive influence of Dante Alighieri on the development of vernacular
+languages; in fact the focus on writing in Italian has neglected a
+major source of Florentine ideas expressed in Latin. The spread of the
+printing press technology boosted the Renaissance in Northern Europe
+as elsewhere, with Venice becoming a world center of printing.\n',
+'Chest CT scans may be helpful to diagnose COVID 19 in individuals
+with a high clinical suspicion of infection but are not recommended
+for routine screening. Bilateral multilobar ground-glass opacities
+with a peripheral, asymmetric, and posterior distribution are common
+in early infection. Subpleural dominance, crazy paving (lobular septal
+thickening with variable alveolar filling), and consolidation may
+appear as the disease progresses. Characteristic imaging features on
+chest radiographs and computed tomography (CT) of people who are
+symptomatic include asymmetric peripheral ground-glass opacities
+without pleural effusions.\n', 'It is also assumed that those that are
+immunocompromised are at higher risk of getting severely sick from
+SARS-CoV-2. One research study that looked into the COVID 19
+infections in hospitalised kidney transplant recipients found a
+mortality rate of 11%.\n', 'Humans appear to be capable of spreading
+the virus to some other animals, a type of disease transmission
+referred to as zooanthroponosis.\n', "Even cities and states beyond
+central Italy, such as the Republic of Florence at this time, were
+also notable for their merchant republics, especially the Republic of
+Venice. Although in practice these were oligarchical, and bore little
+resemblance to a modern democracy, they did have democratic features
+and were responsive states, with forms of participation in governance
+and belief in liberty. The relative political freedom they afforded
+was conducive to academic and artistic advancement. Likewise, the
+position of Italian cities such as Venice as great trading centres
+made them intellectual crossroads. Merchants brought with them ideas
+from far corners of the globe, particularly the Levant. Venice was
+Europe's gateway to trade with the East, and a producer of fine glass,
+while Florence was a capital of textiles. The wealth such business
+brought to Italy meant large public and private artistic projects
+could be commissioned and individuals had more leisure time for
+study.\n", 'Following Meteora\'s success, the band worked on many side
+projects. Bennington appeared on DJ Lethal\'s "State of the Art" and
+other work with Dead by Sunrise, while Shinoda did work with Depeche
+Mode, creating the remix song "Enjoy the Silence 04". In 2004, the
+band began to work with Jay-Z to produce another remix album, titled
+Collision Course. The album, which featured intermixed lyrics and
+background tracks from both artists\' previous albums, debuted in
+November 2004. Shinoda also formed Fort Minor as a side project. With
+the aid of Jay-Z, Fort Minor released their debut album, The Rising
+Tied, to critical acclaim.\n', 'In terms of hospital readmissions
+about 9% of 106,000 individuals had to return for hospital treatment
+within two months of discharge. The average to readmit was eight days
+since first hospital visit. There are several risk factors that have
+been identified as being a cause of multiple admissions to a hospital
+facility. Among these are advanced age (above 65 years of age) and
+presence of a chronic condition such as diabetes, COPD, heart failure
+or chronic kidney disease.\n', 'During this time, Linkin Park received
+many invitations to perform on many high-profile tours and concerts
+including Ozzfest, Family Values Tour, and KROQ Almost Acoustic
+Christmas. The band worked with Jessica Sklar to found their official
+fan club and street team, "Linkin Park Underground", in November 2001.
+Linkin Park also formed their own tour, Projekt Revolution, which
+featured other artists such as Cypress Hill, Adema, and Snoop Dogg.
+Within a year\'s stretch, Linkin Park had performed at over 320
+concerts. The experiences and performances of the precocious band were
+documented in their first DVD, Frat Party at the Pankake Festival,
+which debuted in November 2001. Now reunited with former bassist
+Phoenix, the band began work on a remix album, dubbed Reanimation,
+which would include works from Hybrid Theory and non-album tracks.
+Reanimation debuted on July 30, 2002, featuring the likes of Black
+Thought, Jonathan Davis, Aaron Lewis, and many others. Reanimation
+claimed the second spot on the Billboard 200, and sold nearly 270,000
+copies during its debut week. Hybrid Theory is also in the RIAA\'s Top
+100 Albums.\n', 'Historian Leon Poliakov offers a critical view in his
+seminal study of European racist thought: The Aryan Myth.  According
+to Poliakov, the use of ethnic origin myths are first used by
+Renaissance humanists "in the service of a new born chauvinism".\n'
